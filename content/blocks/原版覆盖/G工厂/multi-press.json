@@ -1,0 +1,10 @@
+{
+	"research": {
+		"parent": "silicon-smelter",
+		"objectives": [
+            {
+				"type": "SectorComplete",
+				"preset": "超限工艺-真菌通道"
+			}
+			]}
+}

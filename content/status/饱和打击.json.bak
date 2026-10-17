@@ -1,0 +1,25 @@
+{
+"name":"饱和打击",
+	"damageMultiplier":0.7
+	"healthMultiplier":0.9
+	"speedMultiplier":0.9
+	"reloadMultiplier":2
+"effectChance": 0.1,
+	"effect": {
+		"type": "ParticleEffect",
+		"particles": 2,
+		"lifetime": 20,
+		"line": true,
+		"length": 0.01,
+		"strokeFrom": 2,
+		"strokeTo": 0,
+		"lenFrom": 16,
+		"lenTo": 16,
+		"colorTo": "E55648"
+	}
+	"opposites": [
+	"饱和打击"
+	"闪电突袭"
+	"弹性防御"
+	],
+}

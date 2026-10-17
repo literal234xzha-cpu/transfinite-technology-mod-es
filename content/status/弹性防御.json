@@ -1,0 +1,25 @@
+{
+"name":"弹性防御",
+	"damageMultiplier":0.9
+	"healthMultiplier":2
+	"speedMultiplier":0.7
+	"reloadMultiplier":0.7
+	"damage":-0.2
+"effectChance": 0.1,
+	"effect": {
+		"type": "ParticleEffect",
+		"particles": 2,
+		"lifetime": 20,
+		"line": true,
+		"length": 0.01,
+		"strokeFrom": 2,
+		"strokeTo": 0,
+		"lenFrom": 16,
+		"lenTo": 16,
+		"colorTo": "B1BAC1"
+	}
+	"opposites": [
+	"饱和打击"
+	"闪电突袭"
+	],
+}

@@ -1,0 +1,13 @@
+{
+"maxBoost":20
+"placeableLiquid":true
+/*"research": {
+	"parent":"water-extractor"
+	"objectives": [
+            {
+				"type": "OnSector",
+				"preset": "超限工艺-tarFields"
+			}
+	]
+	}*/
+}

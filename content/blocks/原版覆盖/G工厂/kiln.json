@@ -1,0 +1,11 @@
+{
+"research": {
+	"parent":"silicon-smelter"
+	"objectives": [
+            {
+				"type": "OnSector",
+				"preset": "超限工艺-陨石带"
+			}
+	]
+	}
+}

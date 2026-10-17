@@ -1,0 +1,11 @@
+{
+	"research": {
+		"parent": "graphite-press",
+		"objectives": [
+            {
+				"type": "OnSector",
+				"preset": "超限工艺-冰冻森林"
+			}
+			]}
+			"researchCostMultiplier":0.5
+}

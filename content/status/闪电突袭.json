@@ -1,0 +1,24 @@
+{
+"name":"闪电突袭",
+	"damageMultiplier":2
+	"healthMultiplier":0.75
+	"speedMultiplier":1.5
+	"reloadMultiplier":0.5
+"effectChance": 0.1,
+	"effect": {
+		"type": "ParticleEffect",
+		"particles": 2,
+		"lifetime": 20,
+		"line": true,
+		"length": 0.01,
+		"strokeFrom": 2,
+		"strokeTo": 0,
+		"lenFrom": 16,
+		"lenTo": 16,
+		"colorTo": "B1BAC1"
+	}
+	"opposites": [
+	"饱和打击"
+	"弹性防御"
+	],
+}

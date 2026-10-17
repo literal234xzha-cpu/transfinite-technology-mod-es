@@ -1,0 +1,175 @@
+{
+    "type": "mech",
+    "name":"电光"
+    "description": "以火花为基础研究出的特殊自爆单元，移动速度快，自杀式攻击，自爆会产生瘫痪敌军的EMP电波，对电器伤害加倍，特殊改造的外壳让他可以免疫绝大多数buff\n\n[blue][超限技术作战中机甲]",
+    "immunities": [
+		"shocked","electrified","slow","freezing","burning","spore-slowed","脆裂","甲板损坏"
+	],
+    "speed": 0.9
+    "hitSize": 18
+    "health": 1860,
+    	"rotateSpeed": 2.1
+    	"ammoType":"copper",
+	"ammoCapacity": 300,
+        "targetAir":false,  
+    "targetGround":true,
+    "hovering":true
+    "armor":8
+    "itemCapacity": 5
+    "healColor": "c0ecff"
+  "shieldColor": "c0ecff"
+    "parts": [
+		{
+			"type": "HoverPart",//悬浮特效
+			"layerOffset": -1,//图层偏移
+			"mirror": true,//镜像对称
+			"x": 12,//X位置
+			"y": 12,//Y位置
+			"radius": 15,//大小
+			"color": "1878BF",//颜色
+			"phase": 100,//相位，初始角度
+			"circles": 2,//圈子界限
+			"stroke": 2,//粗细
+			"minStroke": 0//最小粗细
+		}
+		{
+			"type": "HoverPart",//悬浮特效
+			"layerOffset": -1,//图层偏移
+			"mirror": false,//镜像对称
+			"x": 0,//X位置
+			"y": 0,//Y位置
+			"radius": 40,//大小
+			"color": "c0ecff",//颜色
+			"phase": 100,//相位，初始角度
+			"circles": 2,//圈子界限
+			"stroke": 2,//粗细
+			"minStroke": 0//最小粗细
+		}
+		{
+			"type": "HoverPart",//悬浮特效
+			"layerOffset": -1,//图层偏移
+			"mirror": true,//镜像对称
+			"x": 12,//X位置
+			"y": -12,//Y位置
+			"radius": 15,//大小
+			"color": "1878BF",//颜色
+			"phase": 100,//相位，初始角度
+			"circles": 2,//圈子界限
+			"stroke": 2,//粗细
+			"minStroke": 0//最小粗细
+		}
+		]
+    "weapons": [
+   {	"name": "无",	
+		"reload": 10, 
+		"x": 0,  "y": 0, 
+		"rotate": false,
+		"shootCone":360,
+		"ejectEffect":"none",
+		"shootSound":"explosionbig",
+		"mirror":false,
+		"inaccuracy": 0,
+		"alternate": true,
+		"shootOnDeath":true,
+		"bullet":{
+		"lightningDamage":12,
+            "lightningColor": "c0ecffFF",
+    "lightning":5
+    "lightningLength":18
+		"killShooter":true,
+		"splashDamageRadius":48,
+		"instantDisappear":true,
+		"collides": false,
+		"splashDamage":124,
+		"speed":1,"lifetime":10,
+		"hitEffect":"massiveExplosion",
+		"despawnEffect":{"type": "MultiEffect",
+			"effects": [
+			{"type": "ParticleEffect",
+			"particles": 18,
+			"sizeFrom": 6,
+			"sizeTo": 0,
+			"length": 45,
+			"baseLength": 3,
+			"lifetime": 35,
+			"colorFrom": "c0ecff",
+			"colorTo": "c0ecff",
+			"cone": 360},
+			{"type": "ParticleEffect",
+			"particles": 32,
+			"line":true,
+			"sizeFrom": 9,
+			"sizeTo": 0,
+			"length": 53,
+			"baseLength": 20,
+			"lifetime": 22,
+			"colorFrom": "c0ecff",
+			"colorTo": "c0ecff",
+			"cone": 360},
+			{"type": "WaveEffect",
+			"lifetime": 15,
+			"sizeFrom": 0,
+			"sizeTo": 70,
+			"strokeFrom": 4,
+			"strokeTo": 0,
+			"colorFrom": "c0ecff",
+			"colorTo": "c0ecff"}]},
+		"width":0,	 "height":0
+		"fragBullets":5
+        "fragBullet":{
+        "lightningDamage":9,
+            "lightningColor": "c0ecffFF",
+    "lightning":3
+    "lightningLength":6,
+		"splashDamageRadius":24,
+		"splashDamage":36,
+		"speed":6,"lifetime":10,
+		"hitEffect":"massiveExplosion",
+		"fragBullets":1
+        "fragBullet":{
+        "type": "EmpBulletType",
+				"timeIncrease": 0,//己方建筑加速倍率
+				"collidesTiles": "false",//碰撞方块
+				"collidesTeam": "false"//碰撞自己的队友
+				"timeDuration": 600,//加速持续时间
+				"powerDamageScl": 10,//敌方电器损坏倍率
+				"powerSclDecrease": 0.75,//敌方电器功率下降倍率
+				"buildingDamageMultiplier": 2
+				"radius": 28,
+				"pierce": true,//穿透单位
+				"splashDamageRadius": 16,
+				"splashDamage": 12,
+				"width": 0,
+				"height": 0,
+				"damage": 10,
+				"keepVelocity": true,
+				"trailEffect": "none",
+				"backColor": "c0ecff",
+				"frontColor": "c0ecff",
+				"instantDisappear": true,//瞬间消失
+				"hitSound": "plasmaboom",
+				"despawnEffect": "hitEmpSpark"
+				"hitPowerEffect": {
+					"type":"WrapEffect",
+					"effect":"dynamicSpikes",
+					"color":"c0ecff",
+					"rotation":8
+				},
+		    	"applyEffect": "none"
+		    	"hitEffect": "none"
+		    	"shootEffect": "none"
+        }
+        }
+	   }
+	   	}
+    ]
+    /*"research": {
+	"parent":"uAABT1H火花"
+	"objectives": [
+            {
+				"type": "SectorComplete",
+				"preset": "saltflats"
+			}
+	]
+	}*/
+}
