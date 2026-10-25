@@ -1,0 +1,13 @@
+{
+"maxBoost":20
+"placeableLiquid":true
+"research": {
+	"parent":"pneumatic-drill"
+	"objectives": [
+            {
+				"type": "SectorComplete",
+				"preset": "盐碱荒滩"
+			}
+	]
+	}
+}

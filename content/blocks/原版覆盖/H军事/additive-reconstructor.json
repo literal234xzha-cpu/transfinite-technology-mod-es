@@ -1,0 +1,11 @@
+{
+"research": {
+	"parent":"ground-factory"
+	"objectives": [
+            {
+				"type": "OnSector",
+				"preset": "真菌通道"
+			}
+	]
+	}
+}

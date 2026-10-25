@@ -1,0 +1,16 @@
+{
+"requirements": [
+{ "item": "thorium", "amount": 75 }
+{ "item": "lead", "amount":100},
+{ "item": "silicon", "amount":120},
+{ "item": "metaglass", "amount": 40 }
+	]
+	/*"research": {
+		"parent": "plastanium-compressor",
+		"objectives": [
+            {
+				"type": "SectorComplete",
+				"preset": "超限工艺-tarFields"
+			}
+			]}*/
+}

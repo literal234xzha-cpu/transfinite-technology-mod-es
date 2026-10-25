@@ -1,0 +1,14 @@
+{
+"name": "集装箱",
+"description": "拆掉之后可以获得对应材料。\n\n[战役特殊建筑]\n\n地图放置的时候注意计算好回收比例。",
+"type": "Wall",
+"health": 360,
+"size": 1,
+//"insulated":true,//绝缘
+"requirements": [
+{ "item": "titanium", "amount": 500} 
+],
+"category":"logic",
+"buildCostMultiplier": 0.001
+"buildVisibility":"campaignOnly"
+}

@@ -1,0 +1,11 @@
+{
+"research": {
+	"parent":"pneumatic-drill"
+	"objectives": [
+            {
+				"type": "OnSector",
+				"preset": "工业区0032"
+			}
+	]
+	}
+}

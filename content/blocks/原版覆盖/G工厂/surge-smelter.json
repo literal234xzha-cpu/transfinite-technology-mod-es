@@ -1,0 +1,18 @@
+{
+"requirements": [
+{ "item": "lead", "amount":40},
+{ "item": "silicon", "amount":60},
+{ "item": "plastanium", "amount":40},
+{ "item": "thorium", "amount": 55 }
+{ "item": "phase-fabric", "amount":25},
+	]
+/*"research": {
+	"parent":"melter"
+	"objectives": [
+            {
+				"type": "SectorComplete",
+				"preset": "超限工艺-extractionOutpost"
+			}
+	]
+	}*/
+}

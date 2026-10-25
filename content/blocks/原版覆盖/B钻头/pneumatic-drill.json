@@ -1,0 +1,11 @@
+{
+"research": {
+	"parent":"mechanical-drill"
+	"objectives": [
+            {
+				"type": "OnSector",
+				"preset": "冰冻森林"
+			}
+	]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"research": {
+		"parent": "melter",
+		"objectives": [
+            {
+				"type": "SectorComplete",
+				"preset": "废弃研究所"
+			}
+			]}
+}

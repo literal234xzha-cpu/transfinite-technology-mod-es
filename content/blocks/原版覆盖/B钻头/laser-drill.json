@@ -1,0 +1,18 @@
+{
+"requirements": [
+{"item": "copper", "amount": 45  },
+{ "item": "titanium", "amount": 25 }
+{ "item": "graphite", "amount":30},
+{ "item": "silicon", "amount":20},
+{ "item": "metaglass", "amount": 30 }
+	]
+	"research": {
+	"parent":"pneumatic-drill"
+	"objectives": [
+            {
+				"type": "OnSector",
+				"preset": "遗迹海滩"
+			}
+	]
+	}
+}

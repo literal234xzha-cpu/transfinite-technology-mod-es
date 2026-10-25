@@ -1,0 +1,13 @@
+{
+"immunities": ["甲板损坏"
+	],
+	"research": {
+        "parent":"crawler"
+	"objectives": [
+            {
+				"type": "SectorComplete",
+				"preset": "真菌通道"
+			}
+	]
+    }
+	}
