@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
 "name":"Trueno",
-"description":"\n\n[azul][Batería de tecnología de superlímite]",
+"description":"\n\n[blue][Batería de tecnología de superlímite]",
 "health":72460,
 "size":6
 "reload":10

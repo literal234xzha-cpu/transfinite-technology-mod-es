@@ -2,7 +2,7 @@
 "type":"GenericCrafter",
 "name":"Compresor de grafito profesional",
 "health":1040,
-"description":"El grafito se procesa profesionalmente, lo que aumenta en gran medida la producción. Al mismo tiempo, necesita un mayor suministro de artículos para que funcione normalmente. \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
+"description":"El grafito se procesa profesionalmente, lo que aumenta en gran medida la producción. Al mismo tiempo, necesita un mayor suministro de artículos para que funcione normalmente. \ n \ n [blue] [Fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"graphite","amount":6},
 "updateEffect":"pulverizeMedium",
 "craftEffect":"blastsmoke"

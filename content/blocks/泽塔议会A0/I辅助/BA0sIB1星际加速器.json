@@ -1,6 +1,6 @@
 {
 "name":"Acelerador interestelar"
-	"description":"El exceso de velocidad de un bloque completo de edificios es extremadamente costoso y enorme, y requiere una gran cantidad de refrigerante para mantener su funcionamiento normal. \n[rojo][Exceso de velocidad en el Parlamento Zeta]",
+	"description":"El exceso de velocidad de un bloque completo de edificios es extremadamente costoso y enorme, y requiere una gran cantidad de refrigerante para mantener su funcionamiento normal. \n[red][Exceso de velocidad en el Parlamento Zeta]",
 	"details":"[red]MADE IN HEAVEN",
 	"type": "OverdriveProjector",
 	"health": 120000,

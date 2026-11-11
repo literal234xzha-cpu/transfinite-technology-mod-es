@@ -1,7 +1,7 @@
 {
     "type": "ShockMine",
     "name": "Minas de explosión magnética",
-    "description": "Para hacer frente a las fascinantes tropas del grupo, mejoramos las minas de arco originales y finalmente creamos la versión mark2 de este gadget que permitirá que los fantasmas del grupo mueran bajo su horrible explosión. ----------.---------------- 0078 Registro de combate real \ n Desafortunadamente, este dispositivo no tiene demasiado éxito, el costo es demasiado alto y la estructura es demasiado complicada, lo que resulta en un tiempo de diseño más largo. Es mejor no darse cuenta. Disposición. \n[rojo][Minas del Parlamento Zeta]"
+    "description": "Para hacer frente a las fascinantes tropas del grupo, mejoramos las minas de arco originales y finalmente creamos la versión mark2 de este gadget que permitirá que los fantasmas del grupo mueran bajo su horrible explosión. ----------.---------------- 0078 Registro de combate real \ n Desafortunadamente, este dispositivo no tiene demasiado éxito, el costo es demasiado alto y la estructura es demasiado complicada, lo que resulta en un tiempo de diseño más largo. Es mejor no darse cuenta. Disposición. \n[red][Minas del Parlamento Zeta]"
 "details":"Caro y aterrador",
     "health": 900,
     "hasShadow":false

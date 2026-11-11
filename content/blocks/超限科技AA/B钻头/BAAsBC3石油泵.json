@@ -1,6 +1,6 @@
 {
 "name":"Máquina de extracción de petróleo",
-"description":"Capaz de cavar una pequeña cantidad de petróleo desde las profundidades. \n\n[azul][Extractor de tecnología de superlímite]",
+"description":"Capaz de cavar una pequeña cantidad de petróleo desde las profundidades. \n\n[blue][Extractor de tecnología de superlímite]",
 "type":"SolidPump",
 "health":350,
 "size":2,

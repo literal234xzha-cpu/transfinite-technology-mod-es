@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
 "name":"Rueda de luz",
-"description":"El grupo de exceso de límite creó un cañón láser más poderoso basado en el cañón Lancer. Es rápido de aire a tierra, pero el daño no es alto. \n\n[azul][Batería de tecnología de superlímite]",
+"description":"El grupo de exceso de límite creó un cañón láser más poderoso basado en el cañón Lancer. Es rápido de aire a tierra, pero el daño no es alto. \n\n[blue][Batería de tecnología de superlímite]",
 "targetAir":true,
 "targetGround":true,
 "health":480,

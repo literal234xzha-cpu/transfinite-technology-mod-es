@@ -1,8 +1,8 @@
 {
 "type":"ItemTurret",
 "name":"La sentencia de muerte",
-"description":"Potentes cañones de riel, disparando a objetivos individuales de larga distancia. Las balas mejoradas se pueden dispersar. \ N \ n \ n[cyan] &quot;Cuando se usa tela como munición, el alcance es muy largo, incluso más que el misil promedio. ¿Pero a quién le importa esto?&quot; \ N [rojo] y mi aislamiento de acero, vamos \ n \ n [rojo] [Fuerte del Parlamento Zeta]",
-"details":"[Rojo] Boom",
+"description":"Potentes cañones de riel, disparando a objetivos individuales de larga distancia. Las balas mejoradas se pueden dispersar. \ N \ n \ n[cyan] &quot;Cuando se usa tela como munición, el alcance es muy largo, incluso más que el misil promedio. ¿Pero a quién le importa esto?&quot; \ N [red] y mi aislamiento de acero, vamos \ n \ n [red] [Fuerte del Parlamento Zeta]",
+"details":"[red] Boom",
 "size":5
 "health":8450,
 "ammoPerShot":55,

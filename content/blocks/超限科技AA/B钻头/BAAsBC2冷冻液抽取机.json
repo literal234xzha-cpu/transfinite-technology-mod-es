@@ -1,6 +1,6 @@
 {
 "name":"Máquina de extracción de refrigerante",
-"description":"Capaz de cavar una pequeña cantidad de refrigerante \ n \ n [azul] [extractor de tecnología de límite superior]",
+"description":"Capaz de cavar una pequeña cantidad de refrigerante \ n \ n [blue] [extractor de tecnología de límite superior]",
 "type":"SolidPump",
 "health":350,
 "size":3,

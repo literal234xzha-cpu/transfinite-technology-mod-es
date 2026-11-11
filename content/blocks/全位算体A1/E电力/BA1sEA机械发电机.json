@@ -1,7 +1,7 @@
 {
 "type":"ThermalGenerator",
 "name":"Generador mecánico",
-"description":"Los dispositivos de energía eólica simples se ven fácilmente afectados por el clima regional y la eficiencia de la generación de energía hidroeléctrica es mayor. \n[naranja][Equipo eléctrico de cálculo de potencia en todos los modos]",
+"description":"Los dispositivos de energía eólica simples se ven fácilmente afectados por el clima regional y la eficiencia de la generación de energía hidroeléctrica es mayor. \n[orange][Equipo eléctrico de cálculo de potencia en todos los modos]",
 "size":2,
 "health":120,
 "hasLiquids":false,

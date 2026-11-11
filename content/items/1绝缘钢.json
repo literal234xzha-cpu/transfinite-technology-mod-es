@@ -2,7 +2,7 @@
  "name":"acero aislante",//内容物名称
  "description":"Aislante, buena dureza, adecuado para usar como diversos materiales
 
-[azul][Artículo de tecnología excedente]",//描述
+[blue][Artículo de tecnología excedente]",//描述
  "color":"989BA4",//颜色
  "cost":1//建筑消耗时间，为1帧
  "flammability":0,//燃烧性

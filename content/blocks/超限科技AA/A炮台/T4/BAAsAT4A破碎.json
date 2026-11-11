@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
 "name":"Roto",
-"description":"Debido al éxito de la fractura, el grupo de exceso de límite desarrolló una torreta basada en su principio de mejora. Esta arma lanza balas especiales y libera continuamente municiones especiales en el medio. Puede liberar metralla similar a la luz del trueno en toda la ruta de la bala. [azul] [Fuerte técnico por encima del límite]",
+"description":"Debido al éxito de la fractura, el grupo de exceso de límite desarrolló una torreta basada en su principio de mejora. Esta arma lanza balas especiales y libera continuamente municiones especiales en el medio. Puede liberar metralla similar a la luz del trueno en toda la ruta de la bala. [blue] [Fuerte técnico por encima del límite]",
 "health":1260,
 "size":4
 "liquidCapacity":500,

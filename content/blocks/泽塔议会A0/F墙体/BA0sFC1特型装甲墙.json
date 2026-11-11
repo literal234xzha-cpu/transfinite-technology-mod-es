@@ -1,6 +1,6 @@
 {
 "name":"Muro blindado especial",
-"description":"Poderoso y robusto, puede rebotar balas \ n \ n [rojo] [muro del parlamento de Zeta]",
+"description":"Poderoso y robusto, puede rebotar balas \ n \ n [red] [muro del parlamento de Zeta]",
 "type":"Wall",
 "health":1600,
 "lightningChance":0.3

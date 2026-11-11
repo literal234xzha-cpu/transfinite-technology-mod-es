@@ -1,7 +1,7 @@
 {
 "type": "flying",
 "name": "Kappa",
-"description": "La aeronave defensiva central desarrollada por la Entidad Computacional Omnidireccional no puede ser seleccionada como objetivo de ataque, se puede construir a un ritmo más rápido, puede extraer algunos minerales y cuenta con un cañón de reparación para reparar las estructuras aliadas.\n[naranja][Máquina Central de la Entidad Computacional Omnidireccional]",
+"description": "La aeronave defensiva central desarrollada por la Entidad Computacional Omnidireccional no puede ser seleccionada como objetivo de ataque, se puede construir a un ritmo más rápido, puede extraer algunos minerales y cuenta con un cañón de reparación para reparar las estructuras aliadas.\n[orange][Máquina Central de la Entidad Computacional Omnidireccional]",
 "targetPriority": -2,
 "lowAltitude": false,
 "mineWalls": false,

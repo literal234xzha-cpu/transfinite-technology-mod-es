@@ -2,7 +2,7 @@
 "type":"GenericCrafter",
 "name":"Fábrica de aleación básica profesional",
 "health":1040,
-"description":"Especializada en la producción de aleaciones básicas, hay una mayor producción y se necesita un mayor suministro para respaldar su producción normal \ n \ n [azul] [fábrica intermedia de tecnología de límite superior]",
+"description":"Especializada en la producción de aleaciones básicas, hay una mayor producción y se necesita un mayor suministro para respaldar su producción normal \ n \ n [blue] [fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"0铜铅合金","amount":9},
 "craftEffect":"smoke",
 "alwaysUnlocked":false,

@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
 "name":"Golpea fuerte",
-"description":"El obús modificado del grupo de exceso de límite a partir del granizo tiene un alcance relativamente más bajo que el granizo, pero tiene un rango de ataque más grande. Puede lanzar una sola granada a la vez, lo que amenaza efectivamente al grupo de enemigos. [azul] [Fuerte de tecnología de límite superior]",
+"description":"El obús modificado del grupo de exceso de límite a partir del granizo tiene un alcance relativamente más bajo que el granizo, pero tiene un rango de ataque más grande. Puede lanzar una sola granada a la vez, lo que amenaza efectivamente al grupo de enemigos. [blue] [Fuerte de tecnología de límite superior]",
 "health":660,
 "size":2
 "reload":25,

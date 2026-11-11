@@ -1,7 +1,7 @@
 {
 "type":"legs",
 "name":"Spad (subterráneo)",
-"description":"El meca exclusivo de Spud, el científico jefe de la Entidad Omnidireccional, está equipado principalmente con armas de apoyo. Puede disparar un cañón de impulsos que emite impulsos de batería para paralizar al enemigo, y también cuenta con un lanzallamas de alta temperatura para defenderse a corta distancia.\n[naranja][Unidad heroica de la Entidad Omnidireccional - Spud]",
+"description":"El meca exclusivo de Spud, el científico jefe de la Entidad Omnidireccional, está equipado principalmente con armas de apoyo. Puede disparar un cañón de impulsos que emite impulsos de batería para paralizar al enemigo, y también cuenta con un lanzallamas de alta temperatura para defenderse a corta distancia.\n[orange][Unidad heroica de la Entidad Omnidireccional - Spud]",
 "speed":0.9
 "hitSize":12,
 "hovering":false,

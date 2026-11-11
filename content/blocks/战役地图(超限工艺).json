@@ -1,5 +1,5 @@
 {
-"name":"[azul]Mapa de la batalla (mod de tecnología avanzada)",
+"name":"[blue]Mapa de la batalla (mod de tecnología avanzada)",
 "description":"¡Bienvenido a la artesanía por encima del límite!",
 "health":500,
 "hasShadow":false
@@ -13,7 +13,7 @@
 "alwaysUnlocked":true,
 "research":{
 "root":true,
-"name":"[azul]Mapa de la batalla (mod de tecnología avanzada)"
+"name":"[blue]Mapa de la batalla (mod de tecnología avanzada)"
 "planet":"serpulo"
 },
 "canOverdrive":false,

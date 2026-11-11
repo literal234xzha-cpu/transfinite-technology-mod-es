@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
 "name":"Luz fría",
-"description":"El cañón láser extremadamente poderoso desarrollado por el grupo de exceso de límite, el poderoso rayo puede dar al enemigo un golpe fatal, y la velocidad de ataque aire-tierra es extremadamente lenta. \n\n[azul][Batería de tecnología de superlímite]",
+"description":"El cañón láser extremadamente poderoso desarrollado por el grupo de exceso de límite, el poderoso rayo puede dar al enemigo un golpe fatal, y la velocidad de ataque aire-tierra es extremadamente lenta. \n\n[blue][Batería de tecnología de superlímite]",
 "targetAir":true,
 "targetGround":true,
 "health":4280,

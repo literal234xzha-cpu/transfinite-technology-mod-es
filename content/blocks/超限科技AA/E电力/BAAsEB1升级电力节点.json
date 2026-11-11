@@ -1,7 +1,7 @@
 {
 "type":"PowerNode",
 "name":"Centro de energía",
-"description":"En comparación con los nodos eléctricos convencionales, permite transmisiones a mayores distancias y puede conectar un mayor número de instalaciones. \n\n[azul][Dispositivo de transmisión de energía por tecnología de superconducción]",
+"description":"En comparación con los nodos eléctricos convencionales, permite transmisiones a mayores distancias y puede conectar un mayor número de instalaciones. \n\n[blue][Dispositivo de transmisión de energía por tecnología de superconducción]",
 "health":50,
 "size":1,
 "maxNodes":14,

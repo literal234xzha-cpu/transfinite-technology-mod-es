@@ -1,7 +1,7 @@
 {
 "type":"Reconstructor",
 "name":"Fábrica de aumento de nivel eterno",
-"description":"Mejora las unidades de nivel ilimitado a unidades de nivel eterno; esto aumentará considerablemente todas sus estadísticas, alcanzando un nivel casi máximo. Sin embargo, el proceso de mejora requiere una inversión enorme y consume mucho tiempo, así que asegúrate de proteger bien tu fábrica. \n[rojo][Fábrica de armas del Parlamento Zeta]",
+"description":"Mejora las unidades de nivel ilimitado a unidades de nivel eterno; esto aumentará considerablemente todas sus estadísticas, alcanzando un nivel casi máximo. Sin embargo, el proceso de mejora requiere una inversión enorme y consume mucho tiempo, así que asegúrate de proteger bien tu fábrica. \n[red][Fábrica de armas del Parlamento Zeta]",
 "size":11,
 "constructTime":25200,
 "health":15000,

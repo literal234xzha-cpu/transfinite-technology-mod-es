@@ -1,7 +1,7 @@
 {
 	"name": "Catalizador de tormentas",
 	"description": "Un catalizador desarrollado a partir de la piedra de resonancia. Sus propiedades especiales permiten incluso la transformación de materia y energía. Al mismo tiempo, la gran cantidad de energía que contiene en su interior puede liberarse en forma de energía destructiva en condiciones extremas.",
-	"details":"[negro] Catalizador de la singularidad",
+	"details":"[black] Catalizador de la singularidad",
 	"cost":2,
 	"alwaysUnlocked":false,
 	"color": "0783FF",

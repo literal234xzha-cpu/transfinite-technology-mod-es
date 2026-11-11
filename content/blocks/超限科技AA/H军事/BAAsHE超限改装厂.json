@@ -1,7 +1,7 @@
 {
 "type":"Reconstructor",
 "name":"Fábrica de reacondicionamiento por encima del límite",
-"description":"Modificación y mejora de algunas subunidades, lo que una vez más mejorará sus capacidades de combate, u otras capacidades \ n \ n [azul] [Fábrica de modificación de grupo por encima del límite]",
+"description":"Modificación y mejora de algunas subunidades, lo que una vez más mejorará sus capacidades de combate, u otras capacidades \ n \ n [blue] [Fábrica de modificación de grupo por encima del límite]",
 "size":6
 "constructTime":3600,
 "consumes":{

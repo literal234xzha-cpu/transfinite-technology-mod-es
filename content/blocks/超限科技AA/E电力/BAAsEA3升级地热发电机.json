@@ -1,7 +1,7 @@
 {
 "type":"ThermalGenerator",
 "name":"Generador de energía térmica avanzada",
-"description":"Generador de energía térmica avanzado, uso eficiente de la energía geotérmica, alta eficiencia de generación de energía \ n \ n [azul] [Dispositivo de generación de energía con tecnología de límite superior]",
+"description":"Generador de energía térmica avanzado, uso eficiente de la energía geotérmica, alta eficiencia de generación de energía \ n \ n [blue] [Dispositivo de generación de energía con tecnología de límite superior]",
 "size":3,
 "health":460,
 "hasLiquids":false,

@@ -1,7 +1,7 @@
 {
 "name":"Planta de procesamiento de acero plástico dúplex",
 "type":"GenericCrafter",
-"description":"No hay necesidad de energía eléctrica para procesar rápidamente el acero plástico para la producción inicial, pero hay una gran cantidad de pérdidas, a pesar de esto, el grupo todavía lo usa para el acero plástico sintético. \ N \ n [azul] [Fábrica de bajo nivel de tecnología de límite superior]",
+"description":"No hay necesidad de energía eléctrica para procesar rápidamente el acero plástico para la producción inicial, pero hay una gran cantidad de pérdidas, a pesar de esto, el grupo todavía lo usa para el acero plástico sintético. \ N \ n [blue] [Fábrica de bajo nivel de tecnología de límite superior]",
 "craftEffect":"pulverizeSmall"
 "updateEffect":"pulverizeMedium",
 "itemCapacity":20,

@@ -1,7 +1,7 @@
 {
 "type":"ItemBridge",
 "name":"Puente de cinta transportadora sintética",
-"description":"Entregue artículos a larga distancia, más rápido y más lejos \ n \ n [azul] [Dispositivo de logística de tecnología de límite superior]",
+"description":"Entregue artículos a larga distancia, más rápido y más lejos \ n \ n [blue] [Dispositivo de logística de tecnología de límite superior]",
 "health":160,
 "range":6,
 "transportTime":4

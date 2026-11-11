@@ -1,7 +1,7 @@
 {
 "type":"ForceProjector",
 "name":"Pequeño generador de escudo de soporte",
-"description":"Genere una posición de escudo de energía de rango pequeño para proteger unidades en un área determinada, fuerte pero que consume energía \ n \ n [azul] [Generador de escudo de tecnología por encima del límite]",
+"description":"Genere una posición de escudo de energía de rango pequeño para proteger unidades en un área determinada, fuerte pero que consume energía \ n \ n [blue] [Generador de escudo de tecnología por encima del límite]",
 "health":300,
 "size":2,
 "radius":80,

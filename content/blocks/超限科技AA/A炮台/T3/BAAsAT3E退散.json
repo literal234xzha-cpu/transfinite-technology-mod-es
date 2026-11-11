@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
 "name":"Retirada",
-"description":"El capricho del Grupo Superlimitado al estudiar la torreta, la escopeta armada finalmente desarrollada tiene un amplio rango de difusión y repele al enemigo que se avecina. Puede repeler el aire y el más fuerte, pero es innegable que el daño es extremadamente raspado. \ n [azul] [Fuerte de tecnología por encima del límite]",
+"description":"El capricho del Grupo Superlimitado al estudiar la torreta, la escopeta armada finalmente desarrollada tiene un amplio rango de difusión y repele al enemigo que se avecina. Puede repeler el aire y el más fuerte, pero es innegable que el daño es extremadamente raspado. \ n [blue] [Fuerte de tecnología por encima del límite]",
 "health":1620,
 "targetable":false
 "destructible":true

@@ -2,7 +2,7 @@
 "type":"PayloadRouter",
 "name":"Enrutador de carga pesada"
 "description":"Distribuir cargas más grandes de manera uniforme en tres direcciones.
-[rojo][Dispositivo de carga del Consejo Zeta]",
+[red][Dispositivo de carga del Consejo Zeta]",
 "size":9,
 "moveTime":120,
 "moveForce":600,

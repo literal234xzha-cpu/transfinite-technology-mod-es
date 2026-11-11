@@ -1,7 +1,7 @@
 {
 "type":"Reconstructor",
 "name":"Fábrica de modificación variable",
-"description":"Modifique y actualice algunas unidades de bajo nivel, lo que mejorará en gran medida sus capacidades de combate u otras capacidades \ n \ n [azul] [Fábrica de modificación de grupo de exceso de límite]",
+"description":"Modifique y actualice algunas unidades de bajo nivel, lo que mejorará en gran medida sus capacidades de combate u otras capacidades \ n \ n [blue] [Fábrica de modificación de grupo de exceso de límite]",
 "size":4,
 "constructTime":2800,
 "consumes":{

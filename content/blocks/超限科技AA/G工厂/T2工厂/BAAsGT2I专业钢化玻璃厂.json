@@ -2,7 +2,7 @@
 "type":"GenericCrafter",
 "name":"Horno de vidrio templado profesional",
 "health":1040,
-"description":"Especializada en el procesamiento de vidrio templado, tiene una mayor producción y necesita un mayor suministro para respaldar su producción normal \ n \ n [azul] [fábrica intermedia de tecnología de límite superior]",
+"description":"Especializada en el procesamiento de vidrio templado, tiene una mayor producción y necesita un mayor suministro para respaldar su producción normal \ n \ n [blue] [fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"metaglass","amount":5},
 "alwaysUnlocked":false,
 "size":3,

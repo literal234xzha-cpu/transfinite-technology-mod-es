@@ -1,7 +1,7 @@
 {
 "name":"Horno de fusión",
 "type":"GenericCrafter",
-"description":"Puede derretir los desechos de manera más eficiente y tener más producción de escoria \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
+"description":"Puede derretir los desechos de manera más eficiente y tener más producción de escoria \ n \ n [blue] [Fábrica intermedia de tecnología de límite superior]",
 "itemCapacity":40,
 "health":500,
 "size":3,

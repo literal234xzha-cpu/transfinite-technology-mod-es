@@ -1,7 +1,7 @@
 {
 	"type": "PowerTurret",
 	"name": "Generador de silencio grande",
-	"description": "En comparación con el pequeño generador de silencio, tiene un rango más grande y una función consistente. \n[rojo][Dispositivo auxiliar especial del Consejo Zeta]",
+	"description": "En comparación con el pequeño generador de silencio, tiene un rango más grande y una función consistente. \n[red][Dispositivo auxiliar especial del Consejo Zeta]",
 	"underBullets":true
 	"health": 1080,
 	"size": 4

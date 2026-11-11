@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
 "name":"Skynet",
-"description":"Al disparar múltiples submuniciones, las balas flotarán automáticamente en el aire para atacar unidades aéreas, lo que requiere una logística fuerte. \ N [rojo] [Fuerte del Parlamento de Zeta]",
+"description":"Al disparar múltiples submuniciones, las balas flotarán automáticamente en el aire para atacar unidades aéreas, lo que requiere una logística fuerte. \ N [red] [Fuerte del Parlamento de Zeta]",
 "health":2460,
 "size":3,
 "reload":56,

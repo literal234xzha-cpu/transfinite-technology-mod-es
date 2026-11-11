@@ -1,6 +1,6 @@
 {
 "name":"Anclaje de aceleración de masa",
-"description":"La implementación de golpes de energía de larga distancia requiere otro punto de anclaje conectado a él para el posicionamiento. \ N [Daño: 850/pelo] \ n \ n [azul] [Transmisor especial de tecnología de límite superior]",
+"description":"La implementación de golpes de energía de larga distancia requiere otro punto de anclaje conectado a él para el posicionamiento. \ N [Daño: 850/pelo] \ n \ n [blue] [Transmisor especial de tecnología de límite superior]",
 "type":"MassDriver",
 "size":5,
 "hasItems":true,

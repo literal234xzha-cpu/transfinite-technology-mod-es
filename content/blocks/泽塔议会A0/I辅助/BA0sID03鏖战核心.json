@@ -1,7 +1,7 @@
 {
     "name":"Lucha contra el núcleo",
     "type":"CoreBlock",
-    "description": "Núcleo pesado, armadura pesada y gran capacidad. \n[rojo][Núcleo de la próxima generación del Parlamento Zeta]",
+    "description": "Núcleo pesado, armadura pesada y gran capacidad. \n[red][Núcleo de la próxima generación del Parlamento Zeta]",
     "requirements": [
     {"amount": 4000, "item": "copper"},
     {"amount": 4000, "item": "lead"},

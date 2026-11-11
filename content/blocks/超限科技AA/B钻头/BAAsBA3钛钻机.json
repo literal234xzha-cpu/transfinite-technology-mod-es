@@ -1,7 +1,7 @@
 {
 "name":"Taladro de titanio",
 "type":"Drill",
-"description":"El torio se puede extraer sin electricidad. \n\n[azul][Taladro tecnológico de límite superado]",
+"description":"El torio se puede extraer sin electricidad. \n\n[blue][Taladro tecnológico de límite superado]",
 "size":2,
 "health":640,
 "tier":4,//挖掘等级

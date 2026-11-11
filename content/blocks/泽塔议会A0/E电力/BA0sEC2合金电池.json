@@ -1,7 +1,7 @@
 {
 "name":"Supercondensador",
 "health":1200,
-"description":"Las baterías más avanzadas son más duras y tienen un mayor almacenamiento de energía. \n[rojo][Batería del Parlamento Zeta]",
+"description":"Las baterías más avanzadas son más duras y tienen un mayor almacenamiento de energía. \n[red][Batería del Parlamento Zeta]",
 "requirements":[
 {"amount":200,"item":"lead"},
 {"amount":100,"item":"silicon"},

@@ -1,6 +1,6 @@
 {
 "name":"Puente de conducto sintético"
-"description":"El transporte de líquidos se puede realizar a través de terrenos más lejanos. \ N \ n [azul] [Puente de conducto líquido de tecnología de exceso de límite]",
+"description":"El transporte de líquidos se puede realizar a través de terrenos más lejanos. \ N \ n [blue] [Puente de conducto líquido de tecnología de exceso de límite]",
 "type":"LiquidBridge",
 "health":60,
 "range":6

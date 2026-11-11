@@ -1,7 +1,7 @@
 {
 "name":"Horno de aleación Zeta",
 "type":"GenericCrafter",
-"description":"El interior puede generar condiciones extremas para el procesamiento de la aleación Zeta. \n[rojo][Fábrica del Parlamento Zeta]",
+"description":"El interior puede generar condiciones extremas para el procesamiento de la aleación Zeta. \n[red][Fábrica del Parlamento Zeta]",
 "itemCapacity":80,
 "health":4800,
 "size":4,

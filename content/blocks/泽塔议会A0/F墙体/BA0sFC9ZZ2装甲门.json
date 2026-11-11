@@ -1,6 +1,6 @@
 {
 "name":"Puerta blindada Zeta",
-"description":"Poderoso y robusto, puede rebotar balas \ n \ n [rojo] [Puerta blindada del Consejo Zeta]",
+"description":"Poderoso y robusto, puede rebotar balas \ n \ n [red] [Puerta blindada del Consejo Zeta]",
 "type":"AutoDoor",
 "health":4000,
 "flashHit":true

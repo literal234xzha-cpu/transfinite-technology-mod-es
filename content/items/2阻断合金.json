@@ -2,7 +2,7 @@
  "name":"Aleación de barrera",//名称
  "description":"Aleación bloqueante, estable, arma electro-óptica contraria, alta dureza
 
-[azul][Objeto de tecnología avanzada]",//描述
+[blue][Objeto de tecnología avanzada]",//描述
  "color":"67888D",//颜色
  "cost":1//建筑消耗时间，为1帧
  "flammability":0,//燃烧性

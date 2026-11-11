@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
 "name":"Magnetización",
-"description":"El cañón eléctrico de mayor potencia modificado por un arco tiene una mayor distancia de ataque que el arco y puede liberar una gran cantidad de rayos para atacar al enemigo en poco tiempo. \ n \ n [azul] [Fuerte de tecnología de límite superior]",
+"description":"El cañón eléctrico de mayor potencia modificado por un arco tiene una mayor distancia de ataque que el arco y puede liberar una gran cantidad de rayos para atacar al enemigo en poco tiempo. \ n \ n [blue] [Fuerte de tecnología de límite superior]",
 "health":600,
 "reload":30,
 "shootCone":60,

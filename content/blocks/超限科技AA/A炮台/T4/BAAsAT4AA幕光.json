@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
 "name":"Luz de cortina",
-"description":"Los súper cañones antiaéreos desarrollados por el Grupo de Superlímite para la creciente presión de la defensa aérea destruyen las unidades aéreas a través de poderosos cañones láser de cortina de luz, y esas fuerzas aéreas desaparecen como copos de nieve. \ N \ n \ n[cyan] defensa aérea... \n\n[azul][Batería de tecnología de superlímite]",
+"description":"Los súper cañones antiaéreos desarrollados por el Grupo de Superlímite para la creciente presión de la defensa aérea destruyen las unidades aéreas a través de poderosos cañones láser de cortina de luz, y esas fuerzas aéreas desaparecen como copos de nieve. \ N \ n \ n[cyan] defensa aérea... \n\n[blue][Batería de tecnología de superlímite]",
 "targetAir":true,
 "targetGround":false,
 "health":1680,

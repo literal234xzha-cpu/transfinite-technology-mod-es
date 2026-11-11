@@ -1,7 +1,7 @@
 {
 "name":"Perforadora sintética de cobre y plomo",
 "type":"Drill",
-"description":"La broca más básica del grupo ultrarrápido, una versión mejorada de la broca mecánica, tiene una velocidad de excavación más rápida. \n\n[azul][Taladro tecnológico de límite superado]",
+"description":"La broca más básica del grupo ultrarrápido, una versión mejorada de la broca mecánica, tiene una velocidad de excavación más rápida. \n\n[blue][Taladro tecnológico de límite superado]",
 "size":3,
 "health":640,
 "tier":2,//挖掘等级

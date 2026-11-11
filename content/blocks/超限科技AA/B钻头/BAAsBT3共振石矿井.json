@@ -2,7 +2,7 @@
 "type":"AttributeCrafter",
 "name":"Mina de piedra de resonancia",
 "health":1040,
-"description":"La piedra de resonancia descubierta por Super Limited Group en un accidente tiene una perspectiva de uso extremadamente amplia en la primera fase. Super Limited Group ha desarrollado este dispositivo de minería especial \ n \ n [rojo] advertencia: ¡solo se puede construir sobre calor geotérmico!!! \n\n[fábrica intermedia de tecnología de límite superado]",
+"description":"La piedra de resonancia descubierta por Super Limited Group en un accidente tiene una perspectiva de uso extremadamente amplia en la primera fase. Super Limited Group ha desarrollado este dispositivo de minería especial \ n \ n [red] advertencia: ¡solo se puede construir sobre calor geotérmico!!! \n\n[fábrica intermedia de tecnología de límite superado]",
 "outputItem":{"item":"1共振石","amount":1},
 "drawer":{
 "type":"DrawMulti",

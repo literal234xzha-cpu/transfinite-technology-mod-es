@@ -5,7 +5,7 @@
 "update":"true",
 "hasItems":"true",
 "type":"Unloader",
-"description":"Puede descargar lentamente los artículos designados en el bloque adyacente, pero es extremadamente barato [azul] [Dispositivo logístico de tecnología de límite superior]",
+"description":"Puede descargar lentamente los artículos designados en el bloque adyacente, pero es extremadamente barato [blue] [Dispositivo logístico de tecnología de límite superior]",
 "name":"Desinstalador fácil",
 "requirements":[
 {"item":"0铜铅合金","amount":25},

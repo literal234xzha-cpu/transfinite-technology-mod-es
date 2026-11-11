@@ -1,7 +1,7 @@
 {
     "name":"Núcleo de guerra",
     "type":"CoreBlock",
-    "description": "Núcleo subpesado, armadura pesada y gran capacidad. \ N [rojo] [Núcleo de la segunda generación del Parlamento de Zeta]",
+    "description": "Núcleo subpesado, armadura pesada y gran capacidad. \ N [red] [Núcleo de la segunda generación del Parlamento de Zeta]",
     "requirements": [
     {"amount": 4000, "item": "copper"},
     {"amount": 4000, "item": "lead"},

@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
 "name":"Chorro",
-"description":"Puede disparar múltiples balas a la vez para combatir eficazmente la armadura enemiga. \n[rojo][Batería del Parlamento Zeta]",
+"description":"Puede disparar múltiples balas a la vez para combatir eficazmente la armadura enemiga. \n[red][Batería del Parlamento Zeta]",
 "health":2460,
 "size":3,
 "reload":70,

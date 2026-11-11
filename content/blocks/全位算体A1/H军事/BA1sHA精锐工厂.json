@@ -1,7 +1,7 @@
 {
 "type":"UnitFactory",
 "name":"Fábrica de unidades de élite",
-"description":"Puede producir algunas unidades especiales, extremadamente poderosas, pero su tiempo de construcción es largo y no se ven afectadas por la aceleración. \n\n[naranja][Armería de élite del Cálculo de Posiciones Totales]",
+"description":"Puede producir algunas unidades especiales, extremadamente poderosas, pero su tiempo de construcción es largo y no se ven afectadas por la aceleración. \n\n[orange][Armería de élite del Cálculo de Posiciones Totales]",
 "health":1640,
 "size":3
 "consumes":{"power":3.6},

@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
 "name":"Olas",
-"description":"Modificado a partir de la retirada, la capacidad de repeler extremadamente poderosa, como una ola de balas, excluirá al enemigo. \n\n[azul][Batería de tecnología de superlímite]",
+"description":"Modificado a partir de la retirada, la capacidad de repeler extremadamente poderosa, como una ola de balas, excluirá al enemigo. \n\n[blue][Batería de tecnología de superlímite]",
 "health":3500,
 "size":4,
 "reload":4

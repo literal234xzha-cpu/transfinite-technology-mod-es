@@ -1,7 +1,7 @@
 {
     "name":"Reparador"
 	"type":"MendProjector",
-	"description":"La restauración de edificios en un área grande es extremadamente eficiente, pero necesita consumir electricidad y puede fortalecerse consumiendo ciertos recursos. \n[rojo][Reparador del Consejo Zeta]",
+	"description":"La restauración de edificios en un área grande es extremadamente eficiente, pero necesita consumir electricidad y puede fortalecerse consumiendo ciertos recursos. \n[red][Reparador del Consejo Zeta]",
 	"details":"Entonces, ¿no puedes arreglarlo?",
 	"health":800,
 	"size":4,

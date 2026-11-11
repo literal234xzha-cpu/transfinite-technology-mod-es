@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
 "name":"Regulación",
-"description":"Un fuerte desarrollado por el grupo de exceso de límite que puede lanzar y reparar con láser para reparar edificios amigos es adecuado para retrasar el daño de la línea de defensa y reparar automáticamente edificios amigos. \n\n[azul][Dispositivo de reparación de tecnología superlimitada]",
+"description":"Un fuerte desarrollado por el grupo de exceso de límite que puede lanzar y reparar con láser para reparar edificios amigos es adecuado para retrasar el daño de la línea de defensa y reparar automáticamente edificios amigos. \n\n[blue][Dispositivo de reparación de tecnología superlimitada]",
 "targetAir":false,
 "targetGround":false,
 "health":800,

@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
 "name":"Separación",
-"description":"La torreta simple modificada de la artillería dividida es el arma principal en los primeros días después de que el grupo de exceso de límite fue expulsado. Esta torreta puede dividir repetidamente las balas y formar una gran cantidad de metralla para atacar al enemigo. \n\n[azul][Batería de tecnología de superlímite]",
+"description":"La torreta simple modificada de la artillería dividida es el arma principal en los primeros días después de que el grupo de exceso de límite fue expulsado. Esta torreta puede dividir repetidamente las balas y formar una gran cantidad de metralla para atacar al enemigo. \n\n[blue][Batería de tecnología de superlímite]",
 "health":500,
 "size":2,
 "reload":18

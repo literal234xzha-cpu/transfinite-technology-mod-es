@@ -1,7 +1,7 @@
 {
     "type":"LaunchPad", 
     "name":"Plataforma de lanzamiento pesada", 
-    "description":"A través del desarrollo adicional de la plataforma de lanzamiento, la plataforma de lanzamiento de servicio pesado puede lanzar más elementos para apoyar otros bloques, tiempos de carga más cortos y mayores volúmenes de lanzamiento. \ N [rojo] [Plataforma de lanzamiento del parlamento Zeta]", 
+    "description":"A través del desarrollo adicional de la plataforma de lanzamiento, la plataforma de lanzamiento de servicio pesado puede lanzar más elementos para apoyar otros bloques, tiempos de carga más cortos y mayores volúmenes de lanzamiento. \ N [red] [Plataforma de lanzamiento del parlamento Zeta]", 
     "health":3000,
     "size":5, 
     "itemCapacity":200, 

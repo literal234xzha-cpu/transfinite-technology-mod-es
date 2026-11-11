@@ -1,7 +1,7 @@
 {
 "type":"GenericCrafter",
 "name":"Horno de fundición de aleación de bloqueo",
-"description":"Vuelva a procesar el acero aislado para hacer la aleación de bloqueo \ n \ n [azul] [Fábrica avanzada de tecnología por encima del límite]",
+"description":"Vuelva a procesar el acero aislado para hacer la aleación de bloqueo \ n \ n [blue] [Fábrica avanzada de tecnología por encima del límite]",
 "health":640,
 "outputItem":{"item":"2阻断合金","amount":8},
 "itemCapacity":24,

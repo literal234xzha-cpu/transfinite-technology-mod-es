@@ -1,7 +1,7 @@
 {
 "type":"GenericCrafter",
 "name":"Mezclador de fluido de condensación",
-"description":"Utilice varios artículos para sintetizar el fluido de condensación \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
+"description":"Utilice varios artículos para sintetizar el fluido de condensación \ n \ n [blue] [Fábrica intermedia de tecnología de límite superior]",
 "health":360,
 "outputLiquid":{"liquid":"00冷凝流体","amount":1},
 "itemCapacity":30

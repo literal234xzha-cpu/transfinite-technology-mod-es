@@ -1,7 +1,7 @@
 {
 "name":"Broca de sobrecarga",
 "type":"Drill",
-"description":"El torio se puede extraer, y el proceso de extracción es extremadamente violento, y debe haber una fuente de agua y un cierto suministro de energía para funcionar normalmente. \n\n[azul][Taladro tecnológico de límite superado]",
+"description":"El torio se puede extraer, y el proceso de extracción es extremadamente violento, y debe haber una fuente de agua y un cierto suministro de energía para funcionar normalmente. \n\n[blue][Taladro tecnológico de límite superado]",
 "size":3
 "health":640,
 "tier":6,//挖掘等级

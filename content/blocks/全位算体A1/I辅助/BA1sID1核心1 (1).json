@@ -1,7 +1,7 @@
 {
 "name":"Núcleo de tipo I",
 "type":"CoreBlock",
-"description":"Núcleo pequeño, blindaje relativamente grueso y gran capacidad. \n\n[naranja][Núcleo original de la primera generación de Full-Position Calculation]",
+"description":"Núcleo pequeño, blindaje relativamente grueso y gran capacidad. \n\n[orange][Núcleo original de la primera generación de Full-Position Calculation]",
 "requirements":[
 {"amount":1200,"item":"copper"},
 {"amount":1000,"item":"lead"},

@@ -1,7 +1,7 @@
 {
 "type":"ConsumeGenerator",
 "name":"Generadores de turbina reforzados",
-"description":"Un generador de turbina mejorado, la eficiencia de generación de energía aumenta considerablemente, pero necesita más combustible \ n \ n [azul] [Dispositivo de generación de energía con tecnología de límite superior]",
+"description":"Un generador de turbina mejorado, la eficiencia de generación de energía aumenta considerablemente, pero necesita más combustible \ n \ n [blue] [Dispositivo de generación de energía con tecnología de límite superior]",
 "size":3,
 "health":360,
 "hasPower":true,

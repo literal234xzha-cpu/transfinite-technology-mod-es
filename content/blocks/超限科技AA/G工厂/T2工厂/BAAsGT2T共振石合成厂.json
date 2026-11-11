@@ -2,7 +2,7 @@
 "type":"GenericCrafter",
 "name":"Planta de síntesis de piedra de resonancia",
 "health":1040,
-"description":"Con la profundización gradual de la comprensión de la piedra de resonancia, el grupo de límites superiores ha dominado la forma de estabilizar la piedra de resonancia sintética \ n \ n [azul] [Fábrica intermedia de tecnología de límites superiores]",
+"description":"Con la profundización gradual de la comprensión de la piedra de resonancia, el grupo de límites superiores ha dominado la forma de estabilizar la piedra de resonancia sintética \ n \ n [blue] [Fábrica intermedia de tecnología de límites superiores]",
 "outputItem":{"item":"1共振石","amount":2},
 "drawer":{
 "type":"DrawMulti",

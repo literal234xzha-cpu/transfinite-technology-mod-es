@@ -1,7 +1,7 @@
 {
 "name":"Horno de fusión de aleación de fase compuesta",
 "type":"GenericCrafter",
-"description":"Utilizado para procesar la aleación de ondas gigantes, el rendimiento es mayor y la velocidad es más rápida. \ N \ n [azul] [Fábrica avanzada de tecnología de límite superior]",
+"description":"Utilizado para procesar la aleación de ondas gigantes, el rendimiento es mayor y la velocidad es más rápida. \ N \ n [blue] [Fábrica avanzada de tecnología de límite superior]",
 "itemCapacity":80,
 "health":400,
 "size":3,

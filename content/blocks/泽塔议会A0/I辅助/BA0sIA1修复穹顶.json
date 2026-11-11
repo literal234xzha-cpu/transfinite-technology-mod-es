@@ -1,7 +1,7 @@
 {
     "name":"Reparación de la cúpula"
 	"type":"MendProjector",
-	"description":"La restauración de edificios a gran escala es extremadamente eficiente, pero requiere consumo de energía y ciertos recursos. \ N [rojo] [Restaurador del Parlamento Zeta]",
+	"description":"La restauración de edificios a gran escala es extremadamente eficiente, pero requiere consumo de energía y ciertos recursos. \ N [red] [Restaurador del Parlamento Zeta]",
 	"details":"Entonces, ¿lo reparaste?",
 	"health":800,
 	"size":3,

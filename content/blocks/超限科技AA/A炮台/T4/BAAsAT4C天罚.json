@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",//类型:消耗物品的炮塔
 "name":"Castigo del día",//名字
-"description":"El grupo de exceso de límite ajustó la boca lo más alto posible, creando así un arma de ataque de largo alcance, que puede mostrar diferentes métodos de ataque de acuerdo con la munición cargada y no puede concentrarse en objetivos cercanos. \ N \ n [naranja] cabeza de bala de dragón de fuego de azufre \ n [blanco] cápsula de esporas-ojiva de aceite \ n [rojo] mezcla de explosión ojiva \ n[pink] ojiva de fusión de torio \ n [blanco] acero aislado-bala de tormenta de metralla \ n \ n [azul] armas estratégicas [blue] Tecnología [red]",
+"description":"El grupo de exceso de límite ajustó la boca lo más alto posible, creando así un arma de ataque de largo alcance, que puede mostrar diferentes métodos de ataque de acuerdo con la munición cargada y no puede concentrarse en objetivos cercanos. \ N \ n [orange] cabeza de bala de dragón de fuego de azufre \ n [white] cápsula de esporas-ojiva de aceite \ n [red] mezcla de explosión ojiva \ n[pink] ojiva de fusión de torio \ n [white] acero aislado-bala de tormenta de metralla \ n \ n [blue] armas estratégicas [blue] Tecnología [red]",
 "details":"Ah Ke&#39;an, eh, eh, eh, eh, ¡toca! Ah, oh, Dios mío"
 "liquidCapacity":500,
 "size":4,

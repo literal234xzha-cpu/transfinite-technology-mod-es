@@ -1,7 +1,7 @@
 {
 "type":"UnitFactory",
 "name":"Fábrica de maquinaria ligera",
-"description":"Fabricando unidades de mechas ligeras, su precio barato y su velocidad de producción extremadamente rápida las hacen útiles para el rescate en tiempos de crisis. Al mismo tiempo, también hay algunas unidades pequeñas que pueden realizar operaciones especiales. \ n \ n [azul] [grupo de exceso de límite Arsenal ligero]",
+"description":"Fabricando unidades de mechas ligeras, su precio barato y su velocidad de producción extremadamente rápida las hacen útiles para el rescate en tiempos de crisis. Al mismo tiempo, también hay algunas unidades pequeñas que pueden realizar operaciones especiales. \ n \ n [blue] [grupo de exceso de límite Arsenal ligero]",
 "health":340,
 "size":2,
 "consumes":{"power":1.2,},

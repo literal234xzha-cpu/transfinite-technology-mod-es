@@ -1,7 +1,7 @@
 {
     "name":"Núcleo de tierra quemada",
     "type":"CoreBlock",
-    "description": "El núcleo extremadamente pesado, la armadura es extremadamente pesada y la capacidad es enorme, tal vez solo él mismo pueda vencerlo. \ N [rojo] [Núcleo final del parlamento de Zeta]",
+    "description": "El núcleo extremadamente pesado, la armadura es extremadamente pesada y la capacidad es enorme, tal vez solo él mismo pueda vencerlo. \ N [red] [Núcleo final del parlamento de Zeta]",
     "details":"Muy bien, entonces, ¿por qué no hay más grande? Este espacio de almacenamiento simplemente no es suficiente.",
     "requirements": [
     {"amount": 13000, "item": "copper"},

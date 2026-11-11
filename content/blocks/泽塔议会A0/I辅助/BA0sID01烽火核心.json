@@ -1,7 +1,7 @@
 {
     "name":"Núcleo de la baliza",
     "type":"CoreBlock",
-    "description": "Núcleo de tamaño mediano, armadura pesada y gran capacidad. \ N [rojo] [Núcleo de la primera generación del parlamento de Zeta]",
+    "description": "Núcleo de tamaño mediano, armadura pesada y gran capacidad. \ N [red] [Núcleo de la primera generación del parlamento de Zeta]",
     "requirements": [
     {"amount": 1500, "item": "copper"},
     {"amount": 800, "item": "lead"},

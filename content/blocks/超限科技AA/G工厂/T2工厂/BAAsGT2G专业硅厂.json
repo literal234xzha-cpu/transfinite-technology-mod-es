@@ -2,7 +2,7 @@
 "type":"GenericCrafter",
 "name":"Horno de silicio profesional",
 "health":1040,
-"description":"Procesamiento profesional de silicio, hay una mayor producción, y necesita tener un mayor suministro de artículos para que funcione correctamente \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
+"description":"Procesamiento profesional de silicio, hay una mayor producción, y necesita tener un mayor suministro de artículos para que funcione correctamente \ n \ n [blue] [Fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"silicon","amount":5},
 "alwaysUnlocked":false,
 "size":3,

@@ -2,7 +2,7 @@
 "type":"ThermalGenerator",
 "name":"Generador de biomasa de esporas",
 "description":"Generador de esporas, utiliza biotecnología para generar electricidad mediante la reacción de esporas en la superficie terrestre, la eficiencia de generación de electricidad es promedio.
-[rojo][Generador del Parlamento Zeta]",
+[red][Generador del Parlamento Zeta]",
 "size":2,
 "health":460,
 "hasLiquids":false,

@@ -1,7 +1,7 @@
 {
 "type":"PowerNode",
 "name":"Enlace de bloque",
-"description":"Nodos de energía extremadamente potentes, transmisión de energía a distancias ultra largas, que cubren casi todo el bloque \ n \ n [azul] [dispositivo de transmisión de energía de tecnología de límite superior] \ n \ n [rojo] Advertencia: la máquina de escoria estará muy atascada cuando se use (señalando la apertura Cuando este edificio se conecta y construye manualmente este edificio)",
+"description":"Nodos de energía extremadamente potentes, transmisión de energía a distancias ultra largas, que cubren casi todo el bloque \ n \ n [blue] [dispositivo de transmisión de energía de tecnología de límite superior] \ n \ n [red] Advertencia: la máquina de escoria estará muy atascada cuando se use (señalando la apertura Cuando este edificio se conecta y construye manualmente este edificio)",
 "health":25000,
 "size":5,
 "maxNodes":400,

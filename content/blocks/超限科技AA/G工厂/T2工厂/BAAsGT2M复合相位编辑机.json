@@ -1,7 +1,7 @@
 {
 "type":"GenericCrafter",
 "name":"Máquina de edición de fase compuesta",
-"description":"Hacer tejido de fase más rápido \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
+"description":"Hacer tejido de fase más rápido \ n \ n [blue] [Fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"phase-fabric","amount":4},
 "size":3,
 "hasPower":true,

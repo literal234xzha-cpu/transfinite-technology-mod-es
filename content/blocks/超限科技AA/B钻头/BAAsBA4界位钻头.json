@@ -1,7 +1,7 @@
 {
 "name":"Broca de límite",
 "type":"Drill",
-"description":"Puede extraer torio, necesita consumir electricidad y puede obtener una velocidad extremadamente rápida después de agregar refrigerante. La extracción lleva mucho tiempo. \n\n[azul][Taladro tecnológico de límite superado]",
+"description":"Puede extraer torio, necesita consumir electricidad y puede obtener una velocidad extremadamente rápida después de agregar refrigerante. La extracción lleva mucho tiempo. \n\n[blue][Taladro tecnológico de límite superado]",
 "size":4
 "health":640,
 "tier":7,//挖掘等级
