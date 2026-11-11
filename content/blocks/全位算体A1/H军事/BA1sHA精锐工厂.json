@@ -1,7 +1,7 @@
 {
 "type":"UnitFactory",
-"name":"精锐单位工厂",
-"description":"可以生产一些特种单位，极为强大，但是建造时间长，无法受到超速影响。\n\n[orange][全位算体精英兵工厂]",
+"name":"Fábrica de unidades de élite",
+"description":"Puede producir algunas unidades especiales, extremadamente poderosas, pero su tiempo de construcción es largo y no se ven afectadas por la aceleración. \n\n[naranja][Armería de élite del Cálculo de Posiciones Totales]",
 "health":1640,
 "size":3
 "consumes":{"power":3.6},

@@ -1,7 +1,7 @@
 {
-	"name": "风暴催化剂",
-	"description": "以共振石为基础而研发出来的催化剂，其特殊的性质甚至能使物质与能量发生转化，同时内部蕴含的大量能量，通过极端条件可以让其释放出毁灭性的能量。",
-	"details":"[black]奇点催化剂",
+	"name": "Catalizador de tormentas",
+	"description": "Un catalizador desarrollado a partir de la piedra de resonancia. Sus propiedades especiales permiten incluso la transformación de materia y energía. Al mismo tiempo, la gran cantidad de energía que contiene en su interior puede liberarse en forma de energía destructiva en condiciones extremas.",
+	"details":"[negro] Catalizador de la singularidad",
 	"cost":2,
 	"alwaysUnlocked":false,
 	"color": "0783FF",

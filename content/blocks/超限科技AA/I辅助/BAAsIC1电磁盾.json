@@ -1,7 +1,7 @@
 {
 "type":"ForceProjector",
-"name":"电磁立场盾发生器",
-"description":"生成一个范围能量盾立场，保护一定区内的单位，较为坚固，但是请务必保护好发生装置，他极为脆弱\n\n[blue][超限技术护盾发生器]",
+"name":"Generador de escudo de soporte electromagnético",
+"description":"Genere una posición de escudo de energía de rango para proteger las unidades en un área determinada. Es relativamente fuerte, pero asegúrese de proteger el generador. Es extremadamente frágil. \ n \ n [azul] [Generador de escudo de tecnología por encima del límite]",
 "health":600,
 "size":4,
 "radius":220,

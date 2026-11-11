@@ -1,6 +1,6 @@
 {
-"name":"质量驱动器T-B型",
-"description":"长距离发送物品包，收集一定物品后将其发射到另一个质量驱动器T-B型中，至少达到300单位物质才会发射。\n\n[blue][超限技术物流装置]",
+"name":"Tipo de T-B de unidad de calidad",
+"description":"Envíe el paquete de artículos a larga distancia, recolecte un determinado artículo y envíarlo a otro tipo de T-B de unidad de masa, y al menos 300 unidades de material se lanzarán. \n\n[Tecnología de superlímite, dispositivo logístico]",
 "type":"MassDriver",
 "size":3,
 "hasItems":true,

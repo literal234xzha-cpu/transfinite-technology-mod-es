@@ -1,6 +1,6 @@
 {
-"name": "基础合金墙",
-"description": "基础合金构筑而成，可以吸收闪电\n\n[blue][超限技术低级装甲墙]",
+"name": "Pared de aleación de base",
+"description": "Construido con una aleación básica, puede absorber relámpagos\n\n[blue][Muro de armadura básico de tecnología superlimitada]",
 "type": "Wall",
 "health": 420,
 "size": 1

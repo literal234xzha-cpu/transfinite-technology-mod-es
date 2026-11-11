@@ -34,7 +34,7 @@
 ],
 "weapons":[
 {
-"name":"机枪1",
+"name":"Ametralladora 1",
 "shoot":{
 "type":"ShootAlternate"
 "barrels":3,

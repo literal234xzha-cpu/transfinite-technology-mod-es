@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"阿尔法",
-"description":"泽塔议会所研发的核心的防卫飞行器，能够以较快的速度建造，同时开采一些矿物，只有两门火箭炮。\n[red][泽塔议会核心机]",
+"name":"Alfa",
+"description":"La nave de defensa central desarrollada por el Consejo Zetta se puede construir a un ritmo más rápido mientras se extraen algunos minerales. Solo tiene dos lanzacohetes.\n[red][Nave central del Consejo Zetta]",
 "speed":2.2,
 "accel":0.05,"drag":0.03,
 "rotateSpeed":5,
@@ -21,7 +21,7 @@
 "engineSize":2
 "weapons":[
 {
-"name":"阿尔法1",
+"name":"Alfa 1",
 "reload":96
 "x":0
 "y":0

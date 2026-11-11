@@ -1,7 +1,7 @@
 {
 "type":"legs",
-"name":"侧卫-B"
-"description":"超限集团对于重工设计的便于生产的特殊机械，主炮可以发射激光，配备有导弹仓用于发射导弹。\n\n[blue][超限技术特战机甲]",
+"name":"Lateral-B"
+"description":"El Grupo Exceed ha diseñado una maquinaria especial de fácil producción para la industria pesada. Su cañón principal puede disparar láseres y está equipado con un compartimento de misiles para lanzar misiles.\n\n[blue][Mecha de operaciones especiales con tecnología Exceed]",
 //"details":"",
 "legCount":4,
 "legLength":12,
@@ -72,7 +72,7 @@
 "weapons":[
 
 {
-"name":"侧卫B",
+"name":"Lateral B",
 "reload":33,
 "shootSound":"blaster",
 "x":0,
@@ -149,7 +149,7 @@
 }
 
 {
-"name":"导弹仓1",
+"name":"Silo de misiles 1",
 "reload":220,
 "shootSound":"blaster",
 "x":0,

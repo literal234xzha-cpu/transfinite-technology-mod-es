@@ -1,6 +1,6 @@
 {
-"name":"绝缘钢墙",
-"description":"较为坚硬,可阻挡激光与电流\n\n[blue][超限技术中级装甲墙]",
+"name":"Aislamiento de pared de acero",
+"description":"Más duro, puede bloquear el láser y la corriente \ n \ n [azul] [Muro blindado intermedio con tecnología de límite superior]",
 "type":"Wall",
 "health":1000,
 "size":1,

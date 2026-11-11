@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"仰望",
-"description":"对空高频高射炮，强大坚固难以破坏，弹药自给自足。\n\n[orange][全位算体要塞炮]",
+"name":"Mirando hacia arriba",
+"description":"El cañón antiaéreo de alta frecuencia en el aire es fuerte y difícil de destruir, y la munición es autosuficiente. \n\n[orange][Cañón de la Fortaleza del Cálculo de Posición Completa]",
 "targetAir":true,
 "targetGround":false,
 "health":1600,

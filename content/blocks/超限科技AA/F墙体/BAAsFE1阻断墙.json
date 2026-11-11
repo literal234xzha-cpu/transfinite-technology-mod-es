@@ -1,6 +1,6 @@
 {
-"name":"阻断墙",
-"description":"极端坚硬,可阻挡激光与电流\n\n[blue][超限技术高级装甲墙]",
+"name":"Pared de bloqueo",
+"description":"Extremadamente duro, puede bloquear el láser y la corriente \ n \ n [azul] [Muro blindado avanzado de tecnología por encima del límite]",
 "type":"Wall",
 "health":2800,
 "size":1,

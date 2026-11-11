@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"屏障",
-"description":"核心重型火神炮，一般建造于核心地带，比常规的要塞炮建造时间要更长，强大坚固难以破坏，弹药自给自足。\n\n[orange][全位算体重型要塞炮]",
+"name":"Barrera",
+"description":"El cañón Vulcan pesado de núcleo generalmente se construye en el área central, que es más largo que el cañón de fortaleza convencional, es fuerte y difícil de destruir, y la munición es autosuficiente. \ N \ n[orange][cañón de fortaleza de peso completo]",
 "targetAir":true,
 "targetGround":true,
 "health":12800,

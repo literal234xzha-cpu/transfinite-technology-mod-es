@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"应龙",
-"description":"永恒级海军单位，坚实可靠，可以进行海空转换，海军状态时被摧毁会自动转化为空军形态，空军形态会直接坠机，配备有一门扫荡式激光炮，两门球状闪电发生器，两门磁轨发生器。\n[red][泽塔议会永恒级单位]",
+"name":"Yinglong",
+"description":"Unidad naval de clase Eterna, sólida y fiable, capaz de transformarse entre los modos naval y aéreo. Si es destruida en modo naval, se transformará automáticamente en modo aéreo. En modo aéreo, se estrellará directamente. Está equipada con un cañón láser de barrido, dos generadores de rayos esféricos y dos generadores de riel magnético.\n[red][Unidad de clase Eterna del Consejo Z]",
 "ammoResupplyAmount":1,
 "ammoType":{
 "type":"PowerAmmoType",
@@ -42,7 +42,7 @@
 }]
 "weapons":[
 {
-"name":"无",
+"name":"No",
 "reload":94
 "x":0
 "y":0
@@ -145,7 +145,7 @@
 "speed":0,
 }}
 {
-"name":"龙炎",
+"name":"Llama de dragón",
 "reload":6
 "x":-22
 "y":-12
@@ -258,7 +258,7 @@
 }
 }}
 {
-"name":"龙息",
+"name":"Aliento de dragón",
 "reload":180
 "x":-32
 "y":0
@@ -464,7 +464,7 @@
 }}
 
 {
-"name":"无",
+"name":"No",
 "reload":1200
 "x":0
 "y":22

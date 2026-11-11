@@ -1,7 +1,7 @@
 {
-"name":"先锋核心",
+"name":"Núcleo pionero",
 "type":"CoreBlock",
-"description":"为了应对资源短缺而研发的特殊核心，尽管并没有非常大的装载量，同时核心机失去战斗力，但是他无论是作为先遣侦查还是紧急撤离都是非常好用的存在。\n\n[blue][超限集团核心]",
+"description":"Para hacer frente a la escasez de recursos, el núcleo especial desarrollado, aunque no tiene una carga muy grande y la máquina central pierde su efectividad en el combate, es una existencia muy útil, ya sea como investigación avanzada o evacuación de emergencia. \n\n[Núcleo del Grupo Superlímite]",
 "requirements":[
 {"amount":200,"item":"copper"},
 {"amount":140,"item":"lead"},

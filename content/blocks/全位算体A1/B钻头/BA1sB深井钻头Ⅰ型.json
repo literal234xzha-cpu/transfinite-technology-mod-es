@@ -1,7 +1,7 @@
 {
-"name":"深井钻头I型"
+"name":"Broca de pozo profundo tipo I"
 "type":"Separator"
-"description":"通过深度挖掘来开凿地下深处的矿物。\n\n[orange][全位算体深井钻头]",
+"description":"Se extraen minerales de las profundidades subterráneas mediante una excavación profunda. \n\n[orange][Broca de perforación profunda de cálculo integral]",
 "itemCapacity":40,
 "health":80,
 "size":2

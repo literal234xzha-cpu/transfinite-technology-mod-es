@@ -2,7 +2,7 @@
 		"immunities": [
 "wet","spore-slowed","tarred","shocked","freezing","蜂群","甲板损坏"
 	],
-	"name": "护卫D",
+	"name": "Guardia D",
 	"type": "missile",
 	"template": "MissileUnitType",
 	"hitSize": 8
@@ -16,7 +16,7 @@
 	"engineOffset": 0,
 	"missileAccelTime": 60,
 	"weapons": [
-	{	"name": "无",	
+	{	"name": "No",	
 		//"minShootVelocity": 1.5,
 		"reload": 60 
 	"shoot":{

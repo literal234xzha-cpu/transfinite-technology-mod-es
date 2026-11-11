@@ -1,7 +1,7 @@
 {
     "type": "missile",
 	"template": "MissileUnitType",
-    "name":"闪电突袭"
+    "name":"Ataque relámpago"
     "description": " ",
     "immunities": [
 		"wet","spore-slowed","tarred"

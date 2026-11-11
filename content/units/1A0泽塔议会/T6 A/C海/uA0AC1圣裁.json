@@ -1,7 +1,7 @@
 {
 "type":"naval",
-"name":"圣裁"
-"description":"永恒级单位，拥有一门特殊的轨道炮，他能够扫清一切障碍，内置单位建造厂，通过将单位装入火箭的方式来快速部署到战场。",
+"name":"Sentencia sagrada"
+"description":"Unidad de clase Eterna, equipada con un cañón orbital especial capaz de eliminar cualquier obstáculo. Dispone de una fábrica de unidades integrada y puede desplegarse rápidamente en el campo de batalla cargando unidades en cohetes.",
 "speed":0.4,
 "hitSize":84,
 "health":85000,
@@ -26,7 +26,7 @@
 ]
 "weapons":[
 {
-"name":"仲裁",
+"name":"- Arbitraje.",
 "reload":600
 "x":-27
 "y":-32
@@ -49,7 +49,7 @@
 }
 }
 {
-"name":"仲裁",
+"name":"- Arbitraje.",
 "reload":600
 "x":27
 "y":-32
@@ -72,7 +72,7 @@
 }
 }
 {
-"name":"裁决",
+"name":"Decisión",
 "reload":720
 "x":0
 "y":0

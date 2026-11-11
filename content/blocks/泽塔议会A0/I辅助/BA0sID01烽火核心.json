@@ -1,7 +1,7 @@
 {
-    "name":"烽火核心",
+    "name":"Núcleo de la baliza",
     "type":"CoreBlock",
-    "description": "中型核心，装甲较为厚重，容量较大。\n[red][泽塔议会初代核心]",
+    "description": "Núcleo de tamaño mediano, armadura pesada y gran capacidad. \ N [rojo] [Núcleo de la primera generación del parlamento de Zeta]",
     "requirements": [
     {"amount": 1500, "item": "copper"},
     {"amount": 800, "item": "lead"},

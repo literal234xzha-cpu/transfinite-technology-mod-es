@@ -2,7 +2,7 @@
 		"immunities": [
 "wet","spore-slowed","tarred","shocked","freezing","蜂群","甲板损坏"
 	],
-	"name": "海燕",
+	"name": "Hai Yen",
 	"type": "missile",
 	"template": "MissileUnitType",
 	"engineOffset": 3,
@@ -27,7 +27,7 @@
     ],
 	"weapons": [
 	{
-		    "name": "雨"
+		    "name": "Lluvia"
 			"x": 0
 			"y": 0
 			"reload": 40
@@ -70,7 +70,7 @@
 			}
 		}
 		{
-		    "name": "雨"
+		    "name": "Lluvia"
 			"x": 0
 			"y": 0
 			"reload": 40
@@ -113,7 +113,7 @@
 				"hitSound":"none",
 			}
 		}
-	{	"name": "无",	
+	{	"name": "No",	
 		"reload":20,
         "x": 0,  "y": 0, 
         "rotate": true,
@@ -134,7 +134,7 @@
 	    "lifetime":55,
 	    "width":7,	 "height":10
 	}	}
-	{	"name": "无",	
+	{	"name": "No",	
 		//"minShootVelocity": 1.5,
 		"reload": 120 
 	"shoot":{

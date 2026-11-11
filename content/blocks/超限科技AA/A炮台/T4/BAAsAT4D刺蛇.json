@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"刺蛇",
-"description":"超限集团研发出的可以打击更远目标的导弹，也就是刺蛇导弹，该导弹发射井可以发射刺蛇导弹攻击敌人，相较于尾针导弹佣有更远的攻击范围以及更大的威力，但是装弹的时间明显更长，并且由于刺蛇导弹巨大的体型，我同意发射井无法同时发射多枚刺蛇导弹\n\n[blue][超限技术炮台]",
+"name":"Serpiente espinosa",
+"description":"El misil desarrollado por el Grupo Ultra Rail puede atacar objetivos más lejanos, es decir, el misil Assassin. El silo de misiles puede lanzar un misil Assassin para atacar al enemigo. Tiene un rango de ataque más largo y una mayor potencia que el misil ultraminata. Sin embargo, el tiempo de carga es obviamente más largo y debido a la enorme forma del misil Assassin, estoy de acuerdo en que el silo no puede lanzar múltiples misiles Thorn al mismo tiempo.",
 "underBullets":true
 "health":16080,
 "targetable":false

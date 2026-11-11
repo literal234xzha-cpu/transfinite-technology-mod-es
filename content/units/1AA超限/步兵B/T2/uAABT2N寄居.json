@@ -1,7 +1,7 @@
 {
 	"type": "naval",
-	"name": "河豚",
-	"description": "中型战舰，拥有一门双管主炮，附带两架高射速的机枪攻击，对空对地，对建筑有伤害加成。\n[blue][超限技术海上舰船]",
+	"name": "Pez globo",
+	"description": "Buque de guerra mediano, equipado con un cañón principal de doble tubo y dos ametralladoras de alta cadencia de fuego. Capaz de atacar objetivos aéreos y terrestres, con daño adicional contra edificios.\n[blue][Buque de guerra con tecnología avanzada]",
 		"immunities": [
 		"wet","spore-slowed","tarred","甲板损坏"
 	],
@@ -23,7 +23,7 @@
 	"healColor": "c0ecff"
   "shieldColor": "c0ecff"
 	"weapons":[
-		{"name": "机枪1",	
+		{"name": "Ametralladora 1",	
 			"shoot":{
 		"type":"ShootAlternate",
 		"barrels":3,
@@ -108,7 +108,7 @@
     "buildingDamageMultiplier":5
 	               	}}
 	
-	{	"name": "界限炮1",	
+	{	"name": "Cañón de frontera 1",	
 		"reload":44,
         "x": 0
          "y": -6

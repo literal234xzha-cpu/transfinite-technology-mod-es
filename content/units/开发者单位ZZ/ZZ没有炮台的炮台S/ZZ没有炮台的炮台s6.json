@@ -1,6 +1,6 @@
 {
 		//"immunities": [    ],
-	"name": "高射炮",
+	"name": "Cañones antiaéreos",
 	"type": "missile",
 	"template": "MissileUnitType",
 		"engineOffset": 3,
@@ -14,7 +14,7 @@
 	"engineOffset": 0,
 	"missileAccelTime": 60,
 	"weapons": [
-	{	"name": "没有炮台的炮台s6",	
+	{	"name": "Batería sin cañones s6",	
 	               	"shootCone":30,
 		"reload":61,
         "x": 0

@@ -1,11 +1,11 @@
 {
     "type": "flying",
-    "name":"掠影"
-    "description": "飞行单位,小巧而迅速，有及高的攻速，中心有一门只能对空的主炮，有效的制空单位。\n\n[blue][超限技术特殊作战单元]",
+    "name":"Vistas rápidas"
+    "description": "Unidad aérea, pequeña y rápida, con una velocidad de ataque muy alta. En el centro tiene un cañón principal que solo puede atacar unidades aéreas. Es una unidad eficaz para el control aéreo.\n\n[blue][Unidad de combate especial de tecnología avanzada]",
     "immunities": [
 		"wet","spore-slowed","tarred","甲板损坏"
 	],
-	"details":"超限集团喷气式飞机的起源，相较于议会依靠火箭来飞行的飞船，超限集团选择了使用更加轻便的喷气式技术来进行地面高速移动"
+	"details":"El origen de los aviones a reacción del Grupo Transcendente. En comparación con las naves espaciales del Parlamento, que dependen de cohetes para volar, el Grupo Transcendente optó por utilizar la tecnología de propulsión a reacción, más ligera, para desplazarse a gran velocidad por tierra."
     "speed": 3.2
     "hitSize": 30
     "health": 260
@@ -37,7 +37,7 @@
     "cooldown": 120,}
     ],
     "weapons": [
-   {	"name": "无",	
+   {	"name": "No",	
 		"reload": 10, 
 		"x": 3,  "y": 5, 
 		"rotate": false,
@@ -66,7 +66,7 @@
     "frontColor":"1878BF"
     }
 	   	}
-	   	{	"name": "无",	
+	   	{	"name": "No",	
 		"reload": 90, 
 		"x": 0,  "y": 0, 
 		"rotate": false,

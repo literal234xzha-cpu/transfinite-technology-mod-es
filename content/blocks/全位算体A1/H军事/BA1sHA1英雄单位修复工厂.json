@@ -1,7 +1,7 @@
 {
 "type":"Reconstructor",
-"name":"英雄单位修复工厂",
-"description":"对于损坏的英雄单位的核心进行修复，无需消耗资源但时间长。\n\n[orange][全位算体英雄单位修复工厂]",
+"name":"Planta de reparación de unidades de héroe",
+"description":"Repare el núcleo de la unidad de héroe dañada sin consumir recursos pero con mucho tiempo. \ N \ n[orange][Planta de reparación de unidades de héroe de cálculo completo]",
 "size":3,
 "health":1640,
 "constructTime":18000,

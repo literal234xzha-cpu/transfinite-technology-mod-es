@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"重击",
-"description":"超限集团由冰雹炮改装而来的榴弹炮，尽管相较于冰雹的射程相对降低，但是换来了更大的打击范围，能够一次发射单枚分榴弹，有效的对集群敌人造成威胁\n\n[blue][超限技术炮台]",
+"name":"Golpea fuerte",
+"description":"El obús modificado del grupo de exceso de límite a partir del granizo tiene un alcance relativamente más bajo que el granizo, pero tiene un rango de ataque más grande. Puede lanzar una sola granada a la vez, lo que amenaza efectivamente al grupo de enemigos. [azul] [Fuerte de tecnología de límite superior]",
 "health":660,
 "size":2
 "reload":25,

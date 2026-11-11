@@ -1,5 +1,5 @@
 {
-"name":"地图尚未完成",
+"name":"El mapa aún no está completo",
 "description":"",
 "health":500,
 "hasShadow":false
@@ -13,7 +13,7 @@
 "alwaysUnlocked":true,
 /*"research":{
 "root":true,
-"name":"[blue]战役地图(超限工艺mod)"
+"name":"[Azul] Mapa de batalla (mod de artesanía por encima del límite)"
 "planet":"serpulo"
 },*/
 "canOverdrive":false,

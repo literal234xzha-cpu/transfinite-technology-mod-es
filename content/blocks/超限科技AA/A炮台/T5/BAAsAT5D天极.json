@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"天极",
-"description":"可发射战术导弹攻击敌人，佣有超远的攻击范围以及可怕的威力，装填时间长。\n\n[blue][超限技术炮台]",
+"name":"Cielo",
+"description":"Puede lanzar misiles tácticos para atacar al enemigo, el sirviente tiene un rango de ataque ultra largo y un poder terrible, y el tiempo de carga es largo. \n\n[azul][Batería de tecnología de superlímite]",
 "details":"Warning！NuclearMissileLaunched！"
 "underBullets":true
 "health":12080,

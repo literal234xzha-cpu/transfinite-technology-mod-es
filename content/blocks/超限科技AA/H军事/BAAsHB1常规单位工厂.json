@@ -1,7 +1,7 @@
 {
 "type":"UnitFactory",
-"name":"常规作战单位工厂",
-"description":"制造标准机甲单位，正规的进攻部队，可以在超限集团的改装厂进行升级。\n\n[blue][超限集团标准兵工厂]",
+"name":"Planta de unidad de combate convencional",
+"description":"Las unidades de fabricación de mechas estándar, las fuerzas ofensivas regulares, se pueden actualizar en la planta de reacondicionamiento del grupo de exceso de límite. \ N \ n[blue][arsenal estándar de grupo superlimitado]",
 "health":420,
 "size":4,
 "consumes":{"power":1.2,},

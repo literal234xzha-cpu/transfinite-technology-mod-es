@@ -25,7 +25,7 @@
 "faceTarget":false,
 //"maxRange":400,
 "weapons":[
-{"name":"猎杀2",
+{"name":"Caza 2",
 "reload":20,
 "x":-4,"y":14,
 "rotate":true,
@@ -46,7 +46,7 @@
 "buildingDamageMultiplier":3.0,
 }
 }
-{"name":"猎杀2",
+{"name":"Caza 2",
 "reload":20,
 "x":-8,"y":8,
 "rotate":true,
@@ -67,7 +67,7 @@
 "buildingDamageMultiplier":3.0,
 }
 }
-{"name":"猎杀1",
+{"name":"Caza 1",
 "shootCone":0
 "ammoUseEffect":"casing2Double",
 "shootSound":"mediumCannon",
@@ -101,7 +101,7 @@
 "maxDamageFraction":0.999999
 }
 }
-{"name":"猎杀3",
+{"name":"Caza 3",
 "reload":66
 "x":5,"y":-11,
 "rotate":true,

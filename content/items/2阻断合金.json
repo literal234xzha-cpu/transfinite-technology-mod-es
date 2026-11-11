@@ -1,6 +1,8 @@
 {
- "name":"阻断合金",//名称
- "description":"阻断合金，稳定，反电光武器，较高硬度\n \n[blue][超限技术物品]",//描述
+ "name":"Aleación de barrera",//名称
+ "description":"Aleación bloqueante, estable, arma electro-óptica contraria, alta dureza
+
+[azul][Objeto de tecnología avanzada]",//描述
  "color":"67888D",//颜色
  "cost":1//建筑消耗时间，为1帧
  "flammability":0,//燃烧性

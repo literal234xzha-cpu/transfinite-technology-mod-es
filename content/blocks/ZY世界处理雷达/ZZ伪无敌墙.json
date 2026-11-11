@@ -1,6 +1,6 @@
 {
-"name":"伪无敌墙",
-"description":"硬，可挡激光闪电",
+"name":"Muro pseudo invencible",
+"description":"Rayo láser duro y bloqueable",
 "type":"Wall",
 "health":2147483617,
 "armor":2147483617,

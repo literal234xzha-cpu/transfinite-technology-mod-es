@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"范愈",
-"description":"超限集团以监管为基础研发一种更为强大的修复炮台，相比于监管能够进行范围修复，适合延缓防线破坏程度，自动修复友方建筑。\n\n[blue][超限技术修复装置]",
+"name":"Fan Yu",
+"description":"Superlimitado Group desarrolla un fuerte de reparación más poderoso basado en la supervisión. En comparación con la supervisión, puede llevar a cabo una reparación de alcance, que es adecuada para retrasar el daño de la línea de defensa y reparar automáticamente edificios amigos. \ N \ n[blue][Dispositivo de reparación de tecnología de exceso de límite]",
 "targetAir":false,
 "targetGround":false,
 "targetHealing":true,

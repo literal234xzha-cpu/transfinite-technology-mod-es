@@ -1,8 +1,8 @@
 {
-"name":"电路装配厂",
+"name":"Fábrica de montaje de circuitos",
 "type":"GenericCrafter",
-"description":"用于组装集成电路，用途广泛的集成电路将会引发一场技术革命。\n\n[blue][超限技术低级工厂]",
-"details":"一切的转机",
+"description":"Utilizado para ensamblar circuitos integrados, los circuitos integrados con una amplia gama de usos desencadenarán una revolución tecnológica. \n\n[fábrica de nivel bajo de tecnología de superlímite]",
+"details":"El turno de todo",
 "itemCapacity":20,
 "health":640
 "size":3,

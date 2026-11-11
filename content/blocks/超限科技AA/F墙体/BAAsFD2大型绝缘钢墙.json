@@ -1,6 +1,6 @@
 {
-"name":"大型绝缘钢墙",
-"description":"较为坚硬,可阻挡激光与电流\n\n[blue][超限技术中级装甲墙]",
+"name":"Gran pared de acero aislado",
+"description":"Es relativamente resistente y puede bloquear láseres y corrientes eléctricas\n\n[blue][Muro blindado de nivel medio de tecnología superlímite]",
 "type":"Wall",
 "health":4000,
 "size":2,

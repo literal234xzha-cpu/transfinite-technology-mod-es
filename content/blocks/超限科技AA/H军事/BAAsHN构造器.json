@@ -1,6 +1,6 @@
 {"type":"Constructor"
-"name":"构造器"
-"description":"用于直接构建一些建筑，配合装配厂生产特化单位\n\n[blue][超限技术构造工厂]",
+"name":"Constructor"
+"description":"Se utiliza para construir directamente algunos edificios y cooperar con la planta de ensamblaje para producir unidades especiales \ n \ n[blue][fábrica de construcción de tecnología por encima del límite]",
 "hasPower":true
 "squareSprite":false
 "health":380,

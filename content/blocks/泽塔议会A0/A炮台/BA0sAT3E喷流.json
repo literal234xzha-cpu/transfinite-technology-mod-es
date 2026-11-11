@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"喷流",
-"description":"能够一次性发射多枚子弹，有效打击敌方装甲。\n[red][泽塔议会炮台]",
+"name":"Chorro",
+"description":"Puede disparar múltiples balas a la vez para combatir eficazmente la armadura enemiga. \n[rojo][Batería del Parlamento Zeta]",
 "health":2460,
 "size":3,
 "reload":70,

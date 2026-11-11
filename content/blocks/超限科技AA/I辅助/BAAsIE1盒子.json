@@ -1,12 +1,12 @@
 {
-"description":"建立一个简易的储存器，可以使用卸载器取出物品，容量较小\n\n[超限集团储存单元]",
+"description":"Establezca un almacenamiento simple, puede usar el descargador para extraer artículos, la capacidad es pequeña \ n \ n [Unidad de almacenamiento grupal por encima del límite]",
 "requirements":[
 {"amount":100,"item":"copper"}
 {"item":"lead","amount":50}
 {"item":"0铜铅合金","amount":50}
 ],
 "type":"StorageBlock",
-"name":"盒子",
+"name":"Caja",
 "size":1,
 "itemCapacity":90,
 "research":{

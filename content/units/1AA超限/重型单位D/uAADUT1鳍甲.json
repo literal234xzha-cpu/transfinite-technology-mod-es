@@ -1,7 +1,7 @@
 {
 "type":"naval",
-"name":"鳍甲",
-"description":"特装驱逐舰，拥有一座双联鱼雷管，一座双联火炮以及一座双联防空火箭炮，移动速度很快，装甲薄弱，不定时的释放烟雾弹来掩护自己及周围友军。\n[blue][超限技术重型海上单位]",
+"name":"Escamas pectorales",
+"description":"Destructor especialmente equipado, con un tubo lanzatorpedos doble, un cañón doble y un lanzacohetes antiaéreo doble. Se desplaza muy rápido y tiene un blindaje débil. Suelta bombas de humo de forma intermitente para cubrirse a sí mismo y a los aliados cercanos.\n[blue][Unidad marítima pesada con tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","tarred","甲板损坏"
 ],
@@ -22,7 +22,7 @@
 "abilities":[
 ]
 "weapons":[
-{"name":"界限炮1",
+{"name":"Cañón de frontera 1",
 "reload":44,
 "x":0
 "y":-6
@@ -272,7 +272,7 @@
 }
 ]
 }}
-{"name":"鳍甲1",
+{"name":"Escama 1",
 "shootCone":3
 "rotationLimit":270,
 "reload":120
@@ -338,7 +338,7 @@
 }
 }
 }
-{"name":"无",
+{"name":"No",
 "shootCone":360
 "reload":3600
 "x":0
@@ -387,7 +387,7 @@
 }
 }
 }
-{"name":"磐石1",
+{"name":"Roca 1",
 "shootCone":180
 "reload":66
 "x":0

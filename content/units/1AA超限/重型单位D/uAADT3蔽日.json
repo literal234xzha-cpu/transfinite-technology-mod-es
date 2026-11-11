@@ -1,8 +1,8 @@
 {
 "type":"flying",
-"name":"极鹰"
-"description":"极端重型飞行单位，通过海量导弹对敌人进行轰炸，两人强力的空间主炮能有效损伤敌人，自身能够生产'鹰爪'僚机进行辅助攻击，其僚机能有效的掩护各种类型单位进攻。\n\n[blue][超限技术重型空军单位]",
-"details":"自身能够产生疗机进行辅助回血"
+"name":"JiYing"
+"description":"Unidad aérea extremadamente pesada que bombardea al enemigo con una gran cantidad de misiles. Sus dos potentes cañones espaciales principales pueden infligir daños efectivos al enemigo. Puede producir aviones de escolta «Garra de Águila» para realizar ataques de apoyo. Sus aviones de escolta pueden proteger eficazmente a todo tipo de unidades durante los ataques.\n\n[blue][Unidad aérea pesada con tecnología avanzada]",
+"details":"Puede generar un dispositivo de curación para ayudar a recuperar la vida."
 "immunities":[
 "wet","spore-slowed","tarred","shocked","electrified","脆裂","列阵","甲板损坏"
 ],
@@ -74,7 +74,7 @@
 }
 ]
 "weapons":[
-{"name":"无",
+{"name":"No",
 "shootCone":360,
 "reload":30
 "x":22
@@ -101,7 +101,7 @@
 "shootEffect":"shootSmall",
 }
 }
-{"name":"无",
+{"name":"No",
 "shootCone":120,
 "reload":1500
 "x":0
@@ -129,7 +129,7 @@
 }
 }
 {
-"name":"无",
+"name":"No",
 "reload":56
 "x":20
 "y":28
@@ -279,7 +279,7 @@
 "collidesAir":true
 }}}
 {
-"name":"蔽日边"
+"name":"Borde del parasol"
 "x":16
 "y":-4
 "reload":60,
@@ -322,7 +322,7 @@
 }
 }
 {
-"name":"蔽日中"
+"name":"Bajo el sol abrasador"
 "x":0
 "y":9
 "reload":60,

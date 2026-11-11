@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"贝塔",
-"description":"泽塔议会所研发的超代核心的防卫飞行器，能够以较快的速度建造，同时开采一些矿物，携带护盾及护盾回复立场，拥有两门机炮。\n[red][泽塔议会核心机]",
+"name":"Beta",
+"description":"La nave de defensa con núcleo supergeneracional desarrollada por el Consejo Zetta se puede construir a un ritmo más rápido, mientras extrae algunos minerales, lleva escudos y un campo de recuperación de escudos, y está equipada con dos cañones automáticos.\n[red][Nave central del Consejo Zetta]",
 "speed":1.9,
 "accel":0.05,"drag":0.03,
 "rotateSpeed":5,
@@ -36,7 +36,7 @@
 ]
 "weapons":[
 {
-"name":"贝塔1",
+"name":"Beta 1",
 "reload":24
 "x":0
 "y":0

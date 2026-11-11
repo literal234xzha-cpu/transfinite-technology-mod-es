@@ -1,7 +1,7 @@
 {
 "type":"UnitFactory",
-"name":"战争工厂",
-"description":"更快制造单位，同时可以生产一些特殊的特种单位。\n\n[blue][超限集团中型兵工厂]",
+"name":"Fábrica de guerra",
+"description":"Las unidades de fabricación son más rápidas y se pueden producir algunas unidades especiales especiales. \ N \ n[blue][arsenal mediano del grupo superlimitado]",
 "health":1640,
 "size":6,
 "consumes":{"power":5.8

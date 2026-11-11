@@ -1,6 +1,6 @@
 {
-"name":"大型特型装甲墙",
-"description":"强大而坚固，可以反弹子弹。\n[red][泽塔议会墙体]",
+"name":"Gran muro blindado extra",
+"description":"Poderoso y robusto, puede rebotar balas. \ N [rojo] [Muro del Parlamento de Zeta]",
 "type":"Wall",
 "health":6400,
 "lightningChance":0.3

@@ -1,7 +1,7 @@
 {
     "type": "flying",
-    "name":"灾劫"
-    "description": "飞行单位，迅速，有及高的攻速，能够有效制空，两边的激光炮能有效攻击空中单位。\n\n[blue][超限技术飞行作战单元]",
+    "name":"Calamidad"
+    "description": "Unidad aérea, rápida, con una velocidad de ataque muy alta, capaz de controlar eficazmente el espacio aéreo. Los cañones láser a ambos lados pueden atacar eficazmente a las unidades aéreas.\n\n[blue][Unidad de combate aéreo de tecnología avanzada]",
     "immunities": [
 		"wet","spore-slowed","tarred","甲板损坏"
 	],
@@ -37,7 +37,7 @@
     "cooldown": 120,}
     ],
     "weapons": [
-   {	"name": "无",	
+   {	"name": "No",	
 		"reload": 10, 
 		"x": 7,  "y": 4, 
 		"rotate": false,
@@ -66,7 +66,7 @@
 	"lifetime": 40
     }
 	   	}
-	   	{	"name": "无",	
+	   	{	"name": "No",	
 		"reload": 282, 
 		"x": 0,  "y": 0, 
 		"rotate": false,

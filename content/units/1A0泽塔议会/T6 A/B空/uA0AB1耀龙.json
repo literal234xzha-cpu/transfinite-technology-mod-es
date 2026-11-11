@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"耀龙"
-"description":"永恒级空军单位，拥有极端可怕的实力，死亡后会复活一次，其上配备有两门赤焰炮，四门重火炮，四门激光炮。\n[red][泽塔议会永恒级单位]",
+"name":"Yaolong"
+"description":"Unidad aérea de clase Eterna, con un poder extremadamente formidable. Revive una vez tras morir. Está equipada con dos cañones de llamas rojas, cuatro cañones pesados y cuatro cañones láser.\n[red][Unidad de clase Eterna del Consejo Z]",
 "speed":0.78,
 "hitSize":94,
 "health":39000,
@@ -33,7 +33,7 @@
 },]
 "weapons":[
 {
-"name":"耀龙3",
+"name":"Yaolong 3",
 "reload":15,
 "x":24,
 "y":-36,
@@ -68,7 +68,7 @@
 }
 }
 {
-"name":"耀龙3",
+"name":"Yaolong 3",
 "reload":15,
 "x":48,
 "y":36,
@@ -102,7 +102,7 @@
 }
 }
 {
-"name":"耀龙2",
+"name":"Yaolong 2",
 "x":48,
 "y":-33,
 "mirror":true,
@@ -145,7 +145,7 @@
 }
 }
 {
-"name":"耀龙2",
+"name":"Yaolong 2",
 "x":21,
 "y":33,
 "mirror":true,
@@ -188,7 +188,7 @@
 }
 }
 {
-"name":"耀龙1",
+"name":"Yaolong 1",
 "reload":120,
 "x":24,
 "y":0

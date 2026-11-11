@@ -1,7 +1,7 @@
 {
 "type":"hover",
-"name":"火花"
-"description":"用于突击敌方建筑的自爆单位,可以在水上移动，装甲笨重。\n\n[blue][超限技术特殊作战单元]",
+"name":"Centelleos"
+"description":"Unidad suicida utilizada para asaltar edificios enemigos. Puede moverse sobre el agua y tiene un blindaje pesado.\n\n[blue][Unidad de combate especial de tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","tarred","甲板损坏"
 ],
@@ -47,7 +47,7 @@
 }
 ]
 "weapons":[
-{"name":"无",
+{"name":"No",
 "reload":10,
 "x":0,"y":0,
 "rotate":false,

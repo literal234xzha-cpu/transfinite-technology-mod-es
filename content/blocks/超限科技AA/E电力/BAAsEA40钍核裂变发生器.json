@@ -1,7 +1,7 @@
 {
 "type":"NuclearReactor",
-"name":"钍基熔盐反应堆",
-"description":"依靠钍裂变反应产生大量热量发电，处于临界状态的反应，冷却液供应不足时会发生毁灭性的爆炸，发电量与内部钍量成正比。\n[cyan]面板显示的冷却液消耗不准，实际上是24/s左右。\n\n[blue][超限技术反应堆]",
+"name":"Reactor de sal fundida a base de torio",
+"description":"Confiando en la reacción de fisión de torio para generar una gran cantidad de calor para generar electricidad, la reacción en un estado crítico, cuando el suministro de refrigerante es insuficiente, se producirá una explosión devastadora, y la generación de energía es directamente proporcional a la cantidad de torio interno. \ N [cyan] El panel muestra un consumo inexacto de refrigerante, que en realidad es de alrededor de 24/s. \n\n[Techo de la tecnología Reactor de respuesta]",
 "size":5,
 "health":3200
 "liquidCapacity":400,

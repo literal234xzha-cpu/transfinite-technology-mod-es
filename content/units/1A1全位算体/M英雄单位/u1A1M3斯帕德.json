@@ -1,7 +1,7 @@
 {
 "type":"legs",
-"name":"斯帕德",
-"description":"全位算体首席科学家斯帕德的专属机甲，以辅助型武器为主，能够发射将敌人瘫痪的电池脉冲的脉冲炮，同时近距离有高温喷火器防身。\n[orange][全位算体英雄单位-斯帕德]",
+"name":"Spad",
+"description":"El meca exclusivo de Spud, el científico jefe de la Entidad Omnidireccional, está equipado principalmente con armas de apoyo. Puede disparar un cañón de impulsos que emite impulsos de batería para paralizar al enemigo, y también cuenta con un lanzallamas de alta temperatura para defenderse a corta distancia.\n[orange][Unidad heroica de la Entidad Omnidireccional - Spud]",
 "speed":0.9,
 "hitSize":12,
 "hovering":true,
@@ -47,7 +47,7 @@
 "weapons":[
 {
 "mirror":false,//镜像，是否对称
-"name":"斯帕德-1",//武器名称
+"name":"Spade-1",//武器名称
 "reload":10,//装填时间（单位：帧）
 "shootY":2,//射击时的Y轴偏移量
 "rotate":false,//是否随武器旋转
@@ -104,7 +104,7 @@
 }
 }
 {
-"name":"斯帕德-2",
+"name":"Spad-2",
 "reload":122,
 "shootY":1,
 "x":-4,

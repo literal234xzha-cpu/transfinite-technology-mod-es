@@ -1,7 +1,7 @@
 {
- "name":"泽塔合金",
- "description":"佣有绝对的韧性与硬度，是议会核心设备的材料,重要的战备资源。",
- "details":"在极端条件下合成，泽塔议会科技的结晶。",//剧情
+ "name":"Aleación Z",
+ "description":"Posee una resistencia y dureza absolutas, es el material de los equipos centrales del parlamento y un importante recurso de preparación para la guerra.",
+ "details":"Sintetizado en condiciones extremas, es la culminación de la tecnología del Consejo Zeta.",//剧情
  "color":"FF6547FF",//颜色，为8个或者6个字母和数字组成，后面两个确定透明度*
  "cost":1//建筑消耗时间，为1帧
  "flammability":0,//燃烧性，可填负数/小数，确定了着火和装有此物品的方块爆掉后的火焰多少和塞进燃烧发电机的发电大小

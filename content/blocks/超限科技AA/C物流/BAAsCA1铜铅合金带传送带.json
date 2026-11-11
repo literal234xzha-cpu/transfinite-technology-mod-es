@@ -1,7 +1,7 @@
 {
 "type":"Conveyor",
-"name":"合成带传送带",
-"description":"速度较慢于钛带，但在前期的动力不错。\n\n[blue][超限技术物流装置]",
+"name":"Cinta sintada Cinta transportadora",
+"description":"La velocidad es más lenta que la banda de titanio, pero la potencia es buena en la etapa inicial. \n\n[Tecnología de superlímite, dispositivo logístico]",
 "health":50,
 "requirements":[
 {"item":"copper","amount":1},

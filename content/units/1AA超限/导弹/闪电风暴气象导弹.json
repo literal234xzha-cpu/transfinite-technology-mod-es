@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": "超共振导弹",
+	"name": "Misil superresonante",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 16968
 	"armor": 33
 	"speed": 2
@@ -51,7 +51,7 @@
 ]
 	"weapons": [
 	{
-    "name": "无",
+    "name": "No",
     "shootCone":360,
     "reload": 2,
    // "rebuildable":false,//不可重建

@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"摘星",
-"description":"对空的激光攻击，同时会发射干扰导弹，强大坚固难以破坏，弹药自给自足。\n\n[orange][全位算体要塞炮]",
+"name":"Estrella",
+"description":"Ataques con láser en el aire, y al mismo tiempo disparará misiles de interferencia, poderosos y fuertes, difíciles de destruir, y la munición es autosuficiente. \ N \ n[orange][cañón de fortaleza de cálculo completo]",
 "targetAir":true,
 "targetGround":false,
 "health":4500,

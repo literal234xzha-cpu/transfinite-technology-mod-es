@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"泽塔",
-"description":"泽塔议会所研发的超代核心的防卫飞行器，能够以较快的速度建造，同时开采一些矿物，携带护盾和生命回复立场，拥有两门机炮以及火箭炮，有一定的反建筑能力。\n[red][泽塔议会核心机]",
+"name":"Zeta",
+"description":"La nave de defensa con núcleo supergeneracional desarrollada por el Consejo Zetta se puede construir a un ritmo más rápido, mientras se extraen algunos minerales. Está equipada con escudos y campos de recuperación de vida, así como con dos cañones automáticos y lanzacohetes, lo que le confiere cierta capacidad antiblindaje.\n[red][Núcleo del Consejo Zetta]",
 "speed":1.8,
 "accel":0.05,"drag":0.03,
 "rotateSpeed":5,
@@ -42,7 +42,7 @@
 ]
 "weapons":[
 {
-"name":"欧米茄1",
+"name":"Omega 1",
 "reload":23
 "x":0
 "y":0
@@ -74,7 +74,7 @@
 "homingPower":0.03,
 }}
 {
-"name":"无",
+"name":"No",
 "reload":124
 "x":0
 "y":0

@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"预言"
-"description":"飞行单位，为攻城而生，能够有效攻击建筑，不能攻击空中单位\n\n[blue][超限技术特殊作战单元]",
+"name":"profecía"
+"description":"Unidad aérea, diseñada para asedios, capaz de atacar edificios de manera efectiva, no puede atacar unidades aéreas\n\n[blue][Unidad de combate especial de tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","tarred","甲板损坏"
 ],
@@ -27,7 +27,7 @@
 "trailWidth":2,
 "itemCapacity":5
 "weapons":[
-{"name":"无",
+{"name":"No",
 "reload":60,
 "x":0,"y":0,
 "rotate":false,

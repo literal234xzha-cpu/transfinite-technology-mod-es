@@ -24,7 +24,7 @@
 "targetAir":true,
 "targetGround":true,
 "weapons":[
-{"name":"精英尖刀0",
+{"name":"Cuchillo de combate élite 0",
 "reload":23,
 "x":6,"y":1.5,
 "rotate":false

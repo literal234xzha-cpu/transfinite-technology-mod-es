@@ -1,6 +1,6 @@
 {
-"name":"大型阻断墙",
-"description":"极端坚硬,可阻挡激光与电流\n\n[blue][超限技术高级装甲墙]",
+"name":"Muro de bloqueo grande",
+"description":"Extremadamente resistente, puede bloquear láseres y corriente eléctrica\n\n[blue][Muro de blindaje avanzado de tecnología superlímite]",
 "type":"Wall",
 "health":11200,
 "size":2,

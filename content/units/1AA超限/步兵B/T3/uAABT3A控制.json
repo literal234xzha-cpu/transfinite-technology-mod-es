@@ -1,7 +1,7 @@
 {
 "type":"mech",
-"name":"默王"
-"description":"超限集团的主战机甲，通过音波炮对敌方进行伤害\n\n[blue][超限技术作战大型机甲]",
+"name":"Rey Silencioso"
+"description":"El mecha principal de combate del Grupo Ultralímite inflige daño al enemigo con su cañón sónico.\n\n[blue][Mecha grande de combate con tecnología ultralímite]",
 "immunities":[
 "wet","spore-slowed","甲板损坏"
 ],
@@ -41,7 +41,7 @@
 "smokeEffect":"none"
 "weapons":[
 {
-"name":"控制1",
+"name":"Control 1",
 "reload":15
 "x":0
 "y":0

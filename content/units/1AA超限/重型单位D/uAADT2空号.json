@@ -1,8 +1,8 @@
 {
 "type":"flying",
-"name":"空号"
-"description":"重型飞行单位，通过侧面强大的火箭炮来攻击敌方单位，正方向有贯穿式激光，两门机枪进行辅助攻击。\n\n[blue][超限技术重型空军单位]",
-"details":"超限集团当初设计这个的目的是以求直接突入敌人内部，对敌人造成巨大威胁，但事实上往往是那些为了收割敌人而装在侧面的副炮根本无法发挥作用，甚至为了防御还要专门把身子侧过来。\n\n于是单位设计师被建议拉出去拆了。"
+"name":"corona no"
+"description":"Unidad aérea pesada que ataca a las unidades enemigas con sus potentes lanzacohetes laterales. Dispone de un láser penetrante en la parte delantera y dos ametralladoras que le sirven de apoyo.\n\n[blue][Unidad aérea pesada de tecnología avanzada]",
+"details":"El propósito original del Grupo Excedente al diseñar esto era penetrar directamente en las filas enemigas y suponer una gran amenaza para el enemigo. Sin embargo, en la práctica, los cañones secundarios instalados en los laterales para acabar con el enemigo a menudo no podían desempeñar su función, e incluso era necesario girar el cuerpo específicamente para defenderse.\n\nPor lo tanto, se sugirió que se sacara al diseñador de la unidad y se le desmantelara."
 "immunities":[
 "wet","spore-slowed","tarred","shocked","electrified","脆裂","甲板损坏"
 ],
@@ -46,7 +46,7 @@
 ]
 "weapons":[
 {
-"name":"空号前"
+"name":"Antes del número vacío"
 "x":10
 "y":9
 "reload":10,
@@ -88,7 +88,7 @@
 }
 }
 {
-"name":"空号后"
+"name":"Después del número vacío"
 "x":0,
 "y":-12
 "reload":10,
@@ -128,7 +128,7 @@
 "despawnSound":"none",
 }
 }
-{"name":"空号2",
+{"name":"Número inexistente 2",
 "shootCone":30,
 "baseRotation":0
 "rotationLimit":10,
@@ -171,7 +171,7 @@
 "backColor":"c0ecff",
 }
 }
-{"name":"空号1",
+{"name":"Número inexistente 1",
 "shootCone":30,
 "baseRotation":-90
 "rotationLimit":120,
@@ -200,7 +200,7 @@
 "shootEffect":"shootSmall",
 }
 }
-{"name":"空号1",
+{"name":"Número inexistente 1",
 "shootCone":30,
 "baseRotation":-90
 "rotationLimit":120,
@@ -229,7 +229,7 @@
 "shootEffect":"shootSmall",
 }
 }
-{"name":"空号1",
+{"name":"Número inexistente 1",
 "shootCone":30,
 "baseRotation":-90
 "rotationLimit":120,
@@ -259,7 +259,7 @@
 }
 }
 {
-"name":"无",
+"name":"No",
 "reload":300,
 "x":0
 "y":18

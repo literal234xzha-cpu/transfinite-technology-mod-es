@@ -1,5 +1,5 @@
 {
-	"name": "力墙发生器",
+	"name": "Generador de muros de fuerza",
 	"type": "missile"
 	"lifetime":300,
 	"flying": false,

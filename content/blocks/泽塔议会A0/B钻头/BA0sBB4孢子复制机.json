@@ -1,7 +1,7 @@
 {
 "craftTime":66
 "size":3,
-"description":"为了应对愈加扩大的孢子的消耗，泽塔议会研发出了更加高效的孢子培养装置，通过扩大养殖规模，合理密植，孢子产量呈几何倍上涨。\n[red][泽塔议会培养装置]",
+"description":"Para hacer frente al consumo cada vez mayor de esporas, el Consejo de Zeta ha desarrollado un dispositivo de cultivo de esporas más eficiente. Al expandir la escala de reproducción y plantar razonablemente densamente, la producción de esporas ha aumentado exponencialmente. \n[rojo][Dispositivo de cultivo del Parlamento Zeta]",
 "hasLiquids":true,
 "hasPower":true,
 "hasItems":true,
@@ -37,7 +37,7 @@
 "liquid":{"liquid":"water",
 "amount":0.64},
 },
-"name":"孢子繁殖场",
+"name":"Granja de cría de esporas",
 "itemCapacity":20,
 "liquidCapacity":40,
 "outputItem":{

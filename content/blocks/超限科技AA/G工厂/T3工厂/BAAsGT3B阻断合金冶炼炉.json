@@ -1,7 +1,7 @@
 {
 "type":"GenericCrafter",
-"name":"阻断合金冶炼炉",
-"description":"再次加工绝缘钢制作阻断合金\n\n[blue][超限技术高级工厂]",
+"name":"Horno de fundición de aleación de bloqueo",
+"description":"Vuelva a procesar el acero aislado para hacer la aleación de bloqueo \ n \ n [azul] [Fábrica avanzada de tecnología por encima del límite]",
 "health":640,
 "outputItem":{"item":"2阻断合金","amount":8},
 "itemCapacity":24,

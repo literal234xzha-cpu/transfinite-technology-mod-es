@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"磁化",
-"description":"超限集团由电弧改造的更高功率的电炮，相较于电弧有更远的攻击距离，能在短时间内释放大量闪电攻击敌人\n\n[blue][超限技术炮台]",
+"name":"Magnetización",
+"description":"El cañón eléctrico de mayor potencia modificado por un arco tiene una mayor distancia de ataque que el arco y puede liberar una gran cantidad de rayos para atacar al enemigo en poco tiempo. \ n \ n [azul] [Fuerte de tecnología de límite superior]",
 "health":600,
 "reload":30,
 "shootCone":60,

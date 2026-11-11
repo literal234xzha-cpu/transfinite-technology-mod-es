@@ -1,7 +1,7 @@
 {
-"name":"高能芯片装配厂",
+"name":"Planta de ensamblaje de chips de alta energía",
 "type":"GenericCrafter",
-"description":"用于组装高能芯片\n\n[blue][超限技术高级工厂]",
+"description":"Para el montaje de chips de alta energía \ n \ n[blue][fábrica avanzada de tecnología de límite superior]",
 "itemCapacity":20,
 "health":1280,
 "size":4,

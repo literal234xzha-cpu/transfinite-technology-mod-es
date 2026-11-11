@@ -14,7 +14,7 @@
 	
 	"legSplashDamage":8
 	"legSplashRange":12
-	"description": "核心单位，用于保护终界核心。\n\n[blue][超限集团重型核心爬虫]",
+	"description": "Unidad central utilizada para proteger el núcleo del Fin.\n\n[blue][Rastreador pesado del Grupo Ultralímite]",
 				"immunities": [
 "burning","freezing","melting","wet","spore-slowed","shocked","electrified","列阵","甲板损坏"
 	],
@@ -47,7 +47,7 @@
 	"hovering": true,
 	"canDrown": false,
 		"maxRange": 400
-	"name": "伊普西龙",
+	"name": "Ípsilon",
 	"canBoost": false,
 	"speed": 0.85
 	"hitSize": 6
@@ -64,7 +64,7 @@
 	"faceTarget": true,
 	"weapons": [
 	{
-			"name": "袒护1",
+			"name": "Proteger 1",
 			"reload": 420,
 			"x": -3
 			"y": 0

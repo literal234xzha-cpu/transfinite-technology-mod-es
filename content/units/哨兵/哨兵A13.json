@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"哨兵A13",
-"description":"[访问无效]",
+"name":"Centinela A13",
+"description":"[Acceso no válido]",
 "immunities":["甲板损坏","disarmed","spore-slowed","slow","超限工艺-静止","unmoving"],
 "speed":2.1
 "drag":0.05,"accel":0.1,
@@ -159,7 +159,7 @@
 ]
 "weapons":[
 {
-"name":"无",
+"name":"No",
 "x":0
 "y":0
 "shake":8,
@@ -212,7 +212,7 @@
 }
 }
 {
-"name":"无",
+"name":"No",
 "x":6
 "y":7
 "shake":2,
@@ -260,7 +260,7 @@
 }
 }
 {
-"name":"无",
+"name":"No",
 "x":0
 "y":0
 "shake":8,
@@ -304,7 +304,7 @@
 }
 }
 {
-"name":"无",
+"name":"No",
 "x":0
 "y":0
 "shake":8,
@@ -337,7 +337,7 @@
 "statusDuration":30,
 }}
 {
-"name":"无",
+"name":"No",
 "x":0
 "y":0
 "shake":8,

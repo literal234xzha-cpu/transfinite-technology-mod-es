@@ -1,6 +1,6 @@
 {
-"name":"合成导管桥"
-"description":"可以跨越更远地形进行液体传输。\n\n[blue][超限技术液体导管桥]",
+"name":"Puente de conducto sintético"
+"description":"El transporte de líquidos se puede realizar a través de terrenos más lejanos. \ N \ n [azul] [Puente de conducto líquido de tecnología de exceso de límite]",
 "type":"LiquidBridge",
 "health":60,
 "range":6

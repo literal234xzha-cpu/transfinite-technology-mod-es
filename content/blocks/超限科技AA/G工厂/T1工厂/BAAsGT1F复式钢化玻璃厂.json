@@ -1,8 +1,8 @@
 {
 "type":"GenericCrafter",
-"name":"复式钢化玻窟炉",
+"name":"Horno de cueva de vidrio de acero dúplex",
 "health":320,
-"description":"无需电力，快速加工钢化玻璃，以求前期的产量，但有大量损耗，尽管如此，它依旧被超限集团用于合成钢化玻璃。\n\n[blue][超限技术低级工厂]",
+"description":"Sin electricidad, el vidrio templado se procesa rápidamente para la producción inicial, pero hay una gran cantidad de pérdidas, a pesar de esto, el grupo todavía lo utiliza para el vidrio templado sintético. \n\n[fábrica de nivel bajo de tecnología de superlímite]",
 "outputItem":{"item":"metaglass","amount":5},
 "alwaysUnlocked":false,
 "size":3,

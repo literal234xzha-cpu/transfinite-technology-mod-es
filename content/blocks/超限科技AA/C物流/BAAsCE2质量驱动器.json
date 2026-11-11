@@ -1,6 +1,6 @@
 {
-"name":"质量驱动器T-A型",
-"description":"中距离发送物品包，收集一定物品后将其发射到另一个质量驱动器T-A型中。\n\n[blue][超限技术物流装置]",
+"name":"Tipo de T-A de unidad de calidad",
+"description":"El paquete de artículos se envía a media distancia, y después de recolectar un determinado artículo, se envía a otro tipo de T-A de unidad de calidad. \ N \ n[blue][Dispositivo de logística de tecnología de exceso de límite]",
 "type":"MassDriver",
 "size":3
 "hasItems":true,

@@ -1,7 +1,7 @@
 {
 "type":"naval",
-"name":"台风",
-"description":"超限集团的水下特殊单位，能够悄无声息的摧毁敌方舰船，在水下可以发射导弹以打击地面和空中单位，浮上水面时可以对敌方建筑发动致命性的核打击。\n\n[red]此单位不会在小地图上显-示！！！\n\n[blue][超限技术特种单位]",
+"name":"Typhoon",
+"description":"La unidad especial submarina del Grupo Ultralímite es capaz de destruir silenciosamente los buques enemigos. Puede lanzar misiles bajo el agua para atacar a unidades terrestres y aéreas, y cuando emerge a la superficie, puede lanzar ataques nucleares devastadores contra las edificaciones enemigas.\n\n[red]¡¡¡Esta unidad no aparece en el minimapa!!!\n\n[blue][Unidad Especial de Tecnología Ultralímite]",
 "immunities":[
 "wet","spore-slowed","tarred","freezing","tarred","甲板损坏"
 ],
@@ -24,7 +24,7 @@
 "drawMinimap":false
 "weapons":[
 {
-"name":"无",
+"name":"No",
 "reload":96
 "x":0
 "y":0
@@ -59,7 +59,7 @@
 "speed":0,
 }}
 {
-"name":"台风1",
+"name":"Tifón 1",
 "reload":3600
 "x":0
 "y":0
@@ -135,7 +135,7 @@
 }
 }
 {
-"name":"台风2",
+"name":"Tifón 2",
 "mirror":false,
 "reload":96,
 "x":0,

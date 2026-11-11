@@ -1,7 +1,7 @@
 {
 "type":"Reconstructor",
-"name":"超限改装厂",
-"description":"对一些次级单位进行改装升级，这将再次增强他们的作战能力，或者是其他的能力\n\n[blue][超限集团改装工厂]",
+"name":"Fábrica de reacondicionamiento por encima del límite",
+"description":"Modificación y mejora de algunas subunidades, lo que una vez más mejorará sus capacidades de combate, u otras capacidades \ n \ n [azul] [Fábrica de modificación de grupo por encima del límite]",
 "size":6
 "constructTime":3600,
 "consumes":{

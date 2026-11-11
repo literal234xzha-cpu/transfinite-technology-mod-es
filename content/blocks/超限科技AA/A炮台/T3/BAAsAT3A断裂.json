@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"断裂",
-"description":"雷光的变种，超限集团早期提出的概念，但由于其被认为“实用性不高”而被否决，但在超限集团防御基地采用时，事实证明这确实是一种非常有效的可靠的防御武器，该武器通过发射特制的子弹，远程释放类似于雷光的弹片\n\n[blue][超限技术炮台]",
+"name":"Rotura",
+"description":"La variante de Lei Guang, el concepto propuesto por el grupo de exceso de límite en los primeros días, fue rechazada porque se consideraba &quot;poco práctico&quot;. Sin embargo, cuando se adoptó la base de defensa del grupo de exceso de límite, resultó ser una defensa muy eficaz y confiable. Arma, que dispara balas especiales, liberación remota de metralla similar a la luz del trueno \ n \ n [azul] [Batería de tecnología de exceso de límite]",
 "health":1260,
 "size":3
 "liquidCapacity":100,

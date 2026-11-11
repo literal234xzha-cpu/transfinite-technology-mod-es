@@ -1,7 +1,8 @@
 {
 "type":"ThermalGenerator",
-"name":"孢子生物质发电机",
-"description":"孢子发电机，利用生物技术，将地表上的孢子反应发电，发电效率一般。\n[red][泽塔议会发电机]",
+"name":"Generador de biomasa de esporas",
+"description":"Generador de esporas, utiliza biotecnología para generar electricidad mediante la reacción de esporas en la superficie terrestre, la eficiencia de generación de electricidad es promedio.
+[rojo][Generador del Parlamento Zeta]",
 "size":2,
 "health":460,
 "hasLiquids":false,

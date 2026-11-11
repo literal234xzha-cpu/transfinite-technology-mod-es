@@ -1,7 +1,7 @@
 {
-"name":"专业爆炸物混合工厂",
+"name":"Fábrica profesional de mezcla de explosivos",
 "type":"GenericCrafter",
-"description":"专业加工爆炸混合物，有更大产量同时需要更大的供应量以支持其正常生产\n\n[blue][超限技术中级工厂]",
+"description":"Especializado en el procesamiento de mezclas explosivas, con un mayor rendimiento y un mayor suministro para respaldar su producción normal \ n \ n [azul] [fábrica intermedia de tecnología de límite superior]",
 "itemCapacity":20,
 "health":1860,
 "size":3,

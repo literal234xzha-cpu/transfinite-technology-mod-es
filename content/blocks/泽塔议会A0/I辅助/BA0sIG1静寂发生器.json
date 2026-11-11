@@ -1,7 +1,7 @@
 {
 	"type": "PowerTurret",
-	"name": "静寂发生器",
-	"description": "泽塔议会为了对抗飞行速度极快的小型飞行器制造的特殊立场，能够有效降低进入立场的飞机的移动速度。\n[red][泽塔议会特殊辅助装置]",
+	"name": "Generador de silencio",
+	"description": "El Parlamento de Zeta puede reducir efectivamente la velocidad de movimiento de los aviones que ingresan a la posición para contrarrestar la posición especial de los aviones pequeños que vuelan extremadamente rápido. \ N [red][Dispositivo auxiliar especial del parlamento de Zeta]",
 	"underBullets":true
 	"health": 1080,
 	"size": 3

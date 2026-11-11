@@ -1,6 +1,6 @@
 {
-"name":"小型质量驱动器",
-"description":"短距离发送物品包，收集一定物品后将其发射到另一个微型质量驱动器中。\n\n[blue][超限技术物流装置]",
+"name":"Unidad de calidad pequeña",
+"description":"Los paquetes de artículos se envían a distancias cortas, y después de recolectar ciertos artículos, se envían a otra unidad de masa en miniatura. \n\n[Tecnología de superlímite, dispositivo logístico]",
 "type":"MassDriver",
 "size":1,
 "hasItems":true,

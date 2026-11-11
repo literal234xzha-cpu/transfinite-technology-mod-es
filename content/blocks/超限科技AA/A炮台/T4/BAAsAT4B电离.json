@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"极磁",
-"description":"在电磁领域的深度研究使得超限集团研发了这种特制的炮台，其轨迹近似于磁场，以几乎唯美的移动来攻击敌方单位，其强大的磁场使得会不断向周围的单位靠拢，在命中后对该单位释放巨大能量\n\n[blue][超限技术炮台]",
+"name":"Extremo magnético",
+"description":"La investigación en profundidad en el campo del electromagnetismo ha llevado al grupo de exceso de límite a desarrollar este fuerte especial, cuya trayectoria es similar a un campo magnético, atacando unidades enemigas con un movimiento casi estético, y su poderoso campo magnético hace que se acerque constantemente a las unidades circundantes. Liberar una gran energía en la unidad después de un golpe \ n \ n[blue]",
 "targetAir":true,
 "targetGround":true,
 "health":1620,

@@ -12,7 +12,7 @@
 	"legExtension":1
 	"legPairOffset":0
 	
-	"description": "核心单位，用于保护进阶核心。\n\n[blue][超限集团重型核心爬虫]",
+	"description": "Unidad central utilizada para proteger el núcleo avanzado.\n\n[blue][Aracnido pesado del núcleo del Grupo Ultralímite]",
 				"immunities": [
 "burning","freezing","melting","spore-slowed","shocked","列阵","甲板损坏"
 	],
@@ -31,7 +31,7 @@
 	"hovering": true,
 	"canDrown": false,
 		"maxRange": 400
-	"name": "普西",
+	"name": "Puxi",
 	"canBoost": false,
 	"speed": 1.05
 	"hitSize": 2
@@ -48,7 +48,7 @@
 	"faceTarget": true,
 	"weapons": [
 	{
-			"name": "袒护1",
+			"name": "Proteger 1",
 			"reload": 120,
 			"x": -3
 			"y": 0

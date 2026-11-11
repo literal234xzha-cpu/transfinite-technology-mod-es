@@ -32,7 +32,7 @@
 }
 ]
 "weapons":[
-{"name":"无",
+{"name":"No",
 "reload":300
 "x":8,"y":32,
 "rotate":false,
@@ -102,7 +102,7 @@
 "cone":30,}
 }
 }
-{"name":"无",
+{"name":"No",
 "reload":240
 "x":22,"y":-12,
 "rotate":false,
@@ -156,7 +156,7 @@
 "makeFire":true,}
 }
 }
-{"name":"贯日1",
+{"name":"Erupción solar 1",
 "reload":240,
 "x":0,"y":0
 "rotateSpeed":0

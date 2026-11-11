@@ -18,8 +18,8 @@
 "lockLegBase":true
 "healColor":"c0ecff"
 "shieldColor":"c0ecff"
-"name":"穹垒",
-"description":"绝对强大的移动要塞，后部装有持续发射火箭弹的蜂巢炮，中部有一门将激光散射的光棱炮，前端拥有两门破碎炮负责辅助的攻击，近战可以将敌人切割。\n\n[blue][超限技术重型单位]",
+"name":"Cúpula",
+"description":"Una fortaleza móvil absolutamente poderosa, equipada con un cañón nido de abejas en la parte trasera que dispara cohetes de forma continua, un cañón de prisma de luz en la parte central que dispersa rayos láser y dos cañones de fragmentación en la parte delantera para ataques de apoyo. En combate cuerpo a cuerpo, puede cortar al enemigo.\n\n[blue][Unidad pesada de tecnología avanzada]",
 "immunities":[
 "burning","freezing","melting","wet","spore-slowed","shocked","electrified","列阵","甲板损坏"
 ],
@@ -80,7 +80,7 @@
 "faceTarget":true,
 "weapons":[
 {
-"name":"无",
+"name":"No",
 "reload":1,
 "x":0
 "y":30
@@ -172,7 +172,7 @@
 }
 }
 {
-"name":"磐石2",
+"name":"Roca 2",
 "reload":30
 "x":-16
 "y":12
@@ -250,7 +250,7 @@
 }
 }
 }
-{"name":"界限炮",
+{"name":"Cañón de límite",
 "shootCone":300,
 "rotationLimit":120,
 "baseRotation":-60
@@ -283,7 +283,7 @@
 }
 }
 
-{"name":"界限炮2",
+{"name":"Cañón de límite 2",
 "reload":600,
 "x":0,"y":0
 "rotate":true,

@@ -1,10 +1,10 @@
 {
 "immunities":["甲板损坏","disarmed","spore-slowed","slow","超限工艺-静止","unmoving"
 ],
-"name":"哨兵A01",
+"name":"Centinela A01",
 "type":"missile",
 "template":"MissileUnitType",
-"description":"[访问无效]",
+"description":"[Acceso no válido]",
 "health":800,
 "armor":26,
 "speed":3

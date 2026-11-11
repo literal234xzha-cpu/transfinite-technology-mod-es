@@ -1,7 +1,7 @@
 {
 "type":"Reconstructor",
-"name":"变量改装工厂",
-"description":"对一些低级单位进行改装升级，这将极大的增强他们的作战能力，或者是其他的能力\n\n[blue][超限集团改装工厂]",
+"name":"Fábrica de modificación variable",
+"description":"Modifique y actualice algunas unidades de bajo nivel, lo que mejorará en gran medida sus capacidades de combate u otras capacidades \ n \ n [azul] [Fábrica de modificación de grupo de exceso de límite]",
 "size":4,
 "constructTime":2800,
 "consumes":{

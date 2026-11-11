@@ -18,7 +18,7 @@
     "itemCapacity": 0
     "hidden": true,//是否隐藏？
     "weapons": [
-   {	"name": "无",	
+   {	"name": "No",	
 		"reload": 10, 
 		"x": 0,  "y": 0, 
 		"rotate": false,

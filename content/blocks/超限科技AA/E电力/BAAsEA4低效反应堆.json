@@ -1,7 +1,7 @@
 {
 "type":"ConsumeGenerator",
-"name":"低效反应堆",
-"description":"低效率吸收裂变时所放的热，稳定，不会爆炸\n\n[blue][超限技术反应堆]",
+"name":"Reactor ineficiente",
+"description":"Baja eficiencia absorbe el calor liberado durante la fisión, estable y no explota",
 "size":3,
 "health":1280,
 "hasLiquids":false,

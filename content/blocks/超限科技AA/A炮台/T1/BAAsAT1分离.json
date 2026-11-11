@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"分离",
-"description":"由分裂炮改装而来的简易炮台，作为超限集团被驱逐之后早期的主要武器，这种炮台能将子弹反复分裂，形成大量的弹片打击敌人。\n\n[blue][超限技术炮台]",
+"name":"Separación",
+"description":"La torreta simple modificada de la artillería dividida es el arma principal en los primeros días después de que el grupo de exceso de límite fue expulsado. Esta torreta puede dividir repetidamente las balas y formar una gran cantidad de metralla para atacar al enemigo. \n\n[azul][Batería de tecnología de superlímite]",
 "health":500,
 "size":2,
 "reload":18

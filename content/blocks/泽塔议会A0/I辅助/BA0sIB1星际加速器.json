@@ -1,6 +1,6 @@
 {
-"name":"星际加速器"
-	"description":"对一整个区块的建筑进行超速，极为昂贵且巨大，需要消耗大量的冷却液来保持其正常运作。\n[red][泽塔议会超速]",
+"name":"Acelerador interestelar"
+	"description":"El exceso de velocidad de un bloque completo de edificios es extremadamente costoso y enorme, y requiere una gran cantidad de refrigerante para mantener su funcionamiento normal. \n[rojo][Exceso de velocidad en el Parlamento Zeta]",
 	"details":"[red]MADE IN HEAVEN",
 	"type": "OverdriveProjector",
 	"health": 120000,

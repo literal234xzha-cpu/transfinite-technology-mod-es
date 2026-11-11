@@ -1,11 +1,11 @@
 {
 	"type": "flying",
-	"name":"庇护",
-	"description": "超限集团为了应对前线战争选号和诞生的维修飞行器，可以为周围的单位提供高额的血量回复，同时对进入立场范围内的敌军进行压制。\n除此之外有基本的建造和开采能力。",
+	"name":"refugio",
+	"description": "El Grupo Excalibur, en respuesta a las necesidades de la guerra en el frente y al nacimiento de las aeronaves de mantenimiento, puede proporcionar una gran cantidad de puntos de vida a las unidades cercanas, al tiempo que reprime a las tropas enemigas que entran en el alcance de su campo de acción.\nAdemás, cuenta con capacidades básicas de construcción y extracción.",
 	"immunities": [
 		"shocked","electrified","slow","freezing","burning","spore-slowed","脆裂","甲板损坏"
 	],
-	"details":"迷你要塞",
+	"details":"Fortaleza en miniatura",
 	"speed": 1.45
 	"accel":0.05,"drag":0.03,
 	"rotateSpeed":5
@@ -97,7 +97,7 @@
 },
     ]
     "weapons": [
-		{"name":"无",
+		{"name":"No",
 	"type":"PointDefenseWeapon",
 	"x":12
 	"y":0
@@ -143,7 +143,7 @@
     "maxRange":120,
     "damage":2}},
     {
-		    "name": "无"
+		    "name": "No"
 			"x": 0
 			"y": 0
 			"reload": 1,

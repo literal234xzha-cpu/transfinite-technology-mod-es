@@ -1,7 +1,7 @@
 {
-"name":"终界核心",
+"name":"Núcleo final",
 "type":"CoreBlock",
-"description":"以终代核心为原型的特殊核心，拥有作战能力更强大的核心爬虫。\n\n[blue][超限集团核心]",
+"description":"El núcleo especial basado en el núcleo final tiene un rastreador central más poderoso. \n\n[Núcleo del Grupo Superlímite]",
 "requirements":[
 {"amount":8000,"item":"copper"},
 {"amount":6000,"item":"lead"},

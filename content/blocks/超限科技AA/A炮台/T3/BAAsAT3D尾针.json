@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"尾针",
-"description":"超限集团在探索武器的过程中研发出了长距离导弹，尽管这一类导弹可以直接被实体弹药所攻击，但是这也让其导弹有了更大的装弹量，能够对敌人造成更高的伤害\n\n[blue][超限技术炮台]",
+"name":"Aguja de cola",
+"description":"El grupo de sobrelímites ha desarrollado misiles de larga distancia en el proceso de exploración de armas. Aunque este tipo de misil puede ser atacado directamente por municiones físicas, también le da a sus misiles una mayor capacidad de carga y puede causar mayores daños al enemigo. Daño \ n \ n [azul] [Fuerte de tecnología por encima del límite]",
 "underBullets":true
 "health":4080,
 "targetable":false

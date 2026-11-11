@@ -1,7 +1,7 @@
 {
     "type": "flying",
-    "name":"先知"
-    "description": "飞行单位，通过强大的电磁炮来攻击敌方单位，能够有效攻击建筑并对电力是瘫痪，不能攻击空中单位\n\n[blue][超限技术特殊作战单元]",
+    "name":"profeta"
+    "description": "Unidad aérea que ataca a las unidades enemigas con un potente cañón electromagnético. Es eficaz contra los edificios y puede inutilizar el suministro eléctrico. No puede atacar a las unidades aéreas.\n\n[blue][Unidad de combate especial con tecnología avanzada]",
     "immunities": [
 		"wet","spore-slowed","tarred","甲板损坏"
 	],
@@ -41,7 +41,7 @@
 	}
     ]
     "weapons": [
-   {	"name": "无",	
+   {	"name": "No",	
 		"reload": 240, 
 		"x": 0,  "y": 5
 		"rotate": false,

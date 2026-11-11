@@ -1,7 +1,7 @@
 {
-"name":"强化钻机",
+"name":"Fortificación de la plataforma",
 "type":"Drill",
-"description":"更好更大的气动钻头，可以挖钛。\n\n[blue][超限技术钻机]",
+"description":"Mejor broca neumática más grande, puede cavar titanio. \ N \ n[blue][plataforma de perforación técnica por encima del límite]",
 "size":3,
 "health":640,
 "tier":3,//挖掘等级

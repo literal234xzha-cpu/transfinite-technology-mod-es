@@ -1,7 +1,7 @@
 {"type":"BurstDrill"
-"name":"专铜钻头I型"
+"name":"Broca de cobre especial tipo I"
 "category":"production"
-"description":"无损耗挖掘，只能开采铜，需要电力。\n\n[orange][全位算体专业化采集设备]",
+"description":"Excavación sin pérdidas, solo se puede extraer cobre y se necesita electricidad. \n\n[orange][Equipo especializado de captura de datos en 3D]",
 "requirements":[
 "copper/10","lead/15"
 ]

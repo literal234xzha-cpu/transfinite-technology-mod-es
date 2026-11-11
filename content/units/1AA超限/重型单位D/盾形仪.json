@@ -1,10 +1,10 @@
 {
 		"immunities": ["甲板损坏"
 	],
-	"name": "盾形仪",
+	"name": "Astrolabio",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 400,
 	"armor": 0
 	"speed": 0

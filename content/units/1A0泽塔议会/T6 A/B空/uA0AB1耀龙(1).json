@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"真-耀龙"
-"description":"永恒级空军单位，真正的火力全开状态，当然与此同时的代价就是更低的护甲。\n[red][泽塔议会永恒级单位]",
+"name":"Verdadero - Dragón Radiante"
+"description":"Unidad aérea de nivel Eterno. Dispara con toda su potencia de fuego, pero a cambio tiene una armadura más débil.\n[red][Unidad de nivel Eterno del Consejo Z]",
 "allowedInPayloads":false
 "speed":0.98,
 "hitSize":94,
@@ -543,7 +543,7 @@
 }
 }
 {
-"name":"耀龙3",
+"name":"Yaolong 3",
 "reload":7.5,
 "x":24,
 "y":-36,
@@ -578,7 +578,7 @@
 }
 }
 {
-"name":"耀龙3",
+"name":"Yaolong 3",
 "reload":7.5,
 "x":48,
 "y":36,
@@ -612,7 +612,7 @@
 }
 }
 {
-"name":"耀龙2",
+"name":"Yaolong 2",
 "x":48,
 "y":-33,
 "mirror":true,
@@ -655,7 +655,7 @@
 }
 }
 {
-"name":"耀龙2",
+"name":"Yaolong 2",
 "x":21,
 "y":33,
 "mirror":true,
@@ -698,7 +698,7 @@
 }
 }
 {
-"name":"耀龙1",
+"name":"Yaolong 1",
 "reload":80,
 "x":24,
 "y":0

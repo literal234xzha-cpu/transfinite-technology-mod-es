@@ -1,8 +1,8 @@
 {
 "type":"hover",
-"name":"礁菊",
-"description":"悬浮堡垒，对空对地，很能够发射火箭弹，拥有立场治疗友军。\n[blue][超限技术特殊作战单元]",
-//"details":"这玩意儿跟红警三里的超级要塞没关系",
+"name":"Aster amellus",
+"description":"Fortaleza flotante, capaz de atacar tanto a objetivos aéreos como terrestres, con gran capacidad para lanzar cohetes y con un campo de fuerza para curar a los aliados.\n[blue][Unidad de combate especial con tecnología avanzada]",
+//"details":"Esto no tiene nada que ver con la Superfortaleza de Red Alert 3.",
 "immunities":[
 "wet","spore-slowed","tarred","甲板损坏"
 ],
@@ -104,7 +104,7 @@
 }
 ],
 "weapons":[
-{"name":"无"
+{"name":"No"
 "shootCone":360,
 "rotationLimit":0,
 "reload":360
@@ -136,7 +136,7 @@
 "shootEffect":"shootSmall",
 }
 }
-{"name":"无"
+{"name":"No"
 "shootCone":30,
 "reload":60
 "x":0

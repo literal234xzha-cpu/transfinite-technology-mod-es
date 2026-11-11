@@ -1,7 +1,9 @@
 {
-	"name": "复合物",
-	"description": "柔软而稳定的空间材料。 ",
-	"details":"当数量充足时，它可造成空间扭曲\n \n[blue][超限技术物品]",
+	"name": "Complejo",
+	"description": "Material espacial suave y estable.",
+	"details":"Cuando la cantidad es suficiente, puede causar distorsión espacial
+
+[azul][Objeto de tecnología superlimitada]",
 	"cost":2,
 	"alwaysUnlocked":false,
 	"color": "E17A7B",

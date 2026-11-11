@@ -1,8 +1,8 @@
 {
 "type":"flying",
-"name":"幽影",
-"description":"常规采矿机，能够发射轻型修复导弹，拥有更大的在载货仓更快的采矿速度。\n\n[orange][全位算体支援部队]",
-"details":"武装牛车",
+"name":"Sombra espectral",
+"description":"Excavadora convencional capaz de lanzar misiles de reparación ligeros, con una bodega de carga más grande y una velocidad de excavación más rápida.\n\n[orange][Unidad de apoyo de entidades computacionales omnidireccionales]",
+"details":"Carro de bueyes armado",
 "immunities":[
 "shocked","electrified","slow","freezing","burning","spore-slowed","脆裂","甲板损坏"
 ],
@@ -27,7 +27,7 @@
 "amount":0.25
 },]
 "weapons":[
-{"name":"无",
+{"name":"No",
 //"minShootVelocity":1.5,
 "reload":120
 "x":0,"y":0,

@@ -1,8 +1,8 @@
 {
 "type":"UnitAssembler",
-"name":"封穹级装配厂",
-"description":"生产特化战争单位，通常他们都极为强大，但是其组装过程过于繁琐。\n\n[blue][超限技术装配工厂]",
-"details":"相信我，组装无人机修复单位老快了",
+"name":"Planta de ensamblaje de nivel Fengqiong",
+"description":"Producen unidades de guerra especializadas; por lo general, son extremadamente poderosas, pero su proceso de ensamblaje es demasiado complejo. \n\n[fábrica de montaje de tecnología de superlímite]",
+"details":"Créeme, el equipo de reparación de drones montado es muy rápido.",
 "health":8680,
 "size":5,
 "liquidCapacity":120,

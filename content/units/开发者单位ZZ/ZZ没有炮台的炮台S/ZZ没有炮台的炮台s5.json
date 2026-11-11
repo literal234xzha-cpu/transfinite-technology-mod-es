@@ -1,6 +1,6 @@
 {
 		//"immunities": [    ],
-	"name": "萨姆T3",
+	"name": "Sam T3",
 	"type": "missile",
 	"template": "MissileUnitType",
 		"engineOffset": 3,
@@ -14,7 +14,7 @@
 	"engineOffset": 0,
 	"missileAccelTime": 60,
 	"weapons": [
-	{	"name": "没有炮台的炮台s5",	
+	{	"name": "Batería sin cañones s5",	
 	               	"shootCone":30,
 		"reload":61,
         "x": 0

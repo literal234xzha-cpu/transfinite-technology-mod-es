@@ -5,8 +5,8 @@
 "update":"true",
 "hasItems":"true",
 "type":"Unloader",
-"description":"超高速卸载临近方块中的指定物品，但是极为昂贵\n\n[blue][超限技术物流装置]",
-"name":"超限卸载器",
+"description":"Descarga de ultra alta velocidad de los artículos especificados en el bloque adyacente, pero es extremadamente costoso [azul] [Dispositivo de logística de tecnología de exceso de límite]",
+"name":"Desinstalador por encima del límite",
 "requirements":[
 {"item":"0铜铅合金","amount":45},
 {"item":"lead","amount":120}

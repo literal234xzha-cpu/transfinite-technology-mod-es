@@ -1,6 +1,8 @@
 {
- "name":"绝缘钢",//内容物名称
- "description":"绝缘，硬度不错，适合当做多种材料\n \n[blue][超限技术物品]",//描述
+ "name":"acero aislante",//内容物名称
+ "description":"Aislante, buena dureza, adecuado para usar como diversos materiales
+
+[azul][Artículo de tecnología excedente]",//描述
  "color":"989BA4",//颜色
  "cost":1//建筑消耗时间，为1帧
  "flammability":0,//燃烧性

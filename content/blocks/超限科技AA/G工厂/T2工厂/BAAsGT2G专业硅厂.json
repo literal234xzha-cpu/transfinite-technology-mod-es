@@ -1,8 +1,8 @@
 {
 "type":"GenericCrafter",
-"name":"专业硅炉",
+"name":"Horno de silicio profesional",
 "health":1040,
-"description":"专业加工硅，有更大产量，同时你需要有更大的物品供应让其正常运作\n\n[blue][超限技术中级工厂]",
+"description":"Procesamiento profesional de silicio, hay una mayor producción, y necesita tener un mayor suministro de artículos para que funcione correctamente \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"silicon","amount":5},
 "alwaysUnlocked":false,
 "size":3,

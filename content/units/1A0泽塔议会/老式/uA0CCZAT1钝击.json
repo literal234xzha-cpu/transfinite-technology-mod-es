@@ -18,7 +18,7 @@
 "targetAir":true,
 "targetGround":true,
 "weapons":[
-{"name":"钝击",
+{"name":"Golpe contundente",
 "reload":66,
 "x":6,"y":0
 "rotate":false

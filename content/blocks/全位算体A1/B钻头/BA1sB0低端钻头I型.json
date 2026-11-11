@@ -1,7 +1,7 @@
 {"type":"BurstDrill"
-"name":"低端钻头I型"
+"name":"Broca de gama baja tipo I"
 "category":"production"
-"description":"无损耗挖掘，只能开采最基础的矿物，甚至不能称之为矿物，需要电力。\n\n[orange][全位算体专业化采集设备]",
+"description":"La excavación sin pérdidas solo puede extraer los minerales más básicos, ni siquiera llamados minerales, y requiere electricidad. \n\n[orange][Equipo especializado de captura de datos en 3D]",
 "requirements":[
 "copper/10","lead/15"
 ]

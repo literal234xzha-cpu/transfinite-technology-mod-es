@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": "T-F-03火箭弹",
+	"name": "Cohete T-F-03",
 	"type": "missile",
 	"template": "MissileUnitType",
-	//"description": "导弹",
+	//"description": "Proyectiles dirigidos",
 	"health": 240,
 	"armor": 6,
 	"speed": 3

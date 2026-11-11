@@ -1,6 +1,6 @@
 {
 		//"immunities": [    ],
-	"name": "火炮T2",
+	"name": "Cañón T2",
 	"type": "missile",
 	"template": "MissileUnitType",
 		"engineOffset": 3,
@@ -14,7 +14,7 @@
 	"engineOffset": 0,
 	"missileAccelTime": 60,
 	"weapons": [
-		{	"name": "没有炮台的炮台s2",	
+		{	"name": "Batería sin cañones s2",	
 		"reload":99
         "x": 0
          "y": 0

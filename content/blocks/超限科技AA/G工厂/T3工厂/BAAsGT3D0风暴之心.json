@@ -1,7 +1,7 @@
 {
-"name":"风暴之心",
+"name":"Corazón de tormenta",
 "type":"GenericCrafter",
-"description":"用于生产风暴催化剂\n\n[blue][超限技术高级工厂]",
+"description":"Para la producción de catalizadores de tormenta \ n \ n[blue][tecnología de sobreuso de fábrica avanzada]",
 "itemCapacity":100,
 "health":1280,
 "size":4,

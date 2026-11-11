@@ -24,7 +24,7 @@
 "itemCapacity":0,
 "weapons":[
 {
-"name":"无",
+"name":"No",
 "x":0
 "y":4
 "shake":8,
@@ -64,7 +64,7 @@
 }
 }
 {
-"name":"无",
+"name":"No",
 "x":0
 "y":4
 "shake":8,
@@ -107,7 +107,7 @@
 "shootSound":"laserblast",
 }
 }
-{"name":"无",
+{"name":"No",
 "reload":16
 "x":3,"y":6,
 "rotate":true,
@@ -156,7 +156,7 @@
 "makeFire":true,}
 }
 }
-{"name":"无",
+{"name":"No",
 "reload":190
 "x":3,"y":6,
 "rotate":true,

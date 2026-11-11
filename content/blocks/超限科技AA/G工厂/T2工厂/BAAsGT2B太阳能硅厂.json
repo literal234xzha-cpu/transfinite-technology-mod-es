@@ -1,9 +1,9 @@
 {
 "type":"GenericCrafter",
-"name":"「静置」法还原硅炉",
+"name":"Método &quot;reposo&quot; para reducir el horno de silicio",
 "health":320,
-"description":"利用衰变把沙子转化为硅\n\n[blue][超限技术特种工厂]",
-"details":"我们从虚空中借来了一些电子，塞给二氧化硅来还原出硅单质\n其实原理并不重要，但请允许我喊出那句口号:[blue]超限科技，震撼人心",
+"description":"Utilice la desintegración para convertir la arena en silicio \ n \ n [azul] [Fábrica especial de tecnología de límite superior]",
+"details":"Pedimos prestados algunos electrones del vacío y rellenamos la sílice para restaurar la sustancia del silicio. El principio no es importante, pero permítame gritar el lema: [azul] Tecnología de límite superior, impactante",
 "outputItem":{"item":"silicon","amount":1},
 "alwaysUnlocked":false,
 "size":2,

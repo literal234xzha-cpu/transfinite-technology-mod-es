@@ -14,8 +14,8 @@
 
 "legSplashDamage":88
 "legSplashRange":24
-"name":"胜冠"
-"description":"此单位拥有强大的火力，装载了两个强力功城炮,两个电碎磁炮以及两门穿甲机炮，移动速度缓慢。\n不过为了弥补其移动速度上的不足，泽塔议会在其背后装备了火箭推进器，在必要的时候可以为其提供额外的动力，大幅提高移动速度。\n[red][泽塔议会永恒级单位]",
+"name":"Campeón"
+"description":"Esta unidad cuenta con un gran poder de fuego, ya que está equipada con dos potentes cañones de asedio, dos cañones electromagnéticos y dos cañones automáticos perforantes. Su velocidad de movimiento es lenta.\nSin embargo, para compensar su falta de velocidad de movimiento, el Consejo Z a instalado propulsores de cohete en su parte trasera, que pueden proporcionarle potencia adicional cuando sea necesario y aumentar significativamente su velocidad de movimiento.\n[red][Unidad de clase Eterna del Consejo Z]",
 "immunities":[
 "burning","甲板损坏"
 ],
@@ -37,7 +37,7 @@
 ]
 "weapons":[
 {
-"name":"胜冠1",
+"name":"Campeón 1",
 "reload":5.619
 "x":43,
 "y":0
@@ -99,7 +99,7 @@
 }
 }}
 {
-"name":"胜冠2",
+"name":"Campeón 2",
 "reload":60
 "x":33
 "y":0
@@ -168,7 +168,7 @@
 }
 }
 {
-"name":"胜冠3",
+"name":"Campeón 3",
 "reload":6
 "x":16
 "y":-6

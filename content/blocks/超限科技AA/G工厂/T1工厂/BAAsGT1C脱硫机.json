@@ -1,7 +1,7 @@
 {
 "type":"GenericCrafter",
-"name":"脱硫机",
-"description":"利用科技的手段分离石油中分离出硫，这极大的降低了硫生产的复杂程度。\n\n[blue][超限技术低级工厂]",
+"name":"Desulfuradora",
+"description":"El uso de medios tecnológicos para separar el azufre del petróleo reduce en gran medida la complejidad de la producción de azufre. \n\n[fábrica de nivel bajo de tecnología de superlímite]",
 "health":360,
 "outputItem":{"item":"pyratite","amount":1},
 "itemCapacity":14,

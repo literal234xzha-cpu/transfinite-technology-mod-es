@@ -1,7 +1,7 @@
 {
 	"type": "naval",
-	"name": "剑鱼",
-	"description": "重型战舰，拥有一门双管主炮，附带两门聚能激光炮攻击，对空对地，对建筑有伤害加成，后方有一个可以停载直升机的机位。\n[blue][超限技术海上舰船]",
+	"name": "Pez espada",
+	"description": "Buque de guerra pesado, equipado con un cañón principal de doble tubo y dos cañones láser de energía concentrada para ataques aire-tierra. Tiene un daño adicional contra edificios y una plataforma de aterrizaje en la parte trasera para helicópteros.\n[blue][Buque marítimo de tecnología avanzada]",
 		"immunities": [
 		"wet","spore-slowed","tarred"
 	],
@@ -23,7 +23,7 @@
 	"faceTarget": false,
 	//"maxRange": 400,
 	"weapons":[
-	{  	"name":"歼鲨1"
+	{  	"name":"Caza tiburones 1"
 	    "shootCone":30,
 		"rotationLimit":180,
 		"reload":30
@@ -66,7 +66,7 @@
 	"collidesAir": true
 	               	}
 	}
-	{	"name": "舰炮",	
+	{	"name": "Cañón naval",	
 		"reload":20,
         "x": 0
          "y": 6
@@ -389,7 +389,7 @@
 	   }
 	   ]
 	}	}
-	{  	"name":"无"
+	{  	"name":"No"
 	    "shootCone":360,
 		"rotationLimit":0,
 		"reload":600

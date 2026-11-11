@@ -1,7 +1,7 @@
 {
 "type":"SolarGenerator",
-"name":"泰坦之心",
-"description":"超限集团研发出来的单位核心，作为高级单位的核心装置，有阳光照射的情况下能够产出少量能量。\n\n[blue][超限集团模块单元]",
+"name":"Corazón de titán",
+"description":"El núcleo de la unidad desarrollado por Superline Group, como el dispositivo central de la unidad de alto nivel, puede producir una pequeña cantidad de energía bajo la luz solar. \ N \ n[blue][Unidad de módulo de grupo de exceso de límite]",
 "size":2,
 "health":6920,
 "hasLiquids":false,

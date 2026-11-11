@@ -1,11 +1,11 @@
 {
 "type":"flying",
-"name":"天枭"
-"description":"重型飞行单位，较快的飞行速度，正方向有火箭炮来攻击敌方单位，两门机枪进行辅助攻击。\n\n[blue][超限技术重型空军单位]",
+"name":"Búho real"
+"description":"Unidad aérea pesada con una velocidad de vuelo más rápida. Dispone de lanzacohetes para atacar a las unidades enemigas en la dirección frontal y de dos ametralladoras para realizar ataques de apoyo.\n\n[blue][Unidad aérea pesada de tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","tarred","shocked","electrified","脆裂","甲板损坏"
 ],
-"details":"超限集团直升机的起源，相较于议会疯狂的堆叠火箭推进器来达到起飞巨大的飞船，超限集团选择了更加实用的直升机以适应星球表面的作战"
+"details":"El origen de los helicópteros del Grupo Ultralimital. En lugar de apilar locamente propulsores de cohetes para hacer despegar naves gigantescas, como hace el Parlamento, el Grupo Ultralimital optó por los helicópteros, un medio más práctico para operar en la superficie del planeta."
 "speed":1.2
 "hitSize":18
 "health":6980
@@ -38,7 +38,7 @@
 ]
 "weapons":[
 {
-"name":"天枭"
+"name":"Búho real"
 "x":12
 "y":0.5
 "reload":10,
@@ -78,7 +78,7 @@
 "despawnSound":"none",
 }
 }
-{"name":"无",
+{"name":"No",
 "shootCone":20,
 "baseRotation":0
 "rotationLimit":30,
@@ -121,7 +121,7 @@
 "backColor":"c0ecff",
 }
 }
-{"name":"无",
+{"name":"No",
 "shootCone":360
 "reload":180
 "x":0

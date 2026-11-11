@@ -1,7 +1,7 @@
 {
-"name":"铅封装带",
+"name":"Cinta de montaje con sello de plomo",
 "type":"StackConveyor",
-"description":"基础封装传送带，较为简易的物流运输装置。\n\n[orange][全位算体特化传送带]",
+"description":"Cinta transportadora de embalaje básica, dispositivo de transporte logístico relativamente simple. \ N \ n[orange][Cinta transportadora de especialidad de cálculo completo]",
 "size":1,
 "health":20,
 "itemCapacity":5

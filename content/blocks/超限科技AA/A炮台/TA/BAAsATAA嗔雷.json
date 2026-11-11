@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"嗔雷",
-"description":"\n\n[blue][超限技术炮台]",
+"name":"Trueno",
+"description":"\n\n[azul][Batería de tecnología de superlímite]",
 "health":72460,
 "size":6
 "reload":10

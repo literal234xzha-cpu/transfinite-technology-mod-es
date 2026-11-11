@@ -2,7 +2,7 @@
 		"immunities": [
 "wet","spore-slowed","tarred","shocked","freezing","蜂群","甲板损坏"
 	],
-	"name": "鹰爪",
+	"name": "Garra de águila",
 	"type": "missile",
 	"template": "MissileUnitType",
 	"engineOffset": 3,
@@ -111,7 +111,7 @@
 	    "speed":0,
 	    "lifetime":1,
 	    "width":0,	 "height":0}}
-	{	"name": "无",	
+	{	"name": "No",	
 		"reload":12,
         "x": 6,  "y": 6, 
         "rotate": false,
@@ -140,7 +140,7 @@
     "backColor":"c0ecff",
     "frontColor":"c0ecff"
 	}	}
-	{	"name": "无",	
+	{	"name": "No",	
 		//"minShootVelocity": 1.5,
 		"reload": 60 
 	"shoot":{

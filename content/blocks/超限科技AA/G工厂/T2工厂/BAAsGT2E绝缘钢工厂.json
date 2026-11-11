@@ -1,7 +1,7 @@
 {
 "type":"GenericCrafter",
-"name":"绝缘钢压制厂",
-"description":"利用玻璃，硅，石油经过一系列手段制造绝缘钢\n\n[blue][超限技术中级工厂]",
+"name":"Planta de prensado de acero aislado",
+"description":"El uso de vidrio, silicio, aceite a través de una serie de medios para fabricar acero aislado \ n \ n[blue][fábrica intermedia de tecnología de límite superior]",
 "health":920,
 "outputItem":{"item":"1绝缘钢","amount":4},
 "craftEffect":"pulverizeSmall"

@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": "尾针导弹",
+	"name": "Misil de cola de alfiler",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 80,
 	"armor": 6,
 	"speed": 3,

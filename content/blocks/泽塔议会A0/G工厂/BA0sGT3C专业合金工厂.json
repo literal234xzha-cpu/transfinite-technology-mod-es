@@ -1,7 +1,7 @@
 {
-"name":"大型合金冶炼厂",
+"name":"Gran fundición de aleación",
 "type":"GenericCrafter",
-"description":"用于加工巨浪合金，产量更多，速度更快，需要大量的电力与冷却液支持。\n[red][泽塔议会工厂]",
+"description":"Se utiliza para procesar la aleación de ondas gigantes, con más rendimiento, más velocidad y mucha energía y soporte de refrigerante. \ N [rojo] [Zeta Asamblea Factory]",
 "itemCapacity":80,
 "health":2800,
 "size":4,

@@ -1,7 +1,7 @@
 {
     "type": "hover",
-    "name":"蚌蜊"
-    "description": "辅助型悬浮单位,可以在水上移动，攻击可以发射弱化敌人装甲的能量球。\n\n[blue][超限技术特殊作战单元]",
+    "name":"Almejas"
+    "description": "Unidad flotante de apoyo capaz de moverse sobre el agua y disparar esferas de energía que debilitan la armadura enemiga.\n\n[blue][Unidad de combate especial de tecnología superdimensional]",
     "immunities": [
 		"wet","spore-slowed","tarred"
 	],
@@ -86,7 +86,7 @@
 		}
 		]
     "weapons": [
-   {	"name": "无",	
+   {	"name": "No",	
 		"reload": 90
 		"x": 0,  "y": 0, 
 		"rotate": false,
@@ -142,7 +142,7 @@
 			"homingRange": 300,
             "homingPower": 0.1,
 	}}}
-	{	"name": "蚌蜊1",	
+	{	"name": "Almejas 1",	
 		"reload": 10, 
 		"x": 0,  "y": 0, 
 		"rotate": false,

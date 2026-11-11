@@ -1,7 +1,7 @@
 {
     "type": "missile",
 	"template": "MissileUnitType",
-    "name":"饱和打击"
+    "name":"Ataque de saturación"
     "description": " ",
     "immunities": [
 		"wet","spore-slowed","tarred"

@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"无形"
-"description":"飞行单位，高速，强力的拦截机，只能攻击空中单位。\n\n[blue][超限技术特殊作战单元]",
+"name":"<g id="1">Immaterieel</g>"
+"description":"Unidad aérea, interceptor rápido y potente, solo puede atacar unidades aéreas.\n\n[blue][Unidad de combate especial con tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","tarred","甲板损坏"
 ],
@@ -27,7 +27,7 @@
 "trailWidth":2,
 "itemCapacity":0
 "weapons":[
-{"name":"无",
+{"name":"No",
 "reload":12,
 "x":0,"y":0,
 "rotate":true,

@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"退散",
-"description":"超限集团在研究炮台时的突发奇想，最终研发的这种武装霰弹枪，扩散范围广，击退前方敌人，可以对空，最强的击退，但不可否认的是伤害极为刮痧\n\n[blue][超限技术炮台]",
+"name":"Retirada",
+"description":"El capricho del Grupo Superlimitado al estudiar la torreta, la escopeta armada finalmente desarrollada tiene un amplio rango de difusión y repele al enemigo que se avecina. Puede repeler el aire y el más fuerte, pero es innegable que el daño es extremadamente raspado. \ n [azul] [Fuerte de tecnología por encima del límite]",
 "health":1620,
 "targetable":false
 "destructible":true

@@ -42,7 +42,7 @@
 }
 ]
 "weapons":[
-{"name":"无",
+{"name":"No",
 "reload":270,
 "x":0,"y":0,
 "rotate":false,

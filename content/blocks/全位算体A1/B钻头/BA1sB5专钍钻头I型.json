@@ -1,7 +1,7 @@
 {"type":"BurstDrill"
-"name":"专钍钻头I型"
+"name":"Broca de torio especial tipo I"
 "category":"production"
-"description":"无损耗挖掘，只能开采钍，需要电力。\n\n[orange][全位算体专业化采集设备]",
+"description":"La minería sin pérdidas, solo puede extraer torio y requiere electricidad. \n\n[orange][Equipo especializado de captura de datos en 3D]",
 "requirements":[
 "copper/20","lead/25""graphite/10","titanium/15"
 ]

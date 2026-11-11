@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",//类型:消耗物品的炮塔
-"name":"力墙发生器",//名字
-"description":"生成一个弧形力墙拦截前方子弹，但是容易被速度快的子弹击穿。\n\n[blue][超限集团特殊防御]",//介绍
+"name":"Generador de pared de fuerza",//名字
+"description":"Se genera una pared de fuerza curva para interceptar la bala frontal, pero es fácil de penetrar por balas rápidas. \ N \ n[blue][Defensa especial del grupo por encima del límite]",//介绍
 "size":3,//物品面积
 "health":2100,//建筑血量
 "range":420,//攻击范围

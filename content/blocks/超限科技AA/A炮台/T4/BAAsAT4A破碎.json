@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"破碎",
-"description":"出于断裂成功，超限集团根据其原理改进而研发出的炮台，该武器通过发射特制的子弹，中途不断释放特殊弹药能够在子弹的一整条路线上释放类似于雷光的弹片\n\n[blue][超限技术炮台]",
+"name":"Roto",
+"description":"Debido al éxito de la fractura, el grupo de exceso de límite desarrolló una torreta basada en su principio de mejora. Esta arma lanza balas especiales y libera continuamente municiones especiales en el medio. Puede liberar metralla similar a la luz del trueno en toda la ruta de la bala. [azul] [Fuerte técnico por encima del límite]",
 "health":1260,
 "size":4
 "liquidCapacity":500,

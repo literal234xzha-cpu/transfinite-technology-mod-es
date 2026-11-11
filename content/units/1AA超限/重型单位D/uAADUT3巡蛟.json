@@ -1,8 +1,8 @@
 {
 "type":"naval",
-"name":"巡蛟",
-"description":"极端重型海军，超限集团造出的最大航母，拥有八门舰炮以及一门火箭炮，[red]只能依靠僚机来进行攻击以及防御，每隔一段时间要进行长达20秒的武器重置，在此期间不能攻击或起飞僚机。\n\n[white]奇了机上装备的双连穿甲炮以及一枚一次性的高爆炸弹，高爆炸弹能够有效的攻击敌方舰船。\n\n[blue][超限技术重型海军]",
-"details":"这玩意绝对没有参考企业号",
+"name":"Dragón marino",
+"description":"Buque de guerra extremadamente pesado, el portaaviones más grande construido por el Grupo Ultralímite. Cuenta con ocho cañones navales y un lanzacohetes. [red]Solo puede atacar y defenderse con la ayuda de sus aviones de escolta. Cada cierto tiempo, debe realizar un reinicio de armas de 20 segundos, durante el cual no puede atacar ni lanzar aviones de escolta.\n\n[white]El Qi está equipado con un cañón perforante de doble disparo y una bomba altamente explosiva de un solo uso. La bomba altamente explosiva puede atacar eficazmente a los buques enemigos.\n\n[blue][Buque de guerra pesado de tecnología ultralímite]",
+"details":"Este artilugio no tiene absolutamente nada que ver con la Enterprise.",
 "immunities":[
 "wet","spore-slowed","tarred","列阵"
 ],
@@ -42,7 +42,7 @@
 }
 ]
 "weapons":[
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":20
 "y":-36
@@ -76,7 +76,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":24
 "y":-24
@@ -110,7 +110,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":20
 "y":-12
@@ -144,7 +144,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":20
 "y":0
@@ -178,7 +178,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":20
 "y":12
@@ -212,7 +212,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":20
 "y":24
@@ -246,7 +246,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":18
 "y":36
@@ -281,7 +281,7 @@
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
 
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":-36
 "y":-36
@@ -315,7 +315,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":-18
 "y":-24
@@ -349,7 +349,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":-18
 "y":-12
@@ -383,7 +383,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":-18
 "y":0
@@ -417,7 +417,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":-18
 "y":12
@@ -451,7 +451,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":-18
 "y":24
@@ -485,7 +485,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":72,
 "x":-18
 "y":36
@@ -520,7 +520,7 @@
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
 
-{"name":"巡蛟3",
+{"name":"Dragón marino 3",
 "reload":200,
 "x":0
 "y":0
@@ -621,7 +621,7 @@
 "spawnUnit":"飞机1",
 "speed":0,
 }}
-{"name":"巡蛟3",
+{"name":"Dragón marino 3",
 "reload":500,
 "x":0
 "y":0
@@ -847,7 +847,7 @@
 "spawnUnit":"飞机1",
 "speed":0,
 }}
-{"name":"巡蛟3",
+{"name":"Patrulla del dragón marino 3",
 "reload":500,
 "x":0
 "y":0
@@ -1015,7 +1015,7 @@
 "spawnUnit":"飞机1",
 "speed":0,
 }}
-{"name":"磐石1",
+{"name":"Roca 1",
 "shootCone":120,
 "reload":12
 "x":0

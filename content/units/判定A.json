@@ -1,7 +1,7 @@
 {
 "type":"flying",
 //"template":"ErekirUnitType",
-"name":"判定单位(空军)",
+"name":"Unidad de juzgamiento (Fuerza Aérea)",
 "description":"",
 "immunities":[
 "wet","spore-slowed","tarred","甲板损坏"
@@ -36,7 +36,7 @@
 ],
 "weapons":[
 {
-"name":"无"
+"name":"Ninguno"
 "x":0,
 "y":0,
 "rotate":true,

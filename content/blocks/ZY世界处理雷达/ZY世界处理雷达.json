@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"世界雷达",
-"description":"超大范围索敌,特殊用途",
+"name":"Radar mundial",
+"description":"Enemigo de gran alcance, propósito especial",
 "targetAir":true,
 "targetGround":true,
 "health":2147483617,

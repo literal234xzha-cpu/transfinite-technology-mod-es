@@ -1,7 +1,7 @@
 {
 "type":"Separator",
-"name":"废料解析机",
-"description":"用更高的耗电量解析废料，并从中提取出有用的材料。\n\n[blue][超限技术中级工厂]",
+"name":"Máquina de análisis de residuos",
+"description":"Analice los desechos con un mayor consumo de energía y extraiga materiales útiles de ellos. \n\n[fábrica intermedia de tecnología de límite superado]",
 "results":[
 {"item":"metaglass","amount":9},
 {"item":"graphite","amount":9},

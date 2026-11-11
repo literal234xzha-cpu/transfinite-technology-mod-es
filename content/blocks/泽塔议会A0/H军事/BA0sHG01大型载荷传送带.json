@@ -1,7 +1,7 @@
 {
 "type":"PayloadConveyor",
-"name":"大型载荷传送带"
-"description":"运送更大型的载荷。\n[red][泽塔议会载荷装置]",
+"name":"Gran cinta transportadora de carga"
+"description":"Transportar cargas más grandes. \ N [red][Unidad de carga del Consejo Zeta]",
 "size":9,
 "moveTime":120,
 "moveForce":600,

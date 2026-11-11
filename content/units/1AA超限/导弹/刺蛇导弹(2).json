@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": "刺蛇导弹",
+	"name": "Misil «Víbora»",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 680,
 	"armor": 12
 	"speed": 3,

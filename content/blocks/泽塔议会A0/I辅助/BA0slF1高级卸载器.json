@@ -5,9 +5,9 @@
     "update": "true",
     "hasItems": "true",
     "type": "Unloader",
-    "description": "能高速卸载临近方块中的指定物品，较为昂贵。\n[red][泽塔议会卸载器]",
-    "name": "高级卸载器",
-    "details":"把这玩意贴核心....你不会是想偷懒吧？",
+    "description": "Es más costoso descargar los elementos designados en los cuadrados adyacentes a alta velocidad. \ N [red][Zeta Asamblea Desinstalador]",
+    "name": "Desinstalador avanzado",
+    "details":"Pon esta cosa en el núcleo... ¿No quieres ser perezoso?",
     "requirements": [
         { "item": "thorium", "amount": 25 },
         { "item": "lead", "amount": 20 }

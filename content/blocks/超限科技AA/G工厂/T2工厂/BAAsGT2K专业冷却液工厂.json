@@ -1,7 +1,7 @@
 {
-"name":"专业冷却液混合机",
+"name":"Mezclador de refrigerante profesional",
 "type":"GenericCrafter",
-"description":"合成冷却液\n\n[blue][超限技术中级工厂]",
+"description":"Refrigerante sintético \ n \ n[blue][Tecnología de límite intermedio de fábrica]",
 "itemCapacity":30
 "health":1640,
 "size":3,

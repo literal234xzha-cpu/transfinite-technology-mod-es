@@ -1,7 +1,7 @@
 {
 "type":"mech",
-"name":"布兰达(地下)",
-"description":"全位算体第一渗透军团布兰达的专属机甲，火控强大且小巧，由于其对技术要求极高，极其难以量产。\n[orange][全位算体英雄单位-布兰达]",
+"name":"Brenda (subterráneo)",
+"description":"El meca exclusivo de Brenda, la Primera Legión de Infiltración de las Entidades Omnidireccionales. Cuenta con un potente sistema de control de fuego y es compacto. Debido a sus altísimos requisitos técnicos, es extremadamente difícil de producir en masa.\n[orange][Unidad heroica de las Entidades Omnidireccionales - Brenda]",
 "speed":1.4,
 "hitSize":12,
 "hovering":false,
@@ -29,7 +29,7 @@
 ]
 "weapons":[
 {
-"name":"尖刀队长3",
+"name":"Capitán de la Bayoneta 3",
 "reload":122,
 "recoil":0,
 "x":-5.2,
@@ -58,7 +58,7 @@
 }
 }
 {
-"name":"尖刀队长2",
+"name":"Capitán de la Bayoneta 2",
 "reload":188,
 "recoil":0,
 "x":5.2,
@@ -100,7 +100,7 @@
 "collidesAir":false
 }
 }
-{"name":"尖刀队长1",
+{"name":"Capitán de la Guardia Imperial 1",
 "reload":58,
 "x":3.4,"y":-1,
 "rotate":true,
@@ -136,7 +136,7 @@
 }
 ]
 "researchCostMultiplier":0,
-"details":"谁不喜欢在上班的时候说些闲话",
+"details":"A quién no le gusta cotillear en el trabajo.",
 "research":{
 "parent":"u1A1M1布兰达"
 "objectives":[

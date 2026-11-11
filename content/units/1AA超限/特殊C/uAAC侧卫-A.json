@@ -1,8 +1,8 @@
 {
     "type": "legs",
-    "name":"侧卫-A"
-    "description": "超限集团装配在一些特殊飞行器上的突袭单位，移动速度快，但是武器威力和装甲偏低，但是其小巧的体型可以使其免疫一些异常状态\n\n[blue][超限技术特战机甲]",
-    "details":"一个比尖刀更小的机动作战单位,也不是动员兵",
+    "name":"Flanco A"
+    "description": "Unidad de asalto del Grupo Ultralímite montada en algunas aeronaves especiales. Tiene una gran velocidad de movimiento, pero su potencia de fuego y su blindaje son bajos. Sin embargo, su pequeño tamaño le permite ser inmune a algunos estados anómalos.\n\n[blue][Mecha de Operaciones Especiales con Tecnología Ultralímite]",
+    "details":"Una unidad de combate móvil más pequeña que la Brigada de Cuchillos Afilados, pero tampoco son soldados movilizados.",
     "legCount": 2
 	"legLength": 1
 	"legForwardScl": 1
@@ -43,7 +43,7 @@
 	},]
     "weapons": [
        {
-            "name": "侧卫-A1",
+            "name": "Flanco-A1",
             "reload": 24
             "x":3
             "y":0

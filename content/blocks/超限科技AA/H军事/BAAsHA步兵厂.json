@@ -1,7 +1,7 @@
 {
 "type":"UnitFactory",
-"name":"轻机械工厂",
-"description":"制造轻机甲单位，其廉价的价格和极快的生产速度使其可以在比较危急的时候用于救场，同时其中也有一些可以进行特殊作战的小型单位\n\n[blue][超限集团轻兵工厂]",
+"name":"Fábrica de maquinaria ligera",
+"description":"Fabricando unidades de mechas ligeras, su precio barato y su velocidad de producción extremadamente rápida las hacen útiles para el rescate en tiempos de crisis. Al mismo tiempo, también hay algunas unidades pequeñas que pueden realizar operaciones especiales. \ n \ n [azul] [grupo de exceso de límite Arsenal ligero]",
 "health":340,
 "size":2,
 "consumes":{"power":1.2,},

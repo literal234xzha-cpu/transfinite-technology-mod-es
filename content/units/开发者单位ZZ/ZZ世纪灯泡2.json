@@ -1,7 +1,7 @@
 {
 "type":"legs",
-"name": "世纪灯泡(二阶段)",
-"description": "彻 底 疯 狂 ！ ！ ！",
+"name": "Bombilla del siglo (fase 2)",
+"description": "¡¡¡Una locura total!!!",
 "hidden":true,
 "armor": 30,
 "speed": 1.96,
@@ -35,7 +35,7 @@
 	},
 	]
     "weapons": [
-    {"name": "无",
+    {"name": "No",
 	"shoot": {
 		"type": "ShootSpread",
 		"shots": 1,
@@ -64,7 +64,7 @@
 	"smokeEffect": "sparkShoot"
 	}},
     {
-			"name": "无",
+			"name": "No",
 			"reload": 120,
 			"recoil": 0,
 			"x": 0,

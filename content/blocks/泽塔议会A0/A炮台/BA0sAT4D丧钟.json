@@ -1,8 +1,8 @@
 {
 "type":"ItemTurret",
-"name":"丧钟",
-"description":"强大的轨道炮，向远距离单个目标射击。其改良后的子弹可以散射。\n\n\n[cyan]“使用布作为弹药时射程非常远，甚至超过了一般的导弹。但是又有谁在乎这些呢？”\n[red]和我的绝缘钢说去吧\n\n[red][泽塔议会炮台]",
-"details":"[red]咚",
+"name":"La sentencia de muerte",
+"description":"Potentes cañones de riel, disparando a objetivos individuales de larga distancia. Las balas mejoradas se pueden dispersar. \ N \ n \ n[cyan] &quot;Cuando se usa tela como munición, el alcance es muy largo, incluso más que el misil promedio. ¿Pero a quién le importa esto?&quot; \ N [rojo] y mi aislamiento de acero, vamos \ n \ n [rojo] [Fuerte del Parlamento Zeta]",
+"details":"[Rojo] Boom",
 "size":5
 "health":8450,
 "ammoPerShot":55,

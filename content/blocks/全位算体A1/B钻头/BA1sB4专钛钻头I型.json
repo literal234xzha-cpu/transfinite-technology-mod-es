@@ -1,7 +1,7 @@
 {"type":"BurstDrill"
-"name":"专钛钻头I型"
+"name":"Broca de titanio especial tipo I"
 "category":"production"
-"description":"无损耗挖掘，只能开采钛，需要电力。\n\n[orange][全位算体专业化采集设备]",
+"description":"Excavación sin pérdidas, solo se puede extraer titanio, se necesita electricidad. \ N \ n[orange][Equipo de adquisición profesional de aritmética completa]",
 "requirements":[
 "copper/18","lead/20","graphite/10"
 ]

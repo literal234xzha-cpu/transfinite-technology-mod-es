@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"离析",
-"description":"随着共振石的研发深入，超限集团决定将其放在离析上进行实验，最后造就了在拥有优美的弹道的同时，能够有效杀伤敌人的离析。\n\n\n[cyan]注：这个炮塔非常省弹药！\n\n[blue][超限技术炮台]",
+"name":"Asociación",
+"description":"Con la profundización de la investigación y el desarrollo de la piedra de resonancia, el Grupo Chaolite decidió experimentarla sobre la separación, y finalmente creó una separación que puede matar eficazmente al enemigo mientras tiene una hermosa trayectoria. Nota: ¡Esta torreta ahorra munición! \ N \ n[blue][Fuerte de tecnología de sobrepaso]",
 "health":6260,
 "liquidCapacity":500,
 "size":5

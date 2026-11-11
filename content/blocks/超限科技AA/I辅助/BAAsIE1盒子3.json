@@ -1,5 +1,5 @@
 {
-"description":"超限集团研究出的特化型的储存器，可以使用卸载器取出物品，容量巨大，同时能分担核心的部分算力以提供额外单位上限\n\n[超限集团储存单元]",
+"description":"El almacenamiento especializado desarrollado por el grupo de exceso de límite puede usar el descargador para extraer artículos. La capacidad es enorme y, al mismo tiempo, puede compartir parte de la potencia de cálculo del núcleo para proporcionar un límite superior de unidad adicional \ n \ n [Unidad de almacenamiento del grupo de exceso de límite]",
 "requirements":[
 {"amount":1200,"item":"titanium"}
 {"amount":600,"item":"1复合物"}
@@ -8,7 +8,7 @@
 {"item":"1集成电路","amount":600}
 ],
 "type":"StorageBlock",
-"name":"智能仓库",
+"name":"Almacén inteligente",
 "size":3,
 "itemCapacity":6000,
 "unitCapModifier":3

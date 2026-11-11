@@ -1,7 +1,7 @@
 {
 "type":"ItemBridge",
-"name":"电铅带桥",
-"description":"远距离传送物品，无视地形，耗电。\n\n[orange][全位算体传送带桥]",
+"name":"Puente de plomo eléctrico",
+"description":"Transporta objetos a larga distancia, ignorando el terreno y consumiendo energía. \ N \ n[orange][Puente de cinta transportadora de cálculo completo]",
 "health":80,
 "range":5,
 "transportTime":4

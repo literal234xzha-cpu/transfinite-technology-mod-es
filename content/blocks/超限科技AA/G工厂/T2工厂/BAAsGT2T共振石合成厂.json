@@ -1,8 +1,8 @@
 {
 "type":"GenericCrafter",
-"name":"共振石合成厂",
+"name":"Planta de síntesis de piedra de resonancia",
 "health":1040,
-"description":"随着对共振石的了解逐渐深入，超限集团已经掌握了稳定合成共振石的方式\n\n[blue][超限技术中级工厂]",
+"description":"Con la profundización gradual de la comprensión de la piedra de resonancia, el grupo de límites superiores ha dominado la forma de estabilizar la piedra de resonancia sintética \ n \ n [azul] [Fábrica intermedia de tecnología de límites superiores]",
 "outputItem":{"item":"1共振石","amount":2},
 "drawer":{
 "type":"DrawMulti",

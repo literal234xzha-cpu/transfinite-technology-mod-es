@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"监管",
-"description":"超限集团研发的一种可以发射发射修复激光修复友方建筑的炮台，适合延缓防线破坏程度，自动修复友方建筑。\n\n[blue][超限技术修复装置]",
+"name":"Regulación",
+"description":"Un fuerte desarrollado por el grupo de exceso de límite que puede lanzar y reparar con láser para reparar edificios amigos es adecuado para retrasar el daño de la línea de defensa y reparar automáticamente edificios amigos. \n\n[azul][Dispositivo de reparación de tecnología superlimitada]",
 "targetAir":false,
 "targetGround":false,
 "health":800,

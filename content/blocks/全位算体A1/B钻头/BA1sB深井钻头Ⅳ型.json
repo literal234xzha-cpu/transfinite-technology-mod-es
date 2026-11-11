@@ -1,7 +1,7 @@
 {
-"name":"深井钻头IV型"
+"name":"Broca de pozo profundo tipo IV"
 "type":"Separator"
-"description":"通过深度挖掘来开凿地下深处的矿物。\n\n[orange][全位算体深井钻头]",
+"description":"Excavando profundamente los minerales en las profundidades del suelo. \ N \ n[orange][Taladro de pozo profundo de cálculo completo]",
 "itemCapacity":40,
 "health":400,
 "size":4

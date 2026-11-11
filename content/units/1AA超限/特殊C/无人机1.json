@@ -2,7 +2,7 @@
 		"immunities": [
 "wet","spore-slowed","tarred","蜂群","甲板损坏"
 	],
-	"name": "飞蚊",
+	"name": "Mosca voladora",
 	"type": "missile",
 	"template": "MissileUnitType",
 	"hitSize": 6
@@ -76,7 +76,7 @@
 	    "speed":0,
 	    "lifetime":1,
 	    "width":0,	 "height":0}}
-	    {	"name": "无",	
+	    {	"name": "No",	
 		"reload":20,
         "x": 1,  "y": 1, 
         "rotate": false,
@@ -93,7 +93,7 @@
 	    "lifetime":55,
 	    "width":7,	 "height":10
 	}	}
-		{	"name": "无",	
+		{	"name": "No",	
 		"reload":20,
         "x": 0,  "y": 0, 
         "rotate": true,

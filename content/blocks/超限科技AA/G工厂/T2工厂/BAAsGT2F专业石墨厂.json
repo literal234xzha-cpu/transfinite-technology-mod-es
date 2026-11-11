@@ -1,8 +1,8 @@
 {
 "type":"GenericCrafter",
-"name":"专业石墨压缩机",
+"name":"Compresor de grafito profesional",
 "health":1040,
-"description":"专业加工石墨，大大提高产量，同时你需要更加高的物品供应来让其正常运作\n\n[blue][超限技术中级工厂]",
+"description":"El grafito se procesa profesionalmente, lo que aumenta en gran medida la producción. Al mismo tiempo, necesita un mayor suministro de artículos para que funcione normalmente. \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"graphite","amount":6},
 "updateEffect":"pulverizeMedium",
 "craftEffect":"blastsmoke"

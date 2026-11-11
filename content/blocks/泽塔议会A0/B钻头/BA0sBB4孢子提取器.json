@@ -1,9 +1,9 @@
 {
 "type":"WallCrafter"
-"name":"孢子提取器",
+"name":"Extractor de esporas",
 "size":1
 "health":60,
-"description":"以较缓慢的速度挖掘孢子。\n[red][泽塔议会特殊采集装置]",
+"description":"Excava las esporas a una velocidad más lenta. \ N [red][Zeta Asamblea Dispositivo de recogida especial]",
 "requirements":[
 {"item":"titanium","amount":45}
 {"item":"silicon","amount":30}

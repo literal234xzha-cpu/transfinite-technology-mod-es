@@ -1,7 +1,7 @@
 {
 "type":"hover",
-"name":"田螺"
-"description":"用于突击敌方建筑的悬浮单位,可以在水上移动，拥有一门主炮用于攻击，其装甲较为脆弱。\n\n[blue][超限技术特殊作战单元]",
+"name":"Caracol de arrozal"
+"description":"Unidad flotante utilizada para asaltar edificios enemigos. Puede moverse sobre el agua y cuenta con un cañón principal para atacar. Su blindaje es relativamente débil.\n\n[blue][Unidad de combate especial de tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","tarred"
 ],
@@ -48,7 +48,7 @@
 }
 ]
 "weapons":[
-{"name":"无",
+{"name":"No",
 "reload":40
 "x":0,"y":0,
 "rotate":false,

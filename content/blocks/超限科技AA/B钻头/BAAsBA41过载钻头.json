@@ -1,7 +1,7 @@
 {
-"name":"过载钻头",
+"name":"Broca de sobrecarga",
 "type":"Drill",
-"description":"可以开采钍，开采过程极端暴力，必须有水源和一定电力供应才能正常运转。\n\n[blue][超限技术钻机]",
+"description":"El torio se puede extraer, y el proceso de extracción es extremadamente violento, y debe haber una fuente de agua y un cierto suministro de energía para funcionar normalmente. \n\n[azul][Taladro tecnológico de límite superado]",
 "size":3
 "health":640,
 "tier":6,//挖掘等级

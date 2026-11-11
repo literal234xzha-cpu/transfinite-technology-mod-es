@@ -2,7 +2,7 @@
 		"immunities": [
 "wet","spore-slowed","tarred","shocked","freezing","蜂群","甲板损坏"
 	],
-	"name": "烟瘴",
+	"name": "Smog",
 	"type": "missile",
 	"template": "MissileUnitType",
 	"hitSize": 12
@@ -76,7 +76,7 @@
 	    "speed":0,
 	    "lifetime":1,
 	    "width":0,	 "height":0}}
-	{	"name": "无",	
+	{	"name": "No",	
 		//"minShootVelocity": 1.5,
 		"reload": 180
 	"shoot":{
@@ -130,7 +130,7 @@
             "colorTo": "c0ecff00"
         }]
 	}	}
-	{	"name": "无",	
+	{	"name": "No",	
 		"reload":2,
         "x": 1,  "y": 2, 
         "rotate": true,
@@ -151,7 +151,7 @@
 	    "lifetime":20,
 	    "width":7,	 "height":3
 	}	}
-	{	"name": "无",	
+	{	"name": "No",	
 		"reload":2,
         "x": 0,  "y": 0, 
         "rotate": true,
@@ -174,7 +174,7 @@
 	    "lifetime":20,
 	    "width":7,	 "height":3
 	}	}
-	{	"name": "无",	
+	{	"name": "No",	
 		//"minShootVelocity": 1.5,
 		"reload": 120 
 	"shoot":{

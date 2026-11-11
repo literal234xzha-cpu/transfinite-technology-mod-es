@@ -1,7 +1,7 @@
 {
-    "name":"鏖战核心",
+    "name":"Lucha contra el núcleo",
     "type":"CoreBlock",
-    "description": "重型的核心，装甲重，容量大。\n[red][泽塔议会次代核心]",
+    "description": "Núcleo pesado, armadura pesada y gran capacidad. \n[rojo][Núcleo de la próxima generación del Parlamento Zeta]",
     "requirements": [
     {"amount": 4000, "item": "copper"},
     {"amount": 4000, "item": "lead"},

@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"落锤",
-"description":"几乎疯狂的设计，连发的榴弹炮，超限集团为了追求火力一时脑热的产物，但在实际使用时发现了诸多问题，最后经过多次整改，他已经可以稳定发射而不是炸膛，在结构的优化下，它可以更加快的速度来有效的打击远程的目标\n\n[blue][超限技术炮台]",
+"name":"Martillo que cae",
+"description":"Diseño casi loco, obuses de disparo continuo, el grupo de exceso de límite para perseguir el producto de la potencia de fuego temporal, pero encontró muchos problemas en el uso real, y finalmente después de muchas rectificaciones, ha podido lanzar de manera estable en lugar de explotar. Bajo la optimización, puede ser más rápido para atacar eficazmente objetivos remotos \ n \ n[blue]",
 "health":660,
 "size":3
 "reload":25,

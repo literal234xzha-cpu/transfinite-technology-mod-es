@@ -1,12 +1,12 @@
 {
-"name":"自毁",
+"name":"Autodestrucción",
 	"damage": 2147483617,
 	"speedMultiplier":0,
 	"effectChance":0,
 	"healthMultiplier":0.01,
 	"permanent":true
 	"show":false
-		"description": "强制死亡",
+		"description": "Muerte forzada",
 	"effect":{	"type": "ParticleEffect",
 	"particles": 1,  
 	"baseLength": 10,

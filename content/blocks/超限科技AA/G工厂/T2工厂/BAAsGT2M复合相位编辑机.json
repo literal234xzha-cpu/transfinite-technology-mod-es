@@ -1,7 +1,7 @@
 {
 "type":"GenericCrafter",
-"name":"复合式相位编辑机",
-"description":"更快制作相织布\n\n[blue][超限技术中级工厂]",
+"name":"Máquina de edición de fase compuesta",
+"description":"Hacer tejido de fase más rápido \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"phase-fabric","amount":4},
 "size":3,
 "hasPower":true,

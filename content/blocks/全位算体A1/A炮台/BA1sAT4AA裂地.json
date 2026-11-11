@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"裂地",
-"description":"核心重型地震发生器，通过锤击地面引发地震波来损伤敌军，一般建造于核心地带，比常规的要塞炮建造时间要更长，强大坚固难以破坏，弹药自给自足。\n\n[orange][全位算体重型要塞炮]",
+"name":"Cajado",
+"description":"El generador sísmico pesado central daña al enemigo martillando el suelo para provocar ondas sísmicas. Generalmente se construye en el área central. Es más largo que el cañón de fortaleza convencional. Es fuerte y difícil de destruir, y la munición es autosuficiente. \n\n[orange][Cañón de asedio pesado de cálculo de peso total]",
 "targetAir":false,
 "targetGround":true,
 "health":12800,

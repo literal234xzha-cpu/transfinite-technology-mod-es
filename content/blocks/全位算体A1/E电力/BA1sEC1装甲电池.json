@@ -1,7 +1,7 @@
 {
-"name":"装甲电池",
+"name":"Batería blindada",
 "health":360,
-"description":"全副武装的电池，坚固且难以破坏，储电量也更大。\n\n[yellow][全位算体电池]",
+"description":"La batería completamente armada es fuerte y difícil de destruir, y el almacenamiento de energía es mayor. \ N \ n[yellow][Batería de potencia completa]",
 "requirements":[
 {"amount":80,"item":"lead"},
 {"amount":40,"item":"copper"},

@@ -1,7 +1,7 @@
 {
 "type":"UnitFactory",
-"name":"战术调控站",
-"description":"用于调控整支部队的作战方式，有多个不同的战术，不过我要试图多个叠加，只会适得其反。\n\n[orange][全位算体特殊装置]",
+"name":"Estación de control táctico",
+"description":"Hay muchas tácticas diferentes para regular los métodos de combate de toda la unidad, pero tengo que intentar superposiciones múltiples, lo que solo será contraproducente. \ N \ n[orange][Dispositivo especial de cálculo completo]",
 "health":1640,
 "size":3
 "consumes":{"power":18},

@@ -1,7 +1,7 @@
 {
 "type":"PowerNode",
-"name":"大型电力枢纽",
-"description":"相较于普通的电力节点可以进行更远距离的传输，同时能够接入更多的设施。\n\n[blue][超限技术电力传输装置]",
+"name":"Gran centro de energía",
+"description":"En comparación con los nodos de energía ordinarios, se puede realizar una transmisión a mayor distancia y se pueden acceder a más instalaciones. \ N \ n[blue][Dispositivo de transmisión de potencia de tecnología de exceso de límite]",
 "health":200,
 "size":2,
 "maxNodes":20,

@@ -1,10 +1,9 @@
 {
 	"type": "flying",
-	"name": "超  级  细  菌 的克隆体",
-	"description": "mod重要的建议提供者(新单位，新物品，平衡性方面),同时是地表最强的细菌的克隆体(雾
+	"name": "Clones de superbacterias",
+	"description": "Importante asesor de mods (nuevas unidades, nuevos objetos, aspectos de equilibrio), y al mismo tiempo, clon de la bacteria más fuerte del planeta (broma).
 	
-	[blue]可以自爆,比本体更慢的自我复制
-	",
+	[blue]Puede autodestruirse y autorreplicarse más lentamente que el original.",
 	"hidden":true,
 	"abilities": [
 	{
@@ -36,7 +35,7 @@
 	"engineOffset": 6,
 	"engineSize": 5,
 		"weapons":[
-	{	"name": "无",	
+	{	"name": "No",	
 		"reload": 10, 
 		"x": 0,  "y": 0, 
 		"rotate": false,

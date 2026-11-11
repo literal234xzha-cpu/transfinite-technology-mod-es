@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"星雨",
-"description":"为了更加有效的反击小型敌人，超限集团发明出了这种专门针对低护甲的小型敌人的炮台，通过聚集能量打击敌人，其能量子弹外部的强磁场会自动搜寻周围的单位，使其可以更为有效地打击轻型单位，但是只对地，并且充能时间长\n\n[blue][超限技术炮台]",
+"name":"Lluvia de estrellas",
+"description":"Con el fin de contrarrestar a los pequeños enemigos de manera más efectiva, el Grupo Ultra-Límite inventó este tipo de torreta específicamente para enemigos pequeños con armadura baja. Al recolectar energía para atacar al enemigo, el fuerte campo magnético fuera de su bala de energía buscará automáticamente las unidades circundantes para hacerlo más efectivo. Golpea unidades ligeras, pero solo a tierra, Y el tiempo de carga es largo \ n \ n[blue]",
 "targetAir":false,
 "targetGround":true,
 "health":1680,

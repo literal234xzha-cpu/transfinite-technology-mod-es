@@ -1,6 +1,6 @@
 {
-"name":"石油抽取机",
-"description":"能够从深处掘少量石油。\n\n[blue][超限技术提取器]",
+"name":"Máquina de extracción de petróleo",
+"description":"Capaz de cavar una pequeña cantidad de petróleo desde las profundidades. \n\n[azul][Extractor de tecnología de superlímite]",
 "type":"SolidPump",
 "health":350,
 "size":2,

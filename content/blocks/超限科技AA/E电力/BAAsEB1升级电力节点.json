@@ -1,7 +1,7 @@
 {
 "type":"PowerNode",
-"name":"电力枢纽",
-"description":"相较于普通的电力节点可以进行更远距离的传输，同时能够接入更多的设施。\n\n[blue][超限技术电力传输装置]",
+"name":"Centro de energía",
+"description":"En comparación con los nodos eléctricos convencionales, permite transmisiones a mayores distancias y puede conectar un mayor número de instalaciones. \n\n[azul][Dispositivo de transmisión de energía por tecnología de superconducción]",
 "health":50,
 "size":1,
 "maxNodes":14,

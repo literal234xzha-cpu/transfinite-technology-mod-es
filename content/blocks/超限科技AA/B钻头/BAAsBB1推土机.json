@@ -1,7 +1,7 @@
 {
-"name":"推土机",
+"name":"Bulldozer",
 "type":"Drill",
-"description":"字面意思\n\n[blue][超限技术特种开采工具]",
+"description":"Literalmente \ n \ n [azul] [Tecnología de límite superior herramienta de minería especial]",
 "size":4,
 "health":640,
 "tier":0,//挖掘等级

@@ -1,8 +1,8 @@
 {
-    "name":"修复穹顶"
+    "name":"Reparación de la cúpula"
 	"type":"MendProjector",
-	"description":"对较大范围内的建筑进行修复，它的修复效率极高，但是需要消耗电量和一定资源。\n[red][泽塔议会修复器]",
-	"details":"那所以你修的上来吗",
+	"description":"La restauración de edificios a gran escala es extremadamente eficiente, pero requiere consumo de energía y ciertos recursos. \ N [rojo] [Restaurador del Parlamento Zeta]",
+	"details":"Entonces, ¿lo reparaste?",
 	"health":800,
 	"size":3,
 	"range":240,

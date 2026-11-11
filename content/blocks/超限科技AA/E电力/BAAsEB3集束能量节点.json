@@ -1,7 +1,7 @@
 {
 "type":"BeamNode",
-"name":"集束能量节点",
-"description":"对四个角上发射激光同时也能接收激光，用于进行远程能量传输，似乎有着某种特殊用途。\n[blue][超限技术电力传输装置]",
+"name":"Nodo de energía de racimo",
+"description":"La emisión de láseres en las cuatro esquinas también puede recibir láseres para la transmisión de energía remota, que parece tener un propósito especial. \ N [blue][Dispositivo de transmisión de potencia de tecnología de exceso de límite]",
 "size":3,
 "health":150,
 "range":200,

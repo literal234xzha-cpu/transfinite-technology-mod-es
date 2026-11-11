@@ -1,7 +1,7 @@
 {
 "type":"PowerNode",
-"name":"装甲电力节点",
-"description":"坚固稳定的电力节点，不易被破坏，同时能够接入更多的设施。\n\n[yellow][全位算体电力传输节点]",
+"name":"Nodo de energía blindada",
+"description":"Los nodos de energía robustos y estables no se destruyen fácilmente y pueden acceder a más instalaciones. \ N \ n[yellow][nodo de transmisión de potencia de cálculo completo]",
 "health":120,
 "size":1,
 "maxNodes":8,

@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"寒光",
-"description":"超限集团研发出的极端强大的激光炮，强大的光束能够给以敌人致命打击，对空对地，攻击速度极慢。\n\n[blue][超限技术炮台]",
+"name":"Luz fría",
+"description":"El cañón láser extremadamente poderoso desarrollado por el grupo de exceso de límite, el poderoso rayo puede dar al enemigo un golpe fatal, y la velocidad de ataque aire-tierra es extremadamente lenta. \n\n[azul][Batería de tecnología de superlímite]",
 "targetAir":true,
 "targetGround":true,
 "health":4280,

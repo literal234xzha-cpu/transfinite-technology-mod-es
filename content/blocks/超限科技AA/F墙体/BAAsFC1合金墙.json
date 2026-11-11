@@ -1,6 +1,6 @@
 {
-"name":"反应合金墙",
-"description":"强大而坚固，吸收激光，同时可以反弹子弹\n\n[blue][超限技术中级装甲墙]",
+"name":"Pared de aleación de reacción",
+"description":"Potente y robusto, absorbe el láser mientras rebota la bala \ n \ n [azul] [Muro blindado intermedio de tecnología de límite superior]",
 "type":"Wall",
 "health":1200,
 "flashHit":true,

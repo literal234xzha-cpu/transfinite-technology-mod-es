@@ -1,6 +1,6 @@
 {
- "name":"高能芯片",//名称
- "description":"精密芯片，制作工艺复杂，用于一些尖端超限技术设施\n \n[blue][超限技术物品]",//描述
+ "name":"Chip de alta energía",//名称
+ "description":"Chip de precisión, con un proceso de fabricación complejo, utilizado en algunas instalaciones tecnológicas de vanguardia.\n \n[blue][Artículo de tecnología avanzada]",//描述
  "color":"CBBB7D",//颜色
  "cost":1//建筑消耗时间，为1帧
  "flammability":0,//燃烧性

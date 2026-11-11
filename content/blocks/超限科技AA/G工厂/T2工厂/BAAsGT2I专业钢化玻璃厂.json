@@ -1,8 +1,8 @@
 {
 "type":"GenericCrafter",
-"name":"专业钢化玻璃窑炉",
+"name":"Horno de vidrio templado profesional",
 "health":1040,
-"description":"专业加工钢化玻璃，有更大产量同时需要更大的供应量以支持其正常生产\n\n[blue][超限技术中级工厂]",
+"description":"Especializada en el procesamiento de vidrio templado, tiene una mayor producción y necesita un mayor suministro para respaldar su producción normal \ n \ n [azul] [fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"metaglass","amount":5},
 "alwaysUnlocked":false,
 "size":3,

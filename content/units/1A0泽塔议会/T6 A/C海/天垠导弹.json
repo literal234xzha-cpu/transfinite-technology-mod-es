@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": "天垠导弹",
+	"name": "Misil Tianyin",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 1880,
 	"armor": 16,
 	"speed": 6

@@ -1,7 +1,7 @@
 {
 "type":"ThermalGenerator",
-"name":"高级热能发电机",
-"description":"高级的热能发电机，地热高效利用，发电效率高\n\n[blue][超限技术发电装置]",
+"name":"Generador de energía térmica avanzada",
+"description":"Generador de energía térmica avanzado, uso eficiente de la energía geotérmica, alta eficiencia de generación de energía \ n \ n [azul] [Dispositivo de generación de energía con tecnología de límite superior]",
 "size":3,
 "health":460,
 "hasLiquids":false,

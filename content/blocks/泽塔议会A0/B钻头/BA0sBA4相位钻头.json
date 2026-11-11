@@ -1,7 +1,7 @@
 {
-"name":"相位钻头",
+"name":"Taladro de fase",
 "type":"Drill",
-"description":"比爆破钻头更为好用，可以开采钍，需要消耗电力，加入水之后可以获得更快的速度。\n[red][泽塔议会钻头]",
+"description":"Es más fácil de usar que una broca de voladura. Puede extraer torio y consumir electricidad. Después de agregar agua, puede obtener una velocidad más rápida. \ N [red][Zeta Parlamento broca]",
 "size":4
 "health":640,
 "tier":7,//挖掘等级

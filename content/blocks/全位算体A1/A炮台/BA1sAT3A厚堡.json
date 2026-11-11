@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"厚堡",
-"description":"对空对地的重机炮攻击，强大坚固难以破坏，弹药自给自足。\n\n[orange][全位算体要塞炮]",
+"name":"Fuerte grueso",
+"description":"El ataque de artillería pesada aire-tierra es fuerte y difícil de destruir, y la munición es autosuficiente. \n\n[orange][Cañón de la Fortaleza del Cálculo de Posición Completa]",
 "targetAir":true,
 "targetGround":true,
 "health":4500,

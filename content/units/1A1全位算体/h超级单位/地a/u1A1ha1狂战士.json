@@ -24,7 +24,7 @@
 "targetAir":true,
 "targetGround":true,
 "weapons":[
-{"name":"狂战士1",
+{"name":"Guerrero bárbaro 1",
 "reload":116,
 "x":10,"y":0.9,
 "rotate":false,
@@ -51,7 +51,7 @@
 "collidesTiles":true
 }
 }
-{"name":"狂战士3",
+{"name":"Guerrero bárbaro 3",
 "reload":20,
 "x":-3,"y":-1.5,
 "rotate":true,
@@ -73,7 +73,7 @@
 "status":"burning",
 "statusDuration":30,
 }}
-{"name":"狂战士3",
+{"name":"Guerrero bárbaro 3",
 "reload":20
 "x":-3,"y":1.5,
 "rotate":true,
@@ -98,7 +98,7 @@
 "statusDuration":30,
 }
 }
-{"name":"狂战士2",
+{"name":"Guerrero furioso 2",
 "reload":9,
 "x":8,"y":0,
 "rotate":false,

@@ -1,7 +1,7 @@
 {
 	"type": "flying",
-	"name": "Fire-火光",
-	"description": "火光与你同在",
+	"name": "Fuego-Llamas",
+	"description": "La luz del fuego está contigo",
 	"hidden":true,
 	"speed": 0.4,	
 	"drag":0.05,"accel":0.1,
@@ -30,7 +30,7 @@
 	"engineOffset": 22
 	"engineSize": 22
 	"weapons": [
-	{	"name": "ZZFire-火光2",	
+	{	"name": "ZZFire-Llama2",	
 	               	"shootCone":30,
 		"reload":33,
 		"x":-72
@@ -152,7 +152,7 @@
         }
         }
 		{
-	"name": "无",	
+	"name": "No",	
     "shoot":{
 		"shots":2
 	    "shotDelay":90
@@ -175,7 +175,7 @@
              "spawnUnit": "欧米茄聚变导弹",
              "speed": 0,
 	               	}}
-		{	"name": "ZZFire-火光1",	
+		{	"name": "ZZFire-Llamas 1",	
 	               	"shootCone":30,
 		"reload":33,
 		"x":-72
@@ -297,7 +297,7 @@
 	}
 	}
 	
-	{	"name": "ZZFire-火光",	
+	{	"name": "ZZFire-Llamas",	
 	               	"shootCone":30,
 		"reload":9999
 		"x":0
@@ -328,7 +328,7 @@
         }
         
         {
-			"name": "ZZFire-火",
+			"name": "ZZFire-Fuego",
 			"reload": 120,
 			"x": 62
 			"y": 56

@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"晴空",
-"description":"核心重型防空火箭，一般建造于核心地带，比常规的要塞炮建造时间要更长，强大坚固难以破坏，弹药自给自足。\n\n[orange][全位算体要塞炮]",
+"name":"Cielo despejado",
+"description":"Los cohetes centrales de defensa aérea pesada generalmente se construyen en el área central, que es más largo que los cañones de fortaleza convencionales. Es fuerte y difícil de destruir, y la munición es autosuficiente. \n\n[orange][Cañón de la Fortaleza del Cálculo de Posición Completa]",
 "targetAir":true,
 "targetGround":false,
 "health":12800,

@@ -1,7 +1,7 @@
 {
     "type":"LaunchPad", 
-    "name":"重型发射台", 
-    "description":"通过对发射台的进一步开发，重型发射台可以发射更多物品支援其他区块，更短充能时间与更大的发射量。\n[red][泽塔议会发射台]", 
+    "name":"Plataforma de lanzamiento pesada", 
+    "description":"A través del desarrollo adicional de la plataforma de lanzamiento, la plataforma de lanzamiento de servicio pesado puede lanzar más elementos para apoyar otros bloques, tiempos de carga más cortos y mayores volúmenes de lanzamiento. \ N [rojo] [Plataforma de lanzamiento del parlamento Zeta]", 
     "health":3000,
     "size":5, 
     "itemCapacity":200, 

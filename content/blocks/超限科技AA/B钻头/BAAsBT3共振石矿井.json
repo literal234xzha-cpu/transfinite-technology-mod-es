@@ -1,8 +1,8 @@
 {
 "type":"AttributeCrafter",
-"name":"共振石矿井",
+"name":"Mina de piedra de resonancia",
 "health":1040,
-"description":"超限集团在一次意外中发现的共振石，出一期极为广大的使用前景，超限集团研发出了这种专门的开采装置\n\n[red]警告:只能建立在地热上！！！\n\n[blue][超限技术中级工厂]",
+"description":"La piedra de resonancia descubierta por Super Limited Group en un accidente tiene una perspectiva de uso extremadamente amplia en la primera fase. Super Limited Group ha desarrollado este dispositivo de minería especial \ n \ n [rojo] advertencia: ¡solo se puede construir sobre calor geotérmico!!! \n\n[fábrica intermedia de tecnología de límite superado]",
 "outputItem":{"item":"1共振石","amount":1},
 "drawer":{
 "type":"DrawMulti",

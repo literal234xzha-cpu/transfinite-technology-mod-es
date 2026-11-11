@@ -1,8 +1,8 @@
 {
 "type":"flying",
-"name":"幻象",
-"description":"常规支援飞行器，能够发射轻型修复导弹，更加高效的修复以及建造能力。\n\n[orange][全位算体支援部队]",
-"details":"所以他是幻形还是巨象",
+"name":"fantasma",
+"description":"Nave de apoyo convencional capaz de lanzar misiles de reparación ligeros, con una capacidad de reparación y construcción más eficiente.\n\n[orange][Unidad de apoyo de entidades computacionales omnidireccionales]",
+"details":"Entonces, ¿es un metamorfomago o un gigante?",
 "immunities":[
 "shocked","electrified","slow","freezing","burning","spore-slowed","脆裂","甲板损坏"
 ],
@@ -32,7 +32,7 @@
 "range":48
 }]
 "weapons":[
-{"name":"无",
+{"name":"No",
 //"minShootVelocity":1.5,
 "reload":3
 "x":0,"y":0,

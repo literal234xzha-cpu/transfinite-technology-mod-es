@@ -1,6 +1,6 @@
 {
-"name":"算法逻辑处理器",
-"description":"更加高效的逻辑处理器，可控制的范围更大。\n[orange][全位算体逻辑]"
+"name":"Procesador lógico algorítmico",
+"description":"Un procesador lógico más eficiente con un mayor rango de control. \ N [orange][Lógica aritmética completa]"
 "type":"LogicBlock"
 "hasLiquids":false
 "instructionsPerTick":10

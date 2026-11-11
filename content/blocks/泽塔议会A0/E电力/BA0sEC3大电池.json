@@ -1,7 +1,7 @@
 {
-"name":"电室",
+"name":"Sala eléctrica",
 "health":5500,
-"description":"更好的电力储存设备，更加坚固，储电量巨大。\n[red][泽塔议会电池]",
+"description":"Un mejor equipo de almacenamiento de energía es más resistente y tiene un enorme almacenamiento de energía. \ N [red][Zeta Asamblea Batería]",
 "requirements":[
 {"amount":530,"item":"lead"},
 {"amount":260,"item":"silicon"},

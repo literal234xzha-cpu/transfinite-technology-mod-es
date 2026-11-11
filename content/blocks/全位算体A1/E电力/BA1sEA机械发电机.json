@@ -1,7 +1,7 @@
 {
 "type":"ThermalGenerator",
-"name":"机械发电机",
-"description":"简易的风力发电装置，容易受地区气候影响，水上发电效率更高。\n[orange][全位算体电力设备]",
+"name":"Generador mecánico",
+"description":"Los dispositivos de energía eólica simples se ven fácilmente afectados por el clima regional y la eficiencia de la generación de energía hidroeléctrica es mayor. \n[naranja][Equipo eléctrico de cálculo de potencia en todos los modos]",
 "size":2,
 "health":120,
 "hasLiquids":false,

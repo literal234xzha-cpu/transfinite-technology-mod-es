@@ -1,7 +1,7 @@
 {
 "type":"ForceProjector",
-"name":"小型立场盾发生器",
-"description":"生成一个小范围能量盾立场，保护一定区内的单位，坚固但是耗电\n\n[blue][超限技术护盾发生器]",
+"name":"Pequeño generador de escudo de soporte",
+"description":"Genere una posición de escudo de energía de rango pequeño para proteger unidades en un área determinada, fuerte pero que consume energía \ n \ n [azul] [Generador de escudo de tecnología por encima del límite]",
 "health":300,
 "size":2,
 "radius":80,

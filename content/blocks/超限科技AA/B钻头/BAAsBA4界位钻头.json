@@ -1,7 +1,7 @@
 {
-"name":"界位钻头",
+"name":"Broca de límite",
 "type":"Drill",
-"description":"可以开采钍，需要消耗电力，加入冷却液之后可以获得极快的速度，开采需要的时间非常长。\n\n[blue][超限技术钻机]",
+"description":"Puede extraer torio, necesita consumir electricidad y puede obtener una velocidad extremadamente rápida después de agregar refrigerante. La extracción lleva mucho tiempo. \n\n[azul][Taladro tecnológico de límite superado]",
 "size":4
 "health":640,
 "tier":7,//挖掘等级

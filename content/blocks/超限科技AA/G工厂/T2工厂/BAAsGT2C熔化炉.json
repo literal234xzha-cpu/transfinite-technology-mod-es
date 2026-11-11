@@ -1,7 +1,7 @@
 {
-"name":"融化炉",
+"name":"Horno de fusión",
 "type":"GenericCrafter",
-"description":"能够更为高效的融化废料，同时有更多的矿渣产出\n\n[blue][超限技术中级工厂]",
+"description":"Puede derretir los desechos de manera más eficiente y tener más producción de escoria \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
 "itemCapacity":40,
 "health":500,
 "size":3,

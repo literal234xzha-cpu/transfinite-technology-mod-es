@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"警戒",
-"description":"对地迫击炮攻击，强大坚固难以破坏，弹药自给自足。\n\n[orange][全位算体要塞炮]",
+"name":"Alerta",
+"description":"Los ataques con morteros en el suelo son fuertes y difíciles de destruir, y las municiones son autosuficientes. \n\n[orange][Cañón de la Fortaleza del Cálculo de Posición Completa]",
 "targetAir":false,
 "targetGround":true,
 "health":1600,

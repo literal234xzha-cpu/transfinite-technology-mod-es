@@ -1,11 +1,11 @@
 {
 	"type": "flying",
-	"name":"重工[移动]",
-	"description": "超限集团转移基地时会一并带走的移动兵工厂,部署之后会伸出底部的钻头,从地下挖掘部分矿物在经过简易加工建造的一些简单的战斗单位,同时开启回复立场,带有一定的建造能力，部署之后40秒之内不能收起工厂。\n \n[blue][超限集团移动兵工厂]",
+	"name":"Trabajo pesado [Desplazamiento]",
+	"description": "La Fábrica Móvil de Armas del Grupo Ultralímite se lleva consigo cuando se desplaza la base. Después de desplegarla, extiende la broca de su parte inferior para extraer algunos minerales del subsuelo y, tras un proceso de elaboración sencillo, construye algunas unidades de combate básicas. Al mismo tiempo, activa un campo de recuperación y cuenta con cierta capacidad de construcción. Una vez desplegada, la fábrica no se puede recoger durante 40 segundos.\n \n[blue][Fábrica Móvil de Armas del Grupo Ultralímite]",
 	"immunities": [
 		"shocked","electrified","slow","freezing","burning","spore-slowed","脆裂","甲板损坏"
 	],
-	"details":"他在飞行时还是个很好用的采矿机",
+	"details":"También es una máquina minera muy útil cuando está volando.",
 	"speed": 0.2
 	"accel":0.05,"drag":0.03,
 	"healColor": "c0ecff"
@@ -33,7 +33,7 @@
     ]
     "weapons": [
 	{
-            "name": "超限重拳1",
+            "name": "Puñetazo devastador 1",
             "reload": 94
             "x":0
             "y":0

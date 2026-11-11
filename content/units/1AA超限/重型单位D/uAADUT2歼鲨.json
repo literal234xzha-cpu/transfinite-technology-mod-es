@@ -1,8 +1,8 @@
 {
 "type":"naval",
-"name":"沧和",
-"description":"极端重型海军，拥有一门强大的四联舰炮，前甲板有三门双联舰炮，后甲板有两门双联舰炮，侧面一共有二十门副炮，拥有极为强大的火力，[red]没有防空能力。\n[blue][超限技术重型海军]",
-"details":"这玩意儿绝对和大和号没关系",
+"name":"Canghe",
+"description":"Buque de guerra pesado extremo, equipado con un potente cañón cuádruple, tres cañones dobles en la cubierta de proa y dos cañones dobles en la cubierta de popa. Cuenta con un total de veinte cañones secundarios en los costados, lo que le confiere una potencia de fuego extremadamente elevada. [red]Carece de capacidad antiaérea.\n[blue][Buque de guerra pesado de tecnología avanzada]",
+"details":"Esta cosa no tiene nada que ver con el Yamato.",
 "immunities":[
 "wet","spore-slowed","tarred","列阵"
 ],
@@ -69,7 +69,7 @@
 "speed":340,"lifetime":1,
 }
 }
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":11
 "y":40
@@ -103,7 +103,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":11
 "y":30
@@ -137,7 +137,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":11
 "y":20
@@ -171,7 +171,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":14
 "y":7
@@ -205,7 +205,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":14
 "y":-1
@@ -239,7 +239,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":14
 "y":-6
@@ -273,7 +273,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":14
 "y":-12
@@ -307,7 +307,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":14
 "y":-20
@@ -341,7 +341,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":14
 "y":-30
@@ -375,7 +375,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":14
 "y":-40
@@ -413,7 +413,7 @@
 
 
 
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-11
 "y":40
@@ -447,7 +447,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-11
 "y":30
@@ -481,7 +481,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-11
 "y":20
@@ -515,7 +515,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-14
 "y":7
@@ -549,7 +549,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-14
 "y":-1
@@ -583,7 +583,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-14
 "y":-6
@@ -617,7 +617,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-14
 "y":-12
@@ -651,7 +651,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-14
 "y":-20
@@ -685,7 +685,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-14
 "y":-30
@@ -719,7 +719,7 @@
 "trailColor":"c0ecff",
 "backColor":"c0ecff",
 "frontColor":"c0ecff",}}
-{"name":"舰炮2",
+{"name":"Cañón naval 2",
 "reload":144,
 "x":-14
 "y":-40
@@ -757,7 +757,7 @@
 
 
 
-{"name":"界限炮1",
+{"name":"Cañón de límite 1",
 "reload":66,
 "x":0
 "y":36
@@ -986,7 +986,7 @@
 }
 ]
 }}
-{"name":"界限炮1",
+{"name":"Cañón de frontera 1",
 "reload":66,
 "x":0
 "y":24
@@ -1215,7 +1215,7 @@
 }
 ]
 }}
-{"name":"界限炮1",
+{"name":"Cañón de frontera 1",
 "reload":66,
 "x":0
 "y":12
@@ -1443,7 +1443,7 @@
 }
 ]
 }}
-{"name":"舰炮1",
+{"name":"Cañón naval 1",
 "reload":64,
 "x":0
 "y":-8
@@ -1683,7 +1683,7 @@
 "cone":30}
 ]
 }}
-{"name":"界限炮1",
+{"name":"Cañón de frontera 1",
 "reload":66,
 "x":0
 "y":-24
@@ -1912,7 +1912,7 @@
 }
 ]
 }}
-{"name":"界限炮1",
+{"name":"Cañón de frontera 1",
 "reload":66,
 "x":0
 "y":-36

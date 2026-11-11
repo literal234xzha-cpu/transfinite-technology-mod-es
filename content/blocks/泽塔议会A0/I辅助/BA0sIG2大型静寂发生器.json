@@ -1,7 +1,7 @@
 {
 	"type": "PowerTurret",
-	"name": "大型静寂发生器",
-	"description": "相较于小型静寂发生器有更大的范围，功能一致。\n[red][泽塔议会特殊辅助装置]",
+	"name": "Generador de silencio grande",
+	"description": "En comparación con el pequeño generador de silencio, tiene un rango más grande y una función consistente. \n[rojo][Dispositivo auxiliar especial del Consejo Zeta]",
 	"underBullets":true
 	"health": 1080,
 	"size": 4

@@ -1,7 +1,7 @@
 {
 "type":"ConsumeGenerator",
-"name":"温压发电机",
-"description":"通过高速的焰流来驱动涡轮发电，疯子般的想法。\n[orange][全位算体电力设备]",
+"name":"Generador de temperatura y presión",
+"description":"A través del flujo de llamas de alta velocidad para impulsar la generación de energía de la turbina, la idea de un loco. \ N [orange][Equipo de potencia de cálculo completo]",
 "size":3,
 "health":360,
 "hasPower":true,

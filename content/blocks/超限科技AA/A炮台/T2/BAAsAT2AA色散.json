@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"色散",
-"description":"超限集团以一种较为粗制的方法制成的光束炮，受限于资源导致其威力极为低下，但是又意外的导致其有较远的射程，炮台通过四连发光束来打击敌人。\n\n[blue][超限技术炮台]",
+"name":"Disperación",
+"description":"El cañón de haz fabricado por el grupo de sobrelímite de un método relativamente rudo está limitado por los recursos, lo que hace que su poder sea extremadamente bajo, pero inesperadamente hace que tenga un largo alcance. La torreta usa cuatro haces para atacar al enemigo. \n\n[azul][Batería de tecnología de superlímite]",
 "targetAir":true,
 "targetGround":true,
 "health":400,

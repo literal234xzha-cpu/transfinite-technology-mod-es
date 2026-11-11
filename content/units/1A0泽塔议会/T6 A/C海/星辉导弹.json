@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": "星辉导弹",
+	"name": "Misil Estelar",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 1280,
 	"armor": 6,
 	"speed": 6

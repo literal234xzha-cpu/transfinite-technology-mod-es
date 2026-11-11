@@ -1,7 +1,7 @@
 {
 "type":"GenericCrafter",
-"name":"冷凝流体混合机",
-"description":"利用各种物品合成冷凝流体\n\n[blue][超限技术中级工厂]",
+"name":"Mezclador de fluido de condensación",
+"description":"Utilice varios artículos para sintetizar el fluido de condensación \ n \ n [azul] [Fábrica intermedia de tecnología de límite superior]",
 "health":360,
 "outputLiquid":{"liquid":"00冷凝流体","amount":1},
 "itemCapacity":30

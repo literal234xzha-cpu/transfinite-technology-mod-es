@@ -1,6 +1,6 @@
 {
-"name":"共振驱动器",
-"description":"长距离发送物品包，收集一定物品后将其传送到另一个共振驱动器中。\n\n[blue][超限技术物流装置]",
+"name":"Controlador de resonancia",
+"description":"Envíe paquetes de artículos a larga distancia, recolecte ciertos artículos y envíelo a otra unidad de resonancia. \n\n[Tecnología de superlímite, dispositivo logístico]",
 "type":"MassDriver",
 "size":3,
 "hasItems":true,

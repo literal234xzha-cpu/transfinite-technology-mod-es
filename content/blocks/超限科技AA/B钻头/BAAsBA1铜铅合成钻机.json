@@ -1,7 +1,7 @@
 {
-"name":"铜铅合成钻机",
+"name":"Perforadora sintética de cobre y plomo",
 "type":"Drill",
-"description":"超限集团最基础的钻头，机械钻头的改良版，有更快的挖掘速度。\n\n[blue][超限技术钻机]",
+"description":"La broca más básica del grupo ultrarrápido, una versión mejorada de la broca mecánica, tiene una velocidad de excavación más rápida. \n\n[azul][Taladro tecnológico de límite superado]",
 "size":3,
 "health":640,
 "tier":2,//挖掘等级

@@ -1,8 +1,8 @@
 {
     "type": "ShockMine",
-    "name": "磁爆地雷",
-    "description": "为了应对集团那群神出鬼没的部队，我们对原本的电弧地雷加以改进，最终制造出了mark2版 这小玩意定能让集团那些鬼玩意死在它恐怖的爆炸之下\n——.——————————.————————————————0078实战日志\n这小玩意可惜不算太成功，成本过大，且结构过于复杂导致布置时间较长最好是在他们未察觉下布置。\n[red][泽塔议会地雷]"
-"details":"昂贵而可怕",
+    "name": "Minas de explosión magnética",
+    "description": "Para hacer frente a las fascinantes tropas del grupo, mejoramos las minas de arco originales y finalmente creamos la versión mark2 de este gadget que permitirá que los fantasmas del grupo mueran bajo su horrible explosión. ----------.---------------- 0078 Registro de combate real \ n Desafortunadamente, este dispositivo no tiene demasiado éxito, el costo es demasiado alto y la estructura es demasiado complicada, lo que resulta en un tiempo de diseño más largo. Es mejor no darse cuenta. Disposición. \n[rojo][Minas del Parlamento Zeta]"
+"details":"Caro y aterrador",
     "health": 900,
     "hasShadow":false
     "requirements": [

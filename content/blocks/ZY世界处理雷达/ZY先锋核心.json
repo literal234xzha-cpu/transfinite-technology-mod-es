@@ -1,7 +1,7 @@
 {
-"name":"先锋核心(类无敌版)",
+"name":"Pioneer Core (versión invencible)",
 "type":"CoreBlock",
-"description":"几乎无敌，单位上限增加9999，没有核心建造者",
+"description":"Casi invencible, el límite superior de la unidad aumenta en 9999, no hay constructores centrales",
 "requirements":[
 ],
 "unitType":"无",

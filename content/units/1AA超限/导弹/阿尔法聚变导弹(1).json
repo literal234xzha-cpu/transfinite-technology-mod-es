@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": "阿尔法聚变导弹",
+	"name": "Misil de fusión alfa",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 6200
 	"armor": 33
 	"speed": 3

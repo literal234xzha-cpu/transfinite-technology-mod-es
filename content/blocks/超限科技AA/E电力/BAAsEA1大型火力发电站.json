@@ -1,7 +1,7 @@
 {
 "type":"ConsumeGenerator",
-"name":"大型火力发电站",
-"description":"大型火力发电机，佣有更快发电。\n\n[blue][超限技术发电装置]",
+"name":"Grandes centrales térmicas",
+"description":"Los generadores de energía térmica a gran escala pueden generar electricidad más rápido. \ N \ n[blue][Dispositivo de generación de energía con tecnología de límite superior]",
 "size":2,
 "health":280,
 "hasLiquids":false,

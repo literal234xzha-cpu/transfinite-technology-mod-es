@@ -1,7 +1,7 @@
 {
 "type":"mech",
-"name":"静默"
-"description":"专业的狙击机甲，拥有极高的伤害，能够将被集中的单位定住一会儿\n\n[blue][超限技术作战大型机甲]",
+"name":"Silencio"
+"description":"Mecha francotirador especializado con un daño extremadamente alto que puede inmovilizar a las unidades alcanzadas durante un tiempo.\n\n[blue][Mecha grande de combate con tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","甲板损坏"
 ],
@@ -28,7 +28,7 @@
 ]
 "weapons":[
 {
-"name":"收容1",
+"name":"Alojamiento 1",
 "reload":150
 "x":0
 "y":0

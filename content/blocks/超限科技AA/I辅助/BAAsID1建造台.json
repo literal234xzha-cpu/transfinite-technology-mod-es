@@ -1,7 +1,7 @@
 {
 "type":"BuildTurret",//类型:建造机
-"name":"建造台",//不知道这个的建议，别写了
-"description":"辅助玩家建造，会自动对附近受损建筑进行重建，尽管不能移动，但它并不会受到单位上限的影响\n\n[blue][超限技术建造装置]"
+"name":"Plataforma de construcción",//不知道这个的建议，别写了
+"description":"Para ayudar al jugador a construir, reconstruirá automáticamente el edificio dañado cercano. Aunque no se puede mover, no se verá afectado por el límite superior de la unidad."
 "size":2,//物品面积
 "health":300,//建筑血量
 "buildSpeed":0.5

@@ -1,7 +1,7 @@
 {
 "type":"legs",
-"name":"星寂"
-"description":"可怕的攻城兵器，能够发射毁灭性的激光炮，同时有两门发射滞留弹的副炮。\n[red][泽塔议会永恒级单位]",
+"name":"Estrella solitaria"
+"description":"Un temible arma de asedio capaz de disparar cañones láser devastadores, además de dos cañones secundarios que lanzan proyectiles de retención.\n[red][Unidad de clase Eterna del Consejo Zetta]",
 "speed":0.4,
 "hitSize":52
 "health":75000,
@@ -53,7 +53,7 @@
 ],
 "weapons":[
 {
-"name":"星寂",
+"name":"Estrella solitaria",
 "mirror":false,
 "top":false
 "shake":4,
@@ -483,7 +483,7 @@
 }}
 }
 
-{"name":"星寂2",
+{"name":"Soledad estelar 2",
 "x":25,"y":0,
 "mirror":true,
 "reload":300,

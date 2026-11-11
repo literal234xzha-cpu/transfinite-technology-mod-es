@@ -1,7 +1,7 @@
 {
 "type":"legs",
-"name": "世纪灯泡",
-"description": "画图师？？？？",
+"name": "Bombilla del siglo",
+"description": "¿¿¿¿Ilustrador????",
 "hidden":true,
 "armor": 30,
 "speed": 0.76,
@@ -34,7 +34,7 @@
 	},]
 	"weapons": [
 	{
-			"name": "无",
+			"name": "No",
 			"reload": 600,
 			"recoil": 0,
 			"x": 0,

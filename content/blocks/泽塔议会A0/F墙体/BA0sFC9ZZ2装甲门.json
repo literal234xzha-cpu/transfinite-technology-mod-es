@@ -1,6 +1,6 @@
 {
-"name":"泽塔装甲门",
-"description":"强大而坚固，可以反弹子弹\n\n[red][泽塔议会装甲门]",
+"name":"Puerta blindada Zeta",
+"description":"Poderoso y robusto, puede rebotar balas \ n \ n [rojo] [Puerta blindada del Consejo Zeta]",
 "type":"AutoDoor",
 "health":4000,
 "flashHit":true

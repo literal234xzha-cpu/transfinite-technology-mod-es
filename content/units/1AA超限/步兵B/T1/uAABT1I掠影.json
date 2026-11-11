@@ -1,7 +1,7 @@
 {
 "type":"flying",
-"name":"流星"
-"description":"用于突击敌方建筑的自爆单位，飞行单位，用高强度爆炸与敌人同归于尽。\n\n[blue][超限技术特殊作战单元]",
+"name":"Estrella fugaz"
+"description":"Unidad suicida voladora utilizada para atacar edificios enemigos. Se sacrifica junto con el enemigo con una explosión de alta intensidad.\n\n[blue][Unidad de combate especial de tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","tarred","甲板损坏"
 ],
@@ -27,7 +27,7 @@
 "healColor":"c0ecff"
 "shieldColor":"c0ecff"
 "weapons":[
-{"name":"无",
+{"name":"No",
 "reload":10,
 "x":0,"y":0,
 "rotate":false,

@@ -1,7 +1,7 @@
 {
 type:"legs"
 name:"重压"
-"description":"[orange]全位算体[white]实验级空军，由[slate]欧泽文[white]设计，它本该随历史埋没，如今在科研小组的努力下重新出现。\n装甲厚重，以四门多管重机炮作为主要攻击手段，对敌人进行火力压制。\n[orange][全位算体实验级部队]",
+"description":"[orange]Entidad Computacional Omnidireccional[white] Fuerza Aérea Experimental, diseñada por [slate]Ozwen[white]. Debería haberse perdido en la historia, pero ha resurgido gracias a los esfuerzos del equipo de investigación.\nCon un blindaje pesado y cuatro cañones automáticos pesados de múltiples cañones como principal medio de ataque, ejerce una gran presión de fuego sobre el enemigo.\n[orange][Unidad Experimental de Entidades Computacionales Omnidireccionales]",
 health:8250
 armor:22
 speed:0.6
@@ -72,7 +72,7 @@ immunities:[
 ]
 weapons:[
 {
-"name":"撼动机炮",
+"name":"Cañón sísmico",
 "shoot":{
 "type":"ShootAlternate"
 "barrels":3,
@@ -171,7 +171,7 @@ weapons:[
 }
 }
 {
-"name":"撼动机炮",
+"name":"Cañón sísmico",
 "shoot":{
 "type":"ShootAlternate"
 "barrels":3,
@@ -270,7 +270,7 @@ weapons:[
 }
 }
 {
-"name":"撼动机炮",
+"name":"Cañón sísmico",
 "shoot":{
 "type":"ShootAlternate"
 "barrels":3,
@@ -369,7 +369,7 @@ weapons:[
 }
 }
 {
-"name":"撼动机炮",
+"name":"Cañón sísmico",
 "shoot":{
 "type":"ShootAlternate"
 "barrels":3,

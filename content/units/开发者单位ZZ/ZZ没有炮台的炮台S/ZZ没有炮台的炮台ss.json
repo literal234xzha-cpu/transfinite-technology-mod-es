@@ -1,7 +1,7 @@
 {
 	"type": "flying",
-	"name": "没有炮台的炮台S(红温)",
-	"description": "奇点制作组的创始人，他的mod更新时间未知。",
+	"name": "Batería S sin cañones (temperatura roja)",
+	"description": "Fundador del equipo de desarrollo de Singularity. Se desconoce cuándo actualizará su mod.",
 	"hidden":true,
 	"speed": 2.4,	
 	"drag":0.05,"accel":0.1,
@@ -35,7 +35,7 @@
     "mineTier": 3
     "weapons": [
     {
-	"name": "无",	
+	"name": "No",	
     "shoot":{
 		"shots":3
 	    "shotDelay":90
@@ -56,7 +56,7 @@
              "speed": 0,
 	               	}}
 	{
-	"name": "无",	
+	"name": "No",	
     "shoot":{
 		"shots":3
 	    "shotDelay":90
@@ -77,7 +77,7 @@
              "speed": 0,
 	               	}}
 	{
-	"name": "无",	
+	"name": "No",	
     "shoot":{
 		"shots":3
 	    "shotDelay":90
@@ -98,7 +98,7 @@
              "speed": 0,
 	               	}}
 	{
-	"name": "无",	
+	"name": "No",	
     "shoot":{
 		"shots":3
 	    "shotDelay":90
@@ -118,7 +118,7 @@
              "spawnUnit": "ZZ没有炮台的炮台s6",
              "speed": 0,
 	               	}}
-	{	"name": "没有炮台的炮台s1",	
+	{	"name": "Batería de artillería sin cañones s1",	
 		"reload":21,
         "x": 24
          "y": 24
@@ -142,7 +142,7 @@
 	    "homingRange": 40,
             "homingPower": 0.1,
 	}	}
-	{	"name": "没有炮台的炮台s2",	
+	{	"name": "Batería de artillería sin cañones s2",	
 		"reload":99
         "x": -24
          "y": 24
@@ -168,7 +168,7 @@
 	    "homingRange": 40,
             "homingPower": 0.1,
 	}	}
-	{	"name": "没有炮台的炮台s5",	
+	{	"name": "Batería sin cañones s5",	
 	               	"shootCone":30,
 		"reload":61,
         "x": 24
@@ -204,7 +204,7 @@
             "homingPower": 0.1,
 	}
 	}
-	{	"name": "没有炮台的炮台s6",	
+	{	"name": "Batería sin cañones s6",	
 	               	"shootCone":30,
 		"reload":61,
         "x": -24

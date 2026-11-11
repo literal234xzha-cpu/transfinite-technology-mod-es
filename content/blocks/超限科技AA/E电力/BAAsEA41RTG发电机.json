@@ -1,7 +1,7 @@
 {
 "type":"ConsumeGenerator",//类型
-"name":"T-RTG衰变装置",//名字
-"description":"更加有效的将放射性衰变的能量进行转化,发电效率更高\n\n[blue][超限技术发电装置]",//简介
+"name":"Dispositivo de desintegración T-RTG",//名字
+"description":"Convierta la energía de la desintegración radiactiva de manera más eficiente y genere electricidad de manera más eficiente. [azul] [Dispositivo de generación de energía con tecnología de límite superior]",//简介
 "size":3,//大小
 "health":960,//生命
 "hasPower":true,//储存电量

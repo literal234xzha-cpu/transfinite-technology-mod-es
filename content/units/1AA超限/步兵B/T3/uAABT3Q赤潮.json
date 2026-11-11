@@ -1,7 +1,7 @@
 {
 	"type": "naval",
-	"name": "赤潮",
-	"description": "超限集团的航母，没有攻击能力，但是能发射无人机辅助战斗。[red]无人机重建较慢，无人机攻击状态不会移动。\n[blue][超限技术航母]",
+	"name": "Marea roja",
+	"description": "El portaaviones del Grupo Ultralímite no tiene capacidad de ataque, pero puede lanzar drones para ayudar en el combate. [red]Los drones tardan más en reconstruirse y no se mueven cuando están en estado de ataque.\n[blue][Portaaviones de tecnología ultralímite]",
 		"immunities": [
 "wet","spore-slowed","tarred","freezing","tarred"
 	],
@@ -30,7 +30,7 @@
         "range": 88
     }]
 	"weapons":[
-	{	"name": "赤潮",	
+	{	"name": "Marea roja",	
 		"reload":600
         "x": 0
          "y": 0

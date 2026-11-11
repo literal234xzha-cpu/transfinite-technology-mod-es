@@ -1,7 +1,7 @@
 {
     "type": "hover",
-    "name":"帝钳"
-    "description": "用于突击敌方建筑的悬浮单位，可以在水上移动，有一门强力的激光切割器来摧毁敌方的建筑，装甲相对其前两款机型更为厚重。\n\n[blue][超限技术特殊作战单元]",
+    "name":"Pinzas de emperador"
+    "description": "Unidad flotante utilizada para asaltar edificios enemigos. Puede moverse sobre el agua y cuenta con un potente cortador láser para destruir edificios enemigos. Su blindaje es más grueso que el de sus dos modelos anteriores.\n\n[blue][Unidad de combate especial de tecnología avanzada]",
     "immunities": [
 		"wet","spore-slowed","tarred","freezing","tarred"
 	],
@@ -95,7 +95,7 @@
 		]
     "weapons": [
 {
-			"name": "帝钳1",
+			"name": "Pinzas imperiales 1",
 			"reload":6,
 			"recoil": 0,
 			"x": 0,

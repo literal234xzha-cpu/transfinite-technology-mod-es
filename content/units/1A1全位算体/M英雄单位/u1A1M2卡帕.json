@@ -1,7 +1,7 @@
 {
 "type":"mech",
-"name":"卡帕",
-"description":"全位算体工业区管理员卡帕的专属机甲，高机动性且小巧，由于其对技术要求极高，极其难以量产。\n[orange][全位算体英雄单位-卡帕]",
+"name":"Kappa",
+"description":"El meca exclusivo de Kappa, el administrador de la Zona Industrial de Entidades Computacionales Omnidireccionales. Es muy ágil y compacto. Debido a sus altísimos requisitos técnicos, es extremadamente difícil de producir en masa.\n[orange][Unidad heroica de Entidades Computacionales Omnidireccionales - Kappa]",
 "speed":1.2,
 "hitSize":12,
 "canBoost":true,
@@ -41,7 +41,7 @@
 ]
 "weapons":[
 {
-"name":"卡帕1",
+"name":"Kappa 1",
 "reload":108
 "x":-6.4
 "y":1.3
@@ -82,7 +82,7 @@
 "lifetime":30,}
 }
 {
-"name":"卡帕3",
+"name":"Kappa 3",
 "reload":48,
 "recoil":0,
 "x":6.4,
@@ -139,7 +139,7 @@
 "homingDelay":1}
 }
 }
-{"name":"卡帕2",
+{"name":"Kappa 2",
 "type":"RepairBeamWeapon",
 "x":-3.4,"y":-1
 "rotateSpeed":3.2,
@@ -152,7 +152,7 @@
 }
 ]
 "researchCostMultiplier":0,
-"details":"卡帕，工业区0032管理员，同时是全位算体后勤部长，负责全位算体的资源调备。",
+"details":"Kappa, administrador de la Zona Industrial 0032 y, al mismo tiempo, director de logística de la Entidad Computacional Omnidireccional, responsable de la preparación de los recursos de la Entidad Computacional Omnidireccional.",
 "research":{
 "parent":"BA1sHA1英雄单位修复工厂"
 "objectives":[

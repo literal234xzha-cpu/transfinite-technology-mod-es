@@ -18,7 +18,7 @@
 "targetAir":true,
 "targetGround":true,
 "weapons":[
-{"name":"锤打",
+{"name":"Martilleo",
 "reload":66,
 "x":6,"y":0
 "rotate":false

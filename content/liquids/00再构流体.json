@@ -1,7 +1,7 @@
 {
-	"name": "再构流体",
+	"name": "Fluido reconstituido",
 	"type": "Liquid",
-	"description": "具有机械性的流体，可以通过人工控制",
+	"description": "Fluido con propiedades mecánicas, que puede ser controlado artificialmente",
 	"alwaysUnlocked":false,
 	"color": "97F0EC",
 	"flammability": 0,

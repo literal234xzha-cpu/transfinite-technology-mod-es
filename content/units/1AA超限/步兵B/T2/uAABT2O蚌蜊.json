@@ -1,7 +1,7 @@
 {
     "type": "hover",
-    "name":"寄居"
-    "description": "用于突击敌方建筑的悬浮单位，可以在水上移动，装备有一门飞轮炮以及两门速射光炮，装甲较为轻薄。\n\n[blue][超限技术特殊作战单元]",
+    "name":"Alojamiento temporal"
+    "description": "Unidad flotante utilizada para asaltar edificios enemigos. Puede moverse sobre el agua y está equipada con un cañón de volante y dos cañones láser de disparo rápido. Su blindaje es relativamente ligero y delgado.\n\n[blue][Unidad de combate especial de tecnología superada]",
     "immunities": [
 		"wet","spore-slowed","tarred","freezing","tarred"
 	],
@@ -64,7 +64,7 @@
 		}
 		]
     "weapons": [
-   {	"name": "无",	
+   {	"name": "No",	
 		"reload": 160
 		"x": 0,  "y": 0, 
 		"rotate": false,
@@ -98,7 +98,7 @@
 			"homingRange": 120,
             "homingPower": 0.1,
 	}}
-	{	"name": "蚌蜊1",	
+	{	"name": "Almejas 1",	
 		"reload": 20, 
 		"x": -9,  "y": -9, 
 		"rotate": false,

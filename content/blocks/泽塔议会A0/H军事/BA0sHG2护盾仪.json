@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"护盾仪",
-"description":"能够为周围的己方单位提供一定护盾，相对于小型护盾的回复量更大。\n\n\n\n\n护盾上限:[yellow]9000\n\n[red][泽塔议会特殊军用装置]",
+"name":"Escudo",
+"description":"Puede proporcionar un cierto escudo para las propias unidades circundantes, que es mayor que el escudo pequeño. \ N \ n \ n \ n \ n \ n Techo del escudo:[yellow]9000 \ n \ n \ n [rojo] [Dispositivo militar especial del Consejo de Zeta]",
 "underBullets":true
 "health":1080,
 "size":3,

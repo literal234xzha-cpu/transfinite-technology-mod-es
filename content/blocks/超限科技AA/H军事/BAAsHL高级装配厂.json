@@ -1,7 +1,7 @@
 {
 "type":"UnitAssemblerModule",
-"name":"高级装配厂",
-"description":"提高装配等级，建造更高级的单位。\n\n[blue][超限集团装配模块]",
+"name":"Planta de montaje avanzada",
+"description":"Aumenta el nivel de la factoría para construir unidades de mayor nivel. \n\n[Módulo de ensamblaje del Grupo Superlímite]",
 "health":3280,
 "size":3,
 "tier":2

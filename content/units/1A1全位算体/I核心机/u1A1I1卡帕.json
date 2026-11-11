@@ -1,7 +1,7 @@
 {
 "type": "flying",
-"name": "卡帕",
-"description": "全位算体所研发的核心的防卫飞行器，无法锁定为攻击目标，能够以较快的速度建造，同时开采一些矿物，佣有一门修复炮修复友方建筑。\n[orange][全位算体核心机]",
+"name": "Kappa",
+"description": "La aeronave defensiva central desarrollada por la Entidad Computacional Omnidireccional no puede ser seleccionada como objetivo de ataque, se puede construir a un ritmo más rápido, puede extraer algunos minerales y cuenta con un cañón de reparación para reparar las estructuras aliadas.\n[naranja][Máquina Central de la Entidad Computacional Omnidireccional]",
 "targetPriority": -2,
 "lowAltitude": false,
 "mineWalls": false,

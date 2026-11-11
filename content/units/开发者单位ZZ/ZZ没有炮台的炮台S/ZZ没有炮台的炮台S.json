@@ -1,7 +1,7 @@
 {
 	"type": "flying",
-	"name": "没有炮台的炮台S",
-	"description": "奇点制作组的创始人，他的mod更新时间未知。",
+	"name": "Batería S sin cañones",
+	"description": "Fundador del equipo de desarrollo de Singularity. Se desconoce cuándo actualizará su mod.",
 	"speed": 2.4,	
 	"drag":0.05,"accel":0.1,
 	"rotateSpeed":10,

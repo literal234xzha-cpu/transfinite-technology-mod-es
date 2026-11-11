@@ -1,7 +1,7 @@
 {
 "type":"ItemTurret",
-"name":"浪潮",
-"description":"由退散改装而来，极为强大的击退能力，如同海浪一般的子弹会将敌人拒之门外。\n\n[blue][超限技术炮台]",
+"name":"Olas",
+"description":"Modificado a partir de la retirada, la capacidad de repeler extremadamente poderosa, como una ola de balas, excluirá al enemigo. \n\n[azul][Batería de tecnología de superlímite]",
 "health":3500,
 "size":4,
 "reload":4

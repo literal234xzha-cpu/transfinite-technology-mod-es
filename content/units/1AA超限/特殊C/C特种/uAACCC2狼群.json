@@ -1,7 +1,7 @@
 {
 "type":"naval",
-"name":"狼群X",
-"description":"超限集团的水下特殊单位，能够悄无声息的摧毁敌方舰船。\n\n[red]此单位不会在小地图上显示！！！\n\n[blue][超限技术特种单位]\n\n[贴图by为反复试听]",
+"name":"Manada de lobos X",
+"description":"Unidad especial submarina del Grupo Ultralímite, capaz de destruir silenciosamente los barcos enemigos.\n\n[red]¡¡¡Esta unidad no aparecerá en el minimapa!!!\n\n[blue][Unidad Especial de Tecnología Ultralímite]\n\n[Textura por Weifufushiting]",
 "immunities":[
 "wet","spore-slowed","tarred","freezing","tarred","甲板损坏"
 ],
@@ -26,7 +26,7 @@
 "drawMinimap":false
 "weapons":[
 {
-"name":"狼群1",
+"name":"Manada de lobos 1",
 "reload":96
 "x":0
 "y":0
@@ -111,7 +111,7 @@
 "speed":0,
 }}
 {
-"name":"无",
+"name":"No",
 "mirror":true,
 "reload":60,
 "x":8,

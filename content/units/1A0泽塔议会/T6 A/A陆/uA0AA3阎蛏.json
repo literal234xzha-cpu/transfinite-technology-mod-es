@@ -1,7 +1,7 @@
 {
 "type":"legs",
-"name":"阎蛏"
-"description":"给敌人施加大量负面buff，靠近敌人时能使用两边的镰刀对其进行斩杀。\n[red][泽塔议会永恒级单位]",
+"name":"Almeja de lodo"
+"description":"Inflige una gran cantidad de efectos negativos al enemigo. Cuando te acerques al enemigo, puedes usar las guadañas de ambos lados para ejecutarlo.\n[red][Unidad Eterna del Consejo Zetta]",
 "speed":0.5,
 "hitSize":42,
 "health":120600,
@@ -32,7 +32,7 @@
 "rotateSpeed":0.5,
 "weapons":[
 {
-"name":"阎蛏2",
+"name":"Almeja de lodo 2",
 "mirror":true,
 "top":true,
 "shake":4,
@@ -301,7 +301,7 @@
 }
 }
 {
-"name":"阎蛏1",
+"name":"Almeja de lodo 1",
 "reload":120,
 "x":0,
 "y":-20,
@@ -334,7 +334,7 @@
 }
 }
 {
-"name":"阎蛏3",
+"name":"Almeja de Saznami 3",
 "reload":1200,
 "x":0,
 "y":0,

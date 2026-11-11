@@ -1,8 +1,8 @@
 {
 "type":"GenericCrafter",
-"name":"专业硫化物合成机",
+"name":"Máquina de síntesis de sulfuro profesional",
 "health":1040,
-"description":"专业加工硫，能高速生产硫，同时你需要更大的供应量保证其正常生产",
+"description":"Procesamiento profesional de azufre, puede producir azufre a alta velocidad, y necesita un mayor suministro para garantizar su producción normal",
 "outputItem":{"item":"pyratite","amount":5},
 "alwaysUnlocked":false,
 "size":3,

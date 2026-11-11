@@ -1,6 +1,6 @@
 {
-	"name": "共振石",
-	"description": "意外中发现的奇特矿石，是超限集团一些尖端设备的重要原材料，其属性存在巨大未知，目前已知的是通过不同的振幅可以使其充当不同的催化剂来改变物质的性质",
+	"name": "Piedra de resonancia",
+	"description": "Mineral extraño descubierto por accidente, es una materia prima importante para algunos equipos avanzados del Grupo Ultramás, sus propiedades tienen grandes desconocidos, actualmente se sabe que a través de diferentes amplitudes puede actuar como diferentes catalizadores para cambiar las propiedades de la materia.",
 	//"details":" ",
 	"cost":2,
 	"alwaysUnlocked":false,

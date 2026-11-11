@@ -1,11 +1,11 @@
 {
 "type":"Reconstructor",
-"name":"永恒级增工厂",
-"description":"升级无量级单位为永恒级单位，这将会大提高单位各方面的属性，达到一个较为巅峰的水准，但是升级过程耗资巨大，而且时间极长，请务必保护好你的工厂。\n[red][泽塔议会军工厂]",
+"name":"Fábrica de aumento de nivel eterno",
+"description":"Mejora las unidades de nivel ilimitado a unidades de nivel eterno; esto aumentará considerablemente todas sus estadísticas, alcanzando un nivel casi máximo. Sin embargo, el proceso de mejora requiere una inversión enorme y consume mucho tiempo, así que asegúrate de proteger bien tu fábrica. \n[rojo][Fábrica de armas del Parlamento Zeta]",
 "size":11,
 "constructTime":25200,
 "health":15000,
-//"details":"传承不止\n生生不息\n至始至终\n皆为永恒",
+//"details":"La herencia no es solo \ nVida interminable \ nDe principio a fin \ nTodos son eternos",
 "liquidCapacity":20000,
 "consumes":{
 "power":42,

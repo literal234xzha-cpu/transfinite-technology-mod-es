@@ -1,6 +1,6 @@
 {
-"name":"质量加速锚点",
-"description":"实行长距离能量打击，需要另外一个锚点与之相连，用于定位。\n[伤害:850/发]\n\n[blue][超限技术特殊发射器]",
+"name":"Anclaje de aceleración de masa",
+"description":"La implementación de golpes de energía de larga distancia requiere otro punto de anclaje conectado a él para el posicionamiento. \ N [Daño: 850/pelo] \ n \ n [azul] [Transmisor especial de tecnología de límite superior]",
 "type":"MassDriver",
 "size":5,
 "hasItems":true,

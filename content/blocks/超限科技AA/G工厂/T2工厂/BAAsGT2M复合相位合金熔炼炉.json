@@ -1,7 +1,7 @@
 {
-"name":"复合相位合金熔炼炉",
+"name":"Horno de fusión de aleación de fase compuesta",
 "type":"GenericCrafter",
-"description":"用于加工巨浪合金，产量更多，速度更快。\n\n[blue][超限技术高级工厂]",
+"description":"Utilizado para procesar la aleación de ondas gigantes, el rendimiento es mayor y la velocidad es más rápida. \ N \ n [azul] [Fábrica avanzada de tecnología de límite superior]",
 "itemCapacity":80,
 "health":400,
 "size":3,

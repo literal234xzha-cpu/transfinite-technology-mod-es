@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": "火箭弹",
+	"name": "Cohete",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 180,
 	"armor": 6,
 	"speed": 3

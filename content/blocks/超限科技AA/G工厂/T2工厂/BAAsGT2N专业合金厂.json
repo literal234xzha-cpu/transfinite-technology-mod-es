@@ -1,8 +1,8 @@
 {
 "type":"GenericCrafter",
-"name":"专业基础合金厂",
+"name":"Fábrica de aleación básica profesional",
 "health":1040,
-"description":"专业生产基础合金，有更大产量同时需要更大的供应量以支持其正常生产\n\n[blue][超限技术中级工厂]",
+"description":"Especializada en la producción de aleaciones básicas, hay una mayor producción y se necesita un mayor suministro para respaldar su producción normal \ n \ n [azul] [fábrica intermedia de tecnología de límite superior]",
 "outputItem":{"item":"0铜铅合金","amount":9},
 "craftEffect":"smoke",
 "alwaysUnlocked":false,

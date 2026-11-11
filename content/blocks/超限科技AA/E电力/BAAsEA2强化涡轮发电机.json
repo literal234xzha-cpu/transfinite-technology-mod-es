@@ -1,7 +1,7 @@
 {
 "type":"ConsumeGenerator",
-"name":"强化涡轮发电机",
-"description":"一个强化涡轮发电机，发电效率大大增加，但需要更多可燃物\n\n[blue][超限技术发电装置]",
+"name":"Generadores de turbina reforzados",
+"description":"Un generador de turbina mejorado, la eficiencia de generación de energía aumenta considerablemente, pero necesita más combustible \ n \ n [azul] [Dispositivo de generación de energía con tecnología de límite superior]",
 "size":3,
 "health":360,
 "hasPower":true,

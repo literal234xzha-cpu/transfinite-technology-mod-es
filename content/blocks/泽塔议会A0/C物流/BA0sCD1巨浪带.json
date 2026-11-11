@@ -1,7 +1,7 @@
 {
 "type":"Conveyor",
-"name":"合金传送带",
-"description":"利用巨浪合金产生巨大的磁场,传输物品速度极高，但是在被摧毁后可能会导致你的产线崩溃。\n[red][泽塔议会运输装置]",
+"name":"Cinta transportadora de aleación",
+"description":"El uso de la aleación de onda gigante para generar un enorme campo magnético, la velocidad de transmisión de elementos es extremadamente alta, pero puede hacer que su línea de producción se bloquee después de ser destruida. \ N [red][Zeta Asamblea dispositivo de transporte]",
 "health":150,
 "baseExplosiveness":5,
 "hasShadow":true,

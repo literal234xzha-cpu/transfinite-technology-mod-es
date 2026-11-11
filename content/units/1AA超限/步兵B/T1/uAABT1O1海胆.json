@@ -1,7 +1,7 @@
 {
 "type":"hover",
-"name":"鱿鱼"
-"description":"支援型悬浮单位，可以在水上移动，能够释放弱化装甲的能量球。\n\n[blue][超限技术特殊作战单元]",
+"name":"Calamar de potera"
+"description":"Unidad flotante de apoyo que puede moverse sobre el agua y lanzar esferas de energía que debilitan las armaduras.\n\n[blue][Unidad de combate especial de tecnología ultralimitada]",
 "immunities":[
 "wet","spore-slowed","tarred"
 ],
@@ -69,7 +69,7 @@
 },
 ]
 "weapons":[
-{"name":"无",
+{"name":"No",
 "reload":6
 "x":0,"y":0,
 "rotate":false,

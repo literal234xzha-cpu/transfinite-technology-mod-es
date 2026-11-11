@@ -1,7 +1,7 @@
 {
 "type":"naval",
-"name":"海胆",
-"description":"轻型战舰，前方有一门主炮，后方附带高射速的机枪攻击，对空对地，机枪对建筑和空军有伤害加成。\n[blue][超限技术轻型海军]",
+"name":"Erizo de mar",
+"description":"Buque de guerra ligero con un cañón principal en la proa y ametralladoras de alta cadencia de fuego en la popa, capaz de atacar tanto a objetivos aéreos como terrestres. Las ametralladoras infligen daño adicional a edificios y unidades aéreas.\n[blue][Buque de guerra ligero con tecnología avanzada]",
 "immunities":[
 "wet","spore-slowed","tarred","甲板损坏"
 ],
@@ -24,7 +24,7 @@
 //"maxRange":400,
 "weapons":[
 {
-"name":"田螺1",
+"name":"Caracol de arrozal 1",
 "top":true,
 "y":4,
 "x":0,
@@ -53,7 +53,7 @@
 "splashDamage":40
 }
 },
-{"name":"机枪1",
+{"name":"Ametralladora 1",
 "shoot":{
 "type":"ShootAlternate",
 "barrels":3,

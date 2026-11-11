@@ -1,10 +1,10 @@
 {
 		"immunities": [
 	],
-	"name": " '天火'燃烧导弹",
+	"name": "Misil incendiario «Fuego Celestial»",
 	"type": "missile",
 	"template": "MissileUnitType",
-	"description": "导弹",
+	"description": "Proyectiles dirigidos",
 	"health": 6968
 	"armor": 33
 	"speed": 2

@@ -1,8 +1,8 @@
 {
-    "name":"复位修复器"
+    "name":"Reparador"
 	"type":"MendProjector",
-	"description":"对较大范围内的建筑进行修复，它的修复效率极高，但是需要消耗电量，可以通过消耗一定资源对其进行加强。\n[red][泽塔议会修复器]",
-	"details":"那所以你还修不上来吗",
+	"description":"La restauración de edificios en un área grande es extremadamente eficiente, pero necesita consumir electricidad y puede fortalecerse consumiendo ciertos recursos. \n[rojo][Reparador del Consejo Zeta]",
+	"details":"Entonces, ¿no puedes arreglarlo?",
 	"health":800,
 	"size":4,
 	"range":180,

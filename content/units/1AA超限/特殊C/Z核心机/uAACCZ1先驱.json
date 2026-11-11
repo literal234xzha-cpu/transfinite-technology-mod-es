@@ -1,7 +1,7 @@
 {
 	"type": "flying",
-	"name":"西",
-	"description": "先锋核心的眼睛,自身没有攻击力\n \n[blue][超限集团核心机]",
+	"name":"Oeste",
+	"description": "El ojo del núcleo de Vanguardia no tiene poder de ataque por sí mismo.\n \n[blue][Máquina central del Grupo Superlímite]",
 	"speed": 5.8,
 	"immunities": [
 "甲板损坏"

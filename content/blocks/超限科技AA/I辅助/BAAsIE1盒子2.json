@@ -1,5 +1,5 @@
 {
-"description":"在突破资源壁垒之后，超限集团研究出的大型的储存器，可以使用卸载器取出物品，容量巨大。\n\n[超限集团储存单元]",
+"description":"Después de romper las barreras de los recursos, el almacenamiento a gran escala desarrollado por el grupo de exceso de límite puede usar el descargador para extraer artículos, y la capacidad es enorme. \ N \ n [Unidad de almacenamiento de grupo por encima del límite]",
 "requirements":[
 {"amount":300,"item":"titanium"}
 {"amount":200,"item":"thorium"}
@@ -7,7 +7,7 @@
 {"item":"0铜铅合金","amount":100}
 ],
 "type":"StorageBlock",
-"name":"仓储笼",
+"name":"Jaula de almacenamiento",
 "size":4,
 "itemCapacity":4000,
 /*"research":{

@@ -1,7 +1,7 @@
 {
-"name":"大型抽水机",
+"name":"Bombadora grande",
 "type":"SolidPump",
-"description":"用巨大动力抽出地下的水，费电，但是量大。\n\n[blue][超限技术提取器]",
+"description":"Usar una gran potencia para bombear agua subterránea cuesta electricidad, pero la cantidad es grande. \ N \ n[blue][extractor de tecnología de límite superior]",
 "health":500,
 "size":3,
 "hasPower":true,

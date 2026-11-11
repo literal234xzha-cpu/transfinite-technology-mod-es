@@ -1,6 +1,6 @@
 {
-"name":"算力分配站",
-"description":"由阿尔法研发，用于分配核心预算力，以支持更多单位控制，极其脆弱，注意保护。\n[red][泽塔议会特殊建筑]",
+"name":"Estación de distribución de potencia de cálculo",
+"description":"Desarrollado por Alpha, se utiliza para asignar la fuerza del presupuesto central para apoyar más unidades de control, extremadamente frágil, prestar atención a la protección. \ N [rojo] [Edificio especial del Parlamento de Zeta]",
 "type":"Wall",
 "health":120,
 "armor":0,

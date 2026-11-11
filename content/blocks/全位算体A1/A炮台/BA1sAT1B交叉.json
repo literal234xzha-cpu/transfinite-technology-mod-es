@@ -1,7 +1,7 @@
 {
 "type":"PowerTurret",
-"name":"交叉",
-"description":"对空高频高射机枪，强大坚固难以破坏，弹药自给自足。\n\n[orange][全位算体要塞炮]",
+"name":"Cruce",
+"description":"La ametralladora antiaérea de alta frecuencia es fuerte y difícil de destruir, y la munición es autosuficiente. \n\n[orange][Cañón de la Fortaleza del Cálculo de Posición Completa]",
 "targetAir":true,
 "targetGround":false,
 "health":320,

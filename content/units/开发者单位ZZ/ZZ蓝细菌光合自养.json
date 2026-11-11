@@ -1,11 +1,10 @@
 {
 	"type": "flying",
-	"name": "超  级  细  菌",
-	"description": "奇点制作组中重要的建议提供者(新单位，新物品，平衡性方面),同时是地表最强的细菌(雾
+	"name": "Superbacterias",
+	"description": "Importante asesor del equipo de desarrollo de Singularity (nuevas unidades, nuevos objetos, aspectos de equilibrio), y también la bacteria más fuerte del planeta (broma).
 	
 	
-	[blue]每隔10秒分裂一次,可以自爆
-	",
+	[blue]Se divide cada 10 segundos y puede autodetonarse.",
 	"hidden":true,
 		"abilities": [
 	{
@@ -37,7 +36,7 @@
 	"engineOffset": 6,
 	"engineSize": 5,
 		"weapons":[
-	{	"name": "无",	
+	{	"name": "No",	
 		"reload": 1
 		"x": 0,  "y": 0, 
 		"rotate": false,
@@ -91,7 +90,7 @@
 			"colorTo": "ffffff"}]},
 		"width":0,	 "height":0
 	   }	}
-	   {	"name": "无",	
+	   {	"name": "No",	
 		"reload": 10, 
 		"x": 0,  "y": 0, 
 		"rotate": false,

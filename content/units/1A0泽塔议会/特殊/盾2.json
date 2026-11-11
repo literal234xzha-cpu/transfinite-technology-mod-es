@@ -1,7 +1,7 @@
 {
 "type":"missile",
 "template":"MissileUnitType",
-"name":"护盾核心"
+"name":"Núcleo del escudo"
 "description":"",
 "immunities":[
 "wet","spore-slowed","tarred"

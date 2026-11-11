@@ -1,8 +1,8 @@
 {
     "type": "payload",
-    "name":"框架"
+    "name":"marco"
     "payloadCapacity": 1844
-    "description": "能够通过强大的磁力将地面的单位吸附上来，运载比自身体积还大的单位，同时拥有较快的移动速度，但没有攻击力。\n\n[blue][超限技术特种作战单元]",
+    "description": "Puede atraer unidades terrestres con su potente fuerza magnética y transportar unidades más grandes que su propio tamaño, además de tener una velocidad de movimiento rápida, pero carece de poder de ataque.\n\n[blue][Unidad de Operaciones Especiales de Tecnología Extrema]",
     "immunities": [
 		"wet","spore-slowed","tarred","甲板损坏"
 	],
@@ -91,7 +91,7 @@
 		]
     "weapons": [
    {
-		    "name": "框架"
+		    "name": "marco"
 			"x": 0
 			"y": 0
 			"reload": 180

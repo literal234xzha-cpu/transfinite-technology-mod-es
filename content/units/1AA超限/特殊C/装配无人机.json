@@ -1,6 +1,6 @@
 {
     "type":"tether",
-	"name": "组装无人机",
+	"name": "Montaje de drones",
 	"speed": 1.15, 
 	"drag":0.06,"accel":0.09,
 	"rotateSpeed":2.5,
